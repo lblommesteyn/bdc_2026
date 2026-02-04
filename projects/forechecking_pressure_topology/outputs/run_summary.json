@@ -1,0 +1,21 @@
+{
+  "config": {
+    "raw_data_dir": "data/raw",
+    "output_dir": "projects/forechecking_pressure_topology/outputs",
+    "max_games": null,
+    "max_episode_seconds": 25.0,
+    "frame_stride": 20,
+    "n_clusters": 4
+  },
+  "games_processed": 10,
+  "episodes_rows": 2086,
+  "frame_metric_rows": 14921,
+  "feature_rows": 2086,
+  "outputs": {
+    "episodes": "projects\\forechecking_pressure_topology\\outputs\\forecheck_episodes.csv",
+    "frame_metrics": "projects\\forechecking_pressure_topology\\outputs\\forecheck_frame_metrics.csv",
+    "episode_features": "projects\\forechecking_pressure_topology\\outputs\\forecheck_episode_features.csv",
+    "cluster_dir": "projects\\forechecking_pressure_topology\\outputs\\clustering",
+    "model_dir": "projects\\forechecking_pressure_topology\\outputs\\modeling"
+  }
+}

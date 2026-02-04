@@ -1,0 +1,9 @@
+{
+  "raw_data_dir": "data/raw",
+  "output_dir": "projects/off_puck_space_creation_value/outputs",
+  "max_games": null,
+  "max_possession_seconds": 30.0,
+  "frame_stride": 20,
+  "n_archetypes": 5
+}
+

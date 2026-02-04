@@ -1,0 +1,9 @@
+{
+  "raw_data_dir": "data/raw",
+  "output_dir": "projects/forechecking_pressure_topology/outputs",
+  "max_games": null,
+  "max_episode_seconds": 25.0,
+  "frame_stride": 15,
+  "n_clusters": 4
+}
+

@@ -1,0 +1,1861 @@
+Date,Home_Team,Away_Team,Period,Clock,Home_Team_Skaters,Away_Team_Skaters,Home_Team_Goals,Away_Team_Goals,Team,Player_Id,Event,X_Coordinate,Y_Coordinate,Detail_1,Detail_2,Detail_3,Detail_4,Player_Id_2,X_Coordinate_2,Y_Coordinate_2
+2025-11-02,Team A,Team D,1,20:00,5,5,0,0,Team D,77,Faceoff Win,0.0,0.5,Backhand,,0,0,88,,
+2025-11-02,Team A,Team D,1,19:59,5,5,0,0,Team D,52,Puck Recovery,-12.0,-11.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,19:58,5,5,0,0,Team D,52,Zone Entry,25.0,-38.5,Dumped,,0,0,48,,
+2025-11-02,Team A,Team D,1,19:58,5,5,0,0,Team D,52,Dump In/Out,3.0,-26.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,19:55,5,5,0,0,Team A,9,Puck Recovery,57.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,19:55,5,5,0,0,Team A,9,Play,57.0,38.5,Indirect,,0,0,45,82.0,34.5
+2025-11-02,Team A,Team D,1,19:54,5,5,0,0,Team A,45,Play,82.0,34.5,Indirect,,0,0,48,93.0,-20.5
+2025-11-02,Team A,Team D,1,19:52,5,5,0,0,Team A,48,Incomplete Play,89.0,-29.5,Indirect,,0,0,92,54.0,-32.5
+2025-11-02,Team A,Team D,1,19:51,5,5,0,0,Team D,52,Takeaway,66.0,-39.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,19:50,5,5,0,0,Team D,52,Incomplete Play,77.0,-37.5,Indirect,,0,0,8,94.0,-16.5
+2025-11-02,Team A,Team D,1,19:48,5,5,0,0,Team A,48,Puck Recovery,68.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,19:43,5,5,0,0,Team A,48,Play,86.0,-31.5,Direct,,0,0,45,98.0,6.5
+2025-11-02,Team A,Team D,1,19:43,5,5,0,0,Team A,48,Puck Recovery,86.0,-31.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,19:41,5,5,0,0,Team A,45,Incomplete Play,81.0,22.5,Direct,,0,0,48,48.0,-31.5
+2025-11-02,Team A,Team D,1,19:37,5,5,0,0,Team D,8,Puck Recovery,20.0,-37.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,19:37,5,5,0,0,Team D,8,Dump In/Out,20.0,-37.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,19:34,5,5,0,0,Team A,45,Puck Recovery,95.0,22.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,19:30,5,5,0,0,Team A,45,Play,61.0,10.5,Direct,,0,0,88,41.0,35.5
+2025-11-02,Team A,Team D,1,19:25,5,5,0,0,Team A,39,Faceoff Win,20.0,22.5,Forehand,,0,0,12,,
+2025-11-02,Team A,Team D,1,19:23,5,5,0,0,Team A,29,Puck Recovery,14.0,24.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,19:22,5,5,0,0,Team A,29,Play,22.0,17.5,Direct,,0,0,72,47.0,0.5
+2025-11-02,Team A,Team D,1,19:19,5,5,0,0,Team A,72,Play,42.0,-34.5,Direct,,0,0,46,-7.0,-31.5
+2025-11-02,Team A,Team D,1,19:18,5,5,0,0,Team A,46,Zone Entry,-25.0,-35.5,Dumped,,0,0,51,,
+2025-11-02,Team A,Team D,1,19:18,5,5,0,0,Team A,46,Dump In/Out,-7.0,-31.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,19:15,5,5,0,0,Team D,84,Puck Recovery,-94.0,-8.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,19:15,5,5,0,0,Team D,84,Play,-94.0,-8.5,Indirect,,0,0,12,-56.0,37.5
+2025-11-02,Team A,Team D,1,19:14,5,5,0,0,Team D,12,Incomplete Play,-56.0,37.5,Direct,,0,0,36,-42.0,19.5
+2025-11-02,Team A,Team D,1,19:12,5,5,0,0,Team D,51,Puck Recovery,-63.0,13.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,19:09,5,5,0,0,Team D,51,Incomplete Play,-45.0,38.5,Indirect,,0,0,36,13.0,34.5
+2025-11-02,Team A,Team D,1,19:05,5,5,0,0,Team A,72,Play,86.0,32.5,Indirect,,0,0,39,57.0,-35.5
+2025-11-02,Team A,Team D,1,19:05,5,5,0,0,Team A,72,Puck Recovery,86.0,32.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,19:00,5,5,0,0,Team D,51,Puck Recovery,10.0,-35.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,19:00,5,5,0,0,Team D,51,Play,10.0,-35.5,Direct,,0,0,36,15.0,-4.5
+2025-11-02,Team A,Team D,1,18:58,5,5,0,0,Team D,36,Zone Entry,24.0,29.5,Carried,,0,0,72,,
+2025-11-02,Team A,Team D,1,18:55,5,5,0,0,Team A,39,Puck Recovery,82.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,18:54,5,5,0,0,Team A,39,Play,91.0,28.5,Indirect,,0,0,48,95.0,-8.5
+2025-11-02,Team A,Team D,1,18:52,5,5,0,0,Team A,48,Incomplete Play,93.0,-17.5,Direct,,0,0,46,72.0,-23.5
+2025-11-02,Team A,Team D,1,18:50,5,5,0,0,Team D,84,Incomplete Play,26.0,-36.5,Indirect,,0,0,12,54.0,-36.5
+2025-11-02,Team A,Team D,1,18:50,5,5,0,0,Team D,84,Puck Recovery,26.0,-36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,18:47,5,5,0,0,Team A,48,Puck Recovery,54.0,-36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,18:46,5,5,0,0,Team A,48,Incomplete Play,54.0,-36.5,Direct,,0,0,46,47.0,-35.5
+2025-11-02,Team A,Team D,1,18:44,5,5,0,0,Team D,51,Puck Recovery,0.0,-33.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,18:43,5,5,0,0,Team D,51,Play,-7.0,-21.5,Direct,,0,0,84,-5.0,34.5
+2025-11-02,Team A,Team D,1,18:42,5,5,0,0,Team D,84,Dump In/Out,-1.0,38.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,18:39,5,5,0,0,Team A,Go,Puck Recovery,97.0,-1.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,18:38,5,5,0,0,Team A,Go,Play,97.0,-1.5,Indirect,,0,0,72,97.0,-1.5
+2025-11-02,Team A,Team D,1,18:26,5,5,0,0,Team A,72,Incomplete Play,33.0,-7.5,Direct,,0,0,73,13.0,8.5
+2025-11-02,Team A,Team D,1,18:24,5,5,0,0,Team A,14,Zone Entry,-30.0,-40.5,Carried,,0,0,74,,
+2025-11-02,Team A,Team D,1,18:24,5,5,0,0,Team A,14,Puck Recovery,-30.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,18:24,5,5,0,0,Team A,14,Dump In/Out,-30.0,-40.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,18:21,5,5,0,0,Team D,74,Puck Recovery,-81.0,-35.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,18:14,5,5,0,0,Team A,89,Puck Recovery,-96.0,-15.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,18:11,5,5,0,0,Team D,28,Puck Recovery,-98.0,-9.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,18:10,5,5,0,0,Team D,28,Play,-94.0,10.5,Direct,,0,0,46,-74.0,8.5
+2025-11-02,Team A,Team D,1,18:06,5,5,0,0,Team D,46,Zone Entry,24.0,-24.5,Carried,,0,0,3,,
+2025-11-02,Team A,Team D,1,18:04,5,5,0,0,Team D,46,Shot,85.0,-22.5,Wristshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,1,18:02,5,5,0,0,Team D,63,Puck Recovery,82.0,20.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,18:01,5,5,0,0,Team D,63,Play,73.0,36.5,Indirect,,0,0,78,31.0,36.5
+2025-11-02,Team A,Team D,1,17:55,5,5,0,0,Team D,Go,Play,-82.0,30.5,Direct,,0,0,74,-31.0,-17.5
+2025-11-02,Team A,Team D,1,17:55,5,5,0,0,Team D,Go,Puck Recovery,-82.0,30.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,17:53,5,5,0,0,Team D,74,Incomplete Play,-25.0,-34.5,Direct,,0,0,63,12.0,-38.5
+2025-11-02,Team A,Team D,1,17:50,5,5,0,0,Team A,17,Puck Recovery,20.0,-36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,17:49,5,5,0,0,Team A,17,Play,45.0,-30.5,Direct,,0,0,56,65.0,-24.5
+2025-11-02,Team A,Team D,1,17:47,5,5,0,0,Team A,56,Play,80.0,-17.5,Direct,,0,0,3,25.0,-39.5
+2025-11-02,Team A,Team D,1,17:44,5,5,0,0,Team A,3,Zone Entry,-25.0,-39.5,Dumped,,0,0,74,,
+2025-11-02,Team A,Team D,1,17:44,5,5,0,0,Team A,3,Dump In/Out,-4.0,-36.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,1,17:40,5,5,0,0,Team A,17,Puck Recovery,-57.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,17:39,5,5,0,0,Team A,17,Play,-57.0,38.5,Indirect,,0,0,21,-73.0,40.5
+2025-11-02,Team A,Team D,1,17:37,5,5,0,0,Team A,21,Play,-73.0,40.5,Indirect,,0,0,71,-96.0,5.5
+2025-11-02,Team A,Team D,1,17:33,5,5,0,0,Team A,71,Incomplete Play,-93.0,28.5,Indirect,,0,0,21,-98.0,0.5
+2025-11-02,Team A,Team D,1,17:32,5,5,0,0,Team D,52,Play,-96.0,14.5,Indirect,,0,0,25,-82.0,36.5
+2025-11-02,Team A,Team D,1,17:32,5,5,0,0,Team D,52,Takeaway,-96.0,14.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,17:29,5,5,0,0,Team A,21,Puck Recovery,-82.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,17:29,5,5,0,0,Team A,21,Incomplete Play,-82.0,36.5,Indirect,,0,0,17,-53.0,23.5
+2025-11-02,Team A,Team D,1,17:28,5,5,0,0,Team D,37,Puck Recovery,-36.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,17:27,5,5,0,0,Team D,37,Play,-29.0,33.5,Direct,,0,0,59,-26.0,1.5
+2025-11-02,Team A,Team D,1,17:24,5,5,0,0,Team D,59,Dump In/Out,0.0,-23.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,17:23,5,5,0,0,Team A,56,Puck Recovery,6.0,-36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,17:23,5,5,0,0,Team A,56,Incomplete Play,6.0,-36.5,Indirect,,0,0,71,-10.0,-26.5
+2025-11-02,Team A,Team D,1,17:21,5,5,0,0,Team D,52,Play,-36.0,-31.5,Direct,,0,0,88,-50.0,13.5
+2025-11-02,Team A,Team D,1,17:21,5,5,0,0,Team D,52,Puck Recovery,-36.0,-31.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,17:19,5,5,0,0,Team D,88,Play,-62.0,15.5,Direct,,0,0,52,-58.0,-22.5
+2025-11-02,Team A,Team D,1,17:17,5,5,0,0,Team D,52,Play,-41.0,-7.5,Direct,,0,0,37,24.0,14.5
+2025-11-02,Team A,Team D,1,17:16,5,5,0,0,Team D,37,Dump In/Out,24.0,14.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,17:16,5,5,0,0,Team D,37,Zone Entry,24.0,14.5,Dumped,,0,0,45,,
+2025-11-02,Team A,Team D,1,17:14,5,5,0,0,Team D,77,Faceoff Win,69.0,-21.5,Backhand,,0,0,88,,
+2025-11-02,Team A,Team D,1,17:13,5,5,0,0,Team D,8,Play,65.0,-32.5,Direct,,0,0,52,35.0,-29.5
+2025-11-02,Team A,Team D,1,17:13,5,5,0,0,Team D,8,Puck Recovery,65.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,17:11,5,5,0,0,Team D,52,Play,27.0,-26.5,Indirect,,0,0,75,95.0,-16.5
+2025-11-02,Team A,Team D,1,17:07,5,5,0,0,Team D,75,Play,78.0,-37.5,Direct,,0,0,52,32.0,-26.5
+2025-11-02,Team A,Team D,1,17:06,5,5,0,0,Team D,52,Shot,32.0,-26.5,Snapshot,Blocked,1,1,,,
+2025-11-02,Team A,Team D,1,17:02,5,5,0,0,Team A,9,Puck Recovery,87.0,21.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,17:02,5,5,0,0,Team A,9,Play,87.0,21.5,Indirect,,0,0,45,89.0,-10.5
+2025-11-02,Team A,Team D,1,17:00,5,5,0,0,Team A,45,Incomplete Play,82.0,-30.5,Direct,,0,0,71,25.0,-37.5
+2025-11-02,Team A,Team D,1,16:55,5,5,0,0,Team D,12,Faceoff Win,69.0,22.5,Backhand,,0,0,88,,
+2025-11-02,Team A,Team D,1,16:55,5,5,0,0,Team D,88,Puck Recovery,-96.0,-8.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,16:54,5,5,0,0,Team D,84,Puck Recovery,29.0,35.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,16:53,5,5,0,0,Team D,84,Play,29.0,35.5,Indirect,,0,0,42,50.0,37.5
+2025-11-02,Team A,Team D,1,16:51,5,5,0,0,Team D,42,Play,50.0,37.5,Indirect,,0,0,36,93.0,20.5
+2025-11-02,Team A,Team D,1,16:46,5,5,0,0,Team D,36,Shot,85.0,2.5,Wristshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,1,16:44,5,5,0,0,Team A,56,Puck Recovery,84.0,-29.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,16:43,5,5,0,0,Team A,56,Play,95.0,-19.5,Direct,,0,0,88,83.0,-19.5
+2025-11-02,Team A,Team D,1,16:42,5,5,0,0,Team A,88,Play,83.0,-19.5,Direct,,0,0,45,77.0,-2.5
+2025-11-02,Team A,Team D,1,16:40,5,5,0,0,Team A,45,Play,67.0,10.5,Direct,,0,0,9,42.0,20.5
+2025-11-02,Team A,Team D,1,16:38,5,5,0,0,Team A,9,Zone Entry,-25.0,35.5,Dumped,,0,0,84,,
+2025-11-02,Team A,Team D,1,16:38,5,5,0,0,Team A,9,Dump In/Out,-4.0,37.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,16:34,5,5,0,0,Team D,51,Puck Recovery,-95.0,19.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,16:34,5,5,0,0,Team D,51,Play,-95.0,19.5,Indirect,,0,0,42,-68.0,-37.5
+2025-11-02,Team A,Team D,1,16:31,5,5,0,0,Team D,42,Play,-68.0,-37.5,Direct,,0,0,36,1.0,39.5
+2025-11-02,Team A,Team D,1,16:29,5,5,0,0,Team D,36,Zone Entry,24.0,35.5,Carried,,0,0,48,,
+2025-11-02,Team A,Team D,1,16:28,5,5,0,0,Team D,36,Play,54.0,36.5,Direct,,0,0,12,67.0,-4.5
+2025-11-02,Team A,Team D,1,16:26,5,5,0,0,Team A,72,Puck Recovery,96.0,-16.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,16:25,5,5,0,0,Team A,72,Play,96.0,-16.5,Indirect,,0,0,88,53.0,-39.5
+2025-11-02,Team A,Team D,1,16:23,5,5,0,0,Team A,88,Incomplete Play,53.0,-39.5,Direct,,0,0,48,68.0,-0.5
+2025-11-02,Team A,Team D,1,16:22,5,5,0,0,Team D,12,Takeaway,58.0,-12.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,16:15,5,5,0,0,Team A,92,Puck Recovery,78.0,-35.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,16:15,5,5,0,0,Team A,92,Play,78.0,-35.5,Indirect,,0,0,72,93.0,-24.5
+2025-11-02,Team A,Team D,1,16:12,5,5,0,0,Team A,72,Play,94.0,-11.5,Indirect,,0,0,48,88.0,26.5
+2025-11-02,Team A,Team D,1,16:10,5,5,0,0,Team A,48,Play,61.0,24.5,Direct,,0,0,88,-19.0,-36.5
+2025-11-02,Team A,Team D,1,16:08,5,5,0,0,Team A,88,Zone Entry,-26.0,-36.5,Carried,,0,0,51,,
+2025-11-02,Team A,Team D,1,16:04,5,5,0,0,Team A,88,Play,-49.0,-36.5,Direct,,0,0,92,-88.0,-20.5
+2025-11-02,Team A,Team D,1,16:01,5,5,0,0,Team A,92,Incomplete Play,-89.0,12.5,Direct,,0,0,9,-66.0,3.5
+2025-11-02,Team A,Team D,1,15:58,5,5,0,0,Team A,48,Play,-7.0,15.5,Direct,,0,0,3,-13.0,37.5
+2025-11-02,Team A,Team D,1,15:58,5,5,0,0,Team A,48,Puck Recovery,-7.0,15.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,15:56,5,5,0,0,Team A,3,Dump In/Out,-13.0,37.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,15:53,5,5,0,0,Team D,51,Puck Recovery,-76.0,-39.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,15:52,5,5,0,0,Team D,51,Play,-70.0,-2.5,Direct,,0,0,52,-56.0,38.5
+2025-11-02,Team A,Team D,1,15:51,5,5,0,0,Team D,52,Play,-56.0,38.5,Direct,,0,0,51,-71.0,7.5
+2025-11-02,Team A,Team D,1,15:44,5,5,0,0,Team D,51,Play,-71.0,7.5,Direct,,0,0,52,-52.0,34.5
+2025-11-02,Team A,Team D,1,15:42,5,5,0,0,Team D,52,Play,-37.0,37.5,Direct,,0,0,46,-6.0,32.5
+2025-11-02,Team A,Team D,1,15:38,5,5,0,0,Team A,46,Zone Entry,-24.0,38.5,Dumped,,0,0,52,,
+2025-11-02,Team A,Team D,1,15:38,5,5,0,0,Team A,46,Puck Recovery,-24.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,15:38,5,5,0,0,Team A,46,Dump In/Out,-24.0,38.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,15:36,5,5,0,0,Team D,Go,Puck Recovery,-98.0,-1.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,15:35,5,5,0,0,Team D,Go,Play,-98.0,-1.5,Indirect,,0,0,51,-98.0,-1.5
+2025-11-02,Team A,Team D,1,15:34,5,5,0,0,Team D,51,Play,-98.0,-1.5,Indirect,,0,0,46,-51.0,38.5
+2025-11-02,Team A,Team D,1,15:24,5,5,0,0,Team D,63,Puck Recovery,21.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,15:22,5,5,0,0,Team D,63,Play,11.0,19.5,Direct,,0,0,46,13.0,9.5
+2025-11-02,Team A,Team D,1,15:21,5,5,0,0,Team D,46,Play,-18.0,1.5,Direct,,0,0,52,-25.0,-35.5
+2025-11-02,Team A,Team D,1,15:19,5,5,0,0,Team D,52,Play,-51.0,-32.5,Direct,,0,0,46,-14.0,-35.5
+2025-11-02,Team A,Team D,1,15:16,5,5,0,0,Team D,46,Dump In/Out,3.0,-34.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,15:16,5,5,0,0,Team D,46,Zone Entry,24.0,-39.5,Dumped,,0,0,3,,
+2025-11-02,Team A,Team D,1,15:13,5,5,0,0,Team A,89,Play,74.0,38.5,Indirect,,0,0,3,89.0,-29.5
+2025-11-02,Team A,Team D,1,15:13,5,5,0,0,Team A,89,Puck Recovery,74.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,15:11,5,5,0,0,Team D,63,Takeaway,89.0,-29.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,15:10,5,5,0,0,Team D,63,Incomplete Play,93.0,-11.5,Direct,,0,0,28,80.0,-2.5
+2025-11-02,Team A,Team D,1,15:09,5,5,0,0,Team A,29,Puck Recovery,55.0,-15.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,15:08,5,5,0,0,Team A,29,Play,50.0,-5.5,Direct,,0,0,89,25.0,34.5
+2025-11-02,Team A,Team D,1,15:04,5,5,0,0,Team A,89,Zone Entry,-25.0,38.5,Dumped,,0,0,88,,
+2025-11-02,Team A,Team D,1,15:04,5,5,0,0,Team A,89,Dump In/Out,-9.0,36.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,15:02,5,5,0,0,Team D,52,Puck Recovery,-96.0,7.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,15:02,5,5,0,0,Team D,52,Play,-96.0,7.5,Indirect,,0,0,88,-97.0,17.5
+2025-11-02,Team A,Team D,1,14:58,5,5,0,0,Team D,88,Play,-58.0,-12.5,Direct,,0,0,52,-43.0,-34.5
+2025-11-02,Team A,Team D,1,14:56,5,5,0,0,Team D,52,Incomplete Play,-22.0,-32.5,Direct,,0,0,63,-1.0,-2.5
+2025-11-02,Team A,Team D,1,14:55,5,5,0,0,Team A,89,Takeaway,-7.0,-16.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,14:54,5,5,0,0,Team A,89,Play,5.0,-13.5,Direct,,0,0,14,-6.0,0.5
+2025-11-02,Team A,Team D,1,14:53,5,5,0,0,Team A,14,Dump In/Out,-6.0,0.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,1,14:53,5,5,0,0,Team A,14,Zone Entry,-25.0,0.5,Dumped,,0,0,88,,
+2025-11-02,Team A,Team D,1,14:50,5,5,0,0,Team A,73,Puck Recovery,-82.0,-35.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,14:44,5,5,0,0,Team A,14,Play,-73.0,-39.5,Indirect,,0,0,56,-29.0,-34.5
+2025-11-02,Team A,Team D,1,14:44,5,5,0,0,Team A,14,Puck Recovery,-73.0,-39.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,14:42,5,5,0,0,Team A,56,Play,-33.0,-8.5,Direct,,0,0,45,-40.0,34.5
+2025-11-02,Team A,Team D,1,14:41,5,5,0,0,Team A,45,Shot,-40.0,34.5,Slapshot,Missed,1,1,,,
+2025-11-02,Team A,Team D,1,14:34,5,5,0,0,Team A,56,Play,85.0,-12.5,Indirect,,0,0,45,87.0,33.5
+2025-11-02,Team A,Team D,1,14:34,5,5,0,0,Team A,56,Puck Recovery,85.0,-12.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,14:33,5,5,0,0,Team A,45,Incomplete Play,87.0,33.5,Indirect,,0,0,14,33.0,39.5
+2025-11-02,Team A,Team D,1,14:31,5,5,0,0,Team A,45,Puck Recovery,66.0,35.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,14:29,5,5,0,0,Team A,45,Incomplete Play,41.0,16.5,Direct,,0,0,73,27.0,4.5
+2025-11-02,Team A,Team D,1,14:26,5,5,0,0,Team D,74,Puck Recovery,-10.0,-35.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,14:25,5,5,0,0,Team D,74,Zone Entry,25.0,-36.5,Dumped,,0,0,56,,
+2025-11-02,Team A,Team D,1,14:25,5,5,0,0,Team D,74,Dump In/Out,7.0,-34.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,14:23,5,5,0,0,Team A,Go,Puck Recovery,96.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,14:22,5,5,0,0,Team A,Go,Play,96.0,1.5,Indirect,,0,0,21,37.0,40.5
+2025-11-02,Team A,Team D,1,14:19,5,5,0,0,Team A,21,Dump In/Out,37.0,40.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,14:18,5,5,0,0,Team D,78,Puck Recovery,10.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,14:18,5,5,0,0,Team D,78,Dump In/Out,10.0,38.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,1,14:15,5,5,0,0,Team D,74,Puck Recovery,-22.0,6.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,14:08,5,5,0,0,Team A,21,Puck Recovery,-55.0,-39.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,14:04,5,5,0,0,Team D,78,Puck Recovery,-97.0,-19.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,14:02,5,5,0,0,Team D,78,Play,-98.0,0.5,Direct,,0,0,59,-89.0,29.5
+2025-11-02,Team A,Team D,1,13:59,5,5,0,0,Team D,59,Play,-56.0,32.5,Direct,,0,0,37,-25.0,37.5
+2025-11-02,Team A,Team D,1,13:57,5,5,0,0,Team D,37,Dump In/Out,-6.0,35.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,13:56,5,5,0,0,Team A,21,Puck Recovery,21.0,37.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,13:56,5,5,0,0,Team A,21,Dump In/Out,21.0,37.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,13:55,5,5,0,0,Team D,59,Puck Recovery,9.0,37.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,13:55,5,5,0,0,Team D,59,Dump In/Out,9.0,37.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,13:53,5,5,0,0,Team A,21,Faceoff Win,-20.0,22.5,Backhand,,0,0,77,,
+2025-11-02,Team A,Team D,1,13:52,5,5,0,0,Team A,53,Puck Recovery,5.0,27.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,13:51,5,5,0,0,Team A,53,Play,6.0,10.5,Direct,,0,0,72,-4.0,-18.5
+2025-11-02,Team A,Team D,1,13:49,5,5,0,0,Team A,72,Zone Entry,-25.0,-26.5,Dumped,,0,0,51,,
+2025-11-02,Team A,Team D,1,13:49,5,5,0,0,Team A,72,Dump In/Out,-24.0,-26.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,13:45,5,5,0,0,Team D,75,Puck Recovery,-63.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,13:45,5,5,0,0,Team D,75,Dump In/Out,-63.0,39.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,13:44,5,5,0,0,Team A,53,Puck Recovery,-2.0,31.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,13:43,5,5,0,0,Team A,53,Play,6.0,28.5,Direct,,0,0,72,11.0,-19.5
+2025-11-02,Team A,Team D,1,13:40,5,5,0,0,Team A,72,Zone Entry,-25.0,-38.5,Dumped,,0,0,51,,
+2025-11-02,Team A,Team D,1,13:40,5,5,0,0,Team A,72,Dump In/Out,-9.0,-38.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,13:37,5,5,0,0,Team D,Go,Puck Recovery,-97.0,3.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,13:36,5,5,0,0,Team D,Go,Play,-96.0,10.5,Indirect,,0,0,77,-37.0,34.5
+2025-11-02,Team A,Team D,1,13:34,5,5,0,0,Team D,77,Dump In/Out,-37.0,34.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,1,13:33,5,5,0,0,Team D,75,Puck Recovery,-40.0,34.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,13:30,5,5,0,0,Team A,53,Puck Recovery,-12.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,13:28,5,5,0,0,Team A,53,Play,-12.0,36.5,Direct,,0,0,21,-22.0,-16.5
+2025-11-02,Team A,Team D,1,13:28,5,5,0,0,Team A,21,Zone Entry,-25.0,-20.5,Carried,,0,0,51,,
+2025-11-02,Team A,Team D,1,13:27,5,5,0,0,Team A,21,Shot,-54.0,-17.5,Wristshot,On Net,1,0,,,
+2025-11-02,Team A,Team D,1,13:26,5,5,0,0,Team D,51,Puck Recovery,-86.0,-5.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,13:26,5,5,0,0,Team D,51,Incomplete Play,-86.0,-5.5,Indirect,,0,0,75,-85.0,-19.5
+2025-11-02,Team A,Team D,1,13:23,5,5,0,0,Team A,17,Puck Recovery,-80.0,-36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,13:20,5,5,0,0,Team A,17,Play,-87.0,-33.5,Indirect,,0,0,48,-68.0,38.5
+2025-11-02,Team A,Team D,1,13:13,5,5,0,0,Team D,77,Puck Recovery,-71.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,13:13,5,5,0,0,Team D,77,Incomplete Play,-71.0,36.5,Direct,,0,0,8,-34.0,35.5
+2025-11-02,Team A,Team D,1,13:11,5,5,0,0,Team D,77,Play,-62.0,38.5,Direct,,0,0,84,-84.0,31.5
+2025-11-02,Team A,Team D,1,13:11,5,5,0,0,Team D,77,Puck Recovery,-62.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,13:10,5,5,0,0,Team D,84,Play,-84.0,31.5,Direct,,0,0,51,-66.0,-10.5
+2025-11-02,Team A,Team D,1,13:04,5,5,0,0,Team D,51,Dump In/Out,24.0,-34.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,13:04,5,5,0,0,Team D,51,Zone Entry,25.0,-34.5,Dumped,,0,0,72,,
+2025-11-02,Team A,Team D,1,13:01,5,5,0,0,Team A,48,Puck Recovery,85.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,13:01,5,5,0,0,Team A,48,Play,85.0,36.5,Indirect,,0,0,9,60.0,41.5
+2025-11-02,Team A,Team D,1,12:56,5,5,0,0,Team D,12,Puck Recovery,53.0,33.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,12:56,5,5,0,0,Team D,12,Play,53.0,33.5,Direct,,0,0,88,27.0,35.5
+2025-11-02,Team A,Team D,1,12:54,5,5,0,0,Team D,88,Shot,27.0,35.5,Slapshot,Blocked,1,1,,,
+2025-11-02,Team A,Team D,1,12:53,5,5,0,0,Team A,88,Puck Recovery,48.0,-9.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,12:50,5,5,0,0,Team A,88,Play,25.0,-35.5,Indirect,,0,0,92,-25.0,-33.5
+2025-11-02,Team A,Team D,1,12:49,5,5,0,0,Team A,92,Zone Entry,-25.0,-33.5,Carried,,0,0,88,,
+2025-11-02,Team A,Team D,1,12:48,5,5,0,0,Team A,92,Play,-42.0,-29.5,Direct,,0,0,9,-57.0,13.5
+2025-11-02,Team A,Team D,1,12:46,5,5,0,0,Team A,9,Shot,-73.0,1.5,Snapshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,1,12:42,5,5,0,0,Team D,12,Faceoff Win,-69.0,22.5,Backhand,,0,0,9,,
+2025-11-02,Team A,Team D,1,12:41,5,5,0,0,Team D,52,Puck Recovery,-97.0,12.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,12:40,5,5,0,0,Team D,52,Play,-97.0,12.5,Indirect,,0,0,12,-58.0,39.5
+2025-11-02,Team A,Team D,1,12:37,5,5,0,0,Team D,12,Play,-58.0,39.5,Indirect,,0,0,36,-27.0,34.5
+2025-11-02,Team A,Team D,1,12:35,5,5,0,0,Team D,36,Play,-31.0,34.5,Indirect,,0,0,52,-40.0,-39.5
+2025-11-02,Team A,Team D,1,12:32,5,5,0,0,Team D,52,Incomplete Play,-40.0,-39.5,Direct,,0,0,36,1.0,-19.5
+2025-11-02,Team A,Team D,1,12:30,5,5,0,0,Team D,52,Puck Recovery,-24.0,-37.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,12:29,5,5,0,0,Team D,52,Play,-24.0,-37.5,Indirect,,0,0,42,-15.0,-29.5
+2025-11-02,Team A,Team D,1,12:24,5,5,0,0,Team D,42,Zone Entry,24.0,-35.5,Carried,,0,0,48,,
+2025-11-02,Team A,Team D,1,12:23,5,5,0,0,Team D,42,Play,37.0,-31.5,Indirect,,0,0,36,36.0,-38.5
+2025-11-02,Team A,Team D,1,12:15,5,5,0,0,Team D,36,Play,54.0,37.5,Indirect,,0,0,88,27.0,37.5
+2025-11-02,Team A,Team D,1,12:14,5,5,0,0,Team D,88,Play,28.0,24.5,Direct,,0,0,52,31.0,-31.5
+2025-11-02,Team A,Team D,1,12:13,5,5,0,0,Team D,52,Incomplete Play,41.0,-36.5,Direct,,0,0,12,60.0,17.5
+2025-11-02,Team A,Team D,1,12:11,5,5,0,0,Team D,42,Puck Recovery,96.0,17.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,12:08,5,5,0,0,Team A,45,Play,78.0,35.5,Indirect,,0,0,88,75.0,-32.5
+2025-11-02,Team A,Team D,1,12:08,5,5,0,0,Team A,9,Play,56.0,40.5,Indirect,,0,0,45,73.0,39.5
+2025-11-02,Team A,Team D,1,12:08,5,5,0,0,Team A,9,Puck Recovery,56.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,12:05,5,5,0,0,Team A,88,Play,39.0,-27.5,Direct,,0,0,9,15.0,6.5
+2025-11-02,Team A,Team D,1,12:02,5,5,0,0,Team A,9,Zone Entry,-26.0,-19.5,Carried,,0,0,88,,
+2025-11-02,Team A,Team D,1,12:00,5,5,0,0,Team A,9,Shot,-81.0,-13.5,Wristshot,Missed,0,0,,,
+2025-11-02,Team A,Team D,1,11:57,5,5,0,0,Team A,72,Puck Recovery,-19.0,37.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,11:55,5,5,0,0,Team D,36,Takeaway,13.0,22.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,11:55,5,5,0,0,Team A,72,Incomplete Play,3.0,38.5,Direct,,0,0,56,20.0,-9.5
+2025-11-02,Team A,Team D,1,11:54,5,5,0,0,Team D,36,Zone Entry,24.0,18.5,Carried,,0,0,56,,
+2025-11-02,Team A,Team D,1,11:52,5,5,0,0,Team D,36,Shot,53.0,11.5,Wristshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,1,11:49,5,5,0,0,Team A,29,Puck Recovery,51.0,33.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,11:48,5,5,0,0,Team A,29,Play,51.0,19.5,Direct,,0,0,72,60.0,-14.5
+2025-11-02,Team A,Team D,1,11:46,5,5,0,0,Team A,72,Play,54.0,-35.5,Direct,,0,0,39,-11.0,-35.5
+2025-11-02,Team A,Team D,1,11:45,5,5,0,0,Team A,39,Dump In/Out,-11.0,-35.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,11:45,5,5,0,0,Team A,39,Zone Entry,-26.0,-39.5,Dumped,,0,0,74,,
+2025-11-02,Team A,Team D,1,11:41,5,5,0,0,Team D,78,Incomplete Play,-80.0,36.5,Indirect,,0,0,46,-57.0,38.5
+2025-11-02,Team A,Team D,1,11:41,5,5,0,0,Team D,78,Puck Recovery,-80.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,11:39,5,5,0,0,Team A,29,Takeaway,-57.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,11:39,5,5,0,0,Team A,29,Incomplete Play,-57.0,38.5,Direct,,0,0,39,-71.0,28.5
+2025-11-02,Team A,Team D,1,11:35,5,5,0,0,Team D,28,Puck Recovery,-79.0,30.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,11:35,5,5,0,0,Team D,28,Play,-79.0,30.5,Indirect,,0,0,46,-48.0,32.5
+2025-11-02,Team A,Team D,1,11:33,5,5,0,0,Team D,46,Play,-7.0,37.5,Direct,,0,0,63,54.0,-4.5
+2025-11-02,Team A,Team D,1,11:31,5,5,0,0,Team D,46,Zone Entry,24.0,7.5,Played,,0,0,72,,
+2025-11-02,Team A,Team D,1,11:30,5,5,0,0,Team D,63,Goal,82.0,-2.5,Wristshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,1,11:28,5,5,0,1,Team A,14,Faceoff Win,0.0,0.5,Backhand,,0,0,25,,
+2025-11-02,Team A,Team D,1,11:26,5,5,0,1,Team A,14,Puck Recovery,6.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,11:26,5,5,0,1,Team A,14,Play,6.0,1.5,Indirect,,0,0,53,15.0,37.5
+2025-11-02,Team A,Team D,1,11:24,5,5,0,1,Team A,53,Incomplete Play,15.0,37.5,Direct,,0,0,73,1.0,33.5
+2025-11-02,Team A,Team D,1,11:23,5,5,0,1,Team D,74,Puck Recovery,-27.0,-2.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,11:19,5,5,0,1,Team D,74,Play,-52.0,-13.5,Direct,,0,0,78,-67.0,27.5
+2025-11-02,Team A,Team D,1,11:16,5,5,0,1,Team D,78,Play,-36.0,34.5,Direct,,0,0,59,3.0,34.5
+2025-11-02,Team A,Team D,1,11:15,5,5,0,1,Team D,59,Dump In/Out,3.0,34.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,11:15,5,5,0,1,Team D,59,Zone Entry,25.0,35.5,Dumped,,0,0,53,,
+2025-11-02,Team A,Team D,1,11:11,5,5,0,1,Team A,48,Puck Recovery,96.0,-12.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,11:11,5,5,0,1,Team A,48,Play,96.0,-12.5,Indirect,,0,0,73,60.0,-38.5
+2025-11-02,Team A,Team D,1,11:08,5,5,0,1,Team A,73,Play,84.0,-33.5,Indirect,,0,0,48,96.0,4.5
+2025-11-02,Team A,Team D,1,11:06,5,5,0,1,Team A,48,Play,87.0,16.5,Direct,,0,0,53,57.0,32.5
+2025-11-02,Team A,Team D,1,11:04,5,5,0,1,Team A,53,Incomplete Play,44.0,35.5,Direct,,0,0,89,-20.0,16.5
+2025-11-02,Team A,Team D,1,11:01,5,5,0,1,Team D,59,Puck Recovery,-17.0,10.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,10:59,5,5,0,1,Team D,59,Zone Entry,24.0,-38.5,Carried,,0,0,48,,
+2025-11-02,Team A,Team D,1,10:56,5,5,0,1,Team D,25,Puck Recovery,50.0,-16.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,10:55,5,5,0,1,Team D,25,Play,50.0,-16.5,Direct,,0,0,59,50.0,23.5
+2025-11-02,Team A,Team D,1,10:53,5,5,0,1,Team D,59,Play,78.0,37.5,Indirect,,0,0,37,56.0,35.5
+2025-11-02,Team A,Team D,1,10:52,5,5,0,1,Team D,37,Shot,59.0,32.5,Wristshot,On Net,1,0,,,
+2025-11-02,Team A,Team D,1,10:49,5,5,0,1,Team A,21,Faceoff Win,69.0,22.5,Backhand,,0,0,28,,
+2025-11-02,Team A,Team D,1,10:47,5,5,0,1,Team A,45,Puck Recovery,92.0,23.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,10:47,5,5,0,1,Team A,45,Play,92.0,23.5,Indirect,,0,0,3,96.0,-4.5
+2025-11-02,Team A,Team D,1,10:45,5,5,0,1,Team A,3,Incomplete Play,97.0,-10.5,Direct,,0,0,92,87.0,-31.5
+2025-11-02,Team A,Team D,1,10:44,5,5,0,1,Team D,63,Puck Recovery,83.0,-12.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,10:41,5,5,0,1,Team D,63,Play,53.0,-28.5,Direct,,0,0,84,30.0,20.5
+2025-11-02,Team A,Team D,1,10:39,5,5,0,1,Team D,84,Play,30.0,20.5,Direct,,0,0,46,80.0,15.5
+2025-11-02,Team A,Team D,1,10:39,5,5,0,1,Team D,46,Shot,80.0,15.5,Deflection,Missed,1,0,,,
+2025-11-02,Team A,Team D,1,10:36,5,5,0,1,Team D,63,Play,80.0,-18.5,Indirect,,0,0,28,74.0,-13.5
+2025-11-02,Team A,Team D,1,10:36,5,5,0,1,Team D,63,Puck Recovery,80.0,-18.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,10:36,5,5,0,1,Team D,28,Shot,79.0,-14.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,1,10:34,5,5,0,1,Team D,63,Puck Recovery,94.0,16.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,10:32,5,5,0,1,Team D,63,Play,58.0,25.5,Direct,,0,0,46,65.0,10.5
+2025-11-02,Team A,Team D,1,10:31,5,5,0,1,Team D,46,Play,67.0,10.5,Direct,,0,0,28,86.0,30.5
+2025-11-02,Team A,Team D,1,10:30,5,5,0,1,Team D,28,Incomplete Play,86.0,30.5,Direct,,0,0,51,67.0,-16.5
+2025-11-02,Team A,Team D,1,10:27,5,5,0,1,Team D,63,Puck Recovery,35.0,-30.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,10:24,5,5,0,1,Team D,63,Puck Recovery,-7.0,0.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,10:23,5,5,0,1,Team D,63,Play,-20.0,2.5,Direct,,0,0,84,-50.0,12.5
+2025-11-02,Team A,Team D,1,10:20,5,5,0,1,Team D,84,Incomplete Play,-81.0,28.5,Indirect,,0,0,63,-40.0,30.5
+2025-11-02,Team A,Team D,1,10:17,5,5,0,1,Team A,9,Puck Recovery,-8.0,35.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,10:13,5,5,0,1,Team A,9,Zone Entry,-25.0,31.5,Dumped,,0,0,84,,
+2025-11-02,Team A,Team D,1,10:13,5,5,0,1,Team A,9,Dump In/Out,-24.0,31.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,10:11,5,5,0,1,Team D,84,Play,-64.0,37.5,Indirect,,0,0,51,-98.0,-4.5
+2025-11-02,Team A,Team D,1,10:11,5,5,0,1,Team D,84,Puck Recovery,-64.0,37.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,10:08,5,5,0,1,Team D,51,Incomplete Play,-95.0,-14.5,Indirect,,0,0,46,-56.0,-37.5
+2025-11-02,Team A,Team D,1,10:07,5,5,0,1,Team A,92,Takeaway,-62.0,-37.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,10:06,5,5,0,1,Team A,92,Play,-62.0,-37.5,Indirect,,0,0,53,-67.0,39.5
+2025-11-02,Team A,Team D,1,10:00,5,5,0,1,Team A,53,Play,-91.0,27.5,Indirect,,0,0,88,-97.0,3.5
+2025-11-02,Team A,Team D,1,10:00,5,5,0,1,Team A,92,Shot,-80.0,2.5,Snapshot,On Net,1,1,,,
+2025-11-02,Team A,Team D,1,10:00,5,5,0,1,Team A,88,Play,-97.0,3.5,Direct,,0,0,92,-80.0,2.5
+2025-11-02,Team A,Team D,1,09:57,5,5,0,1,Team D,46,Puck Recovery,-80.0,-33.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,09:57,5,5,0,1,Team D,46,Play,-80.0,-33.5,Indirect,,0,0,51,-97.0,-19.5
+2025-11-02,Team A,Team D,1,09:56,5,5,0,1,Team D,51,Incomplete Play,-97.0,-19.5,Direct,,0,0,28,-87.0,-29.5
+2025-11-02,Team A,Team D,1,09:54,5,5,0,1,Team A,9,Puck Recovery,-35.0,-23.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,09:53,5,5,0,1,Team A,9,Shot,-35.0,-17.5,Wristshot,Missed,1,0,,,
+2025-11-02,Team A,Team D,1,09:52,5,5,0,1,Team D,84,Puck Recovery,-71.0,-2.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,09:48,5,5,0,1,Team D,51,Play,-77.0,-3.5,Direct,,0,0,28,-69.0,-22.5
+2025-11-02,Team A,Team D,1,09:48,5,5,0,1,Team D,51,Puck Recovery,-77.0,-3.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,09:45,5,5,0,1,Team D,28,Play,-95.0,-18.5,Indirect,,0,0,51,-98.0,10.5
+2025-11-02,Team A,Team D,1,09:42,5,5,0,1,Team D,51,Play,-72.0,38.5,Indirect,,0,0,46,-15.0,32.5
+2025-11-02,Team A,Team D,1,09:40,5,5,0,1,Team D,46,Play,-15.0,32.5,Indirect,,0,0,8,18.0,38.5
+2025-11-02,Team A,Team D,1,09:39,5,5,0,1,Team D,8,Zone Entry,25.0,36.5,Carried,,0,0,45,,
+2025-11-02,Team A,Team D,1,09:35,5,5,0,1,Team D,8,Incomplete Play,38.0,-37.5,Indirect,,0,0,75,93.0,28.5
+2025-11-02,Team A,Team D,1,09:29,5,5,0,1,Team D,75,Puck Recovery,95.0,12.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,09:27,5,5,0,1,Team D,75,Play,94.0,24.5,Indirect,,0,0,52,30.0,-38.5
+2025-11-02,Team A,Team D,1,09:24,5,5,0,1,Team D,52,Play,30.0,-38.5,Direct,,0,0,75,85.0,-24.5
+2025-11-02,Team A,Team D,1,09:21,5,5,0,1,Team D,75,Shot,68.0,-20.5,Wristshot,On Net,1,0,,,
+2025-11-02,Team A,Team D,1,09:16,5,5,0,1,Team D,88,Incomplete Play,68.0,38.5,Indirect,,0,0,77,94.0,12.5
+2025-11-02,Team A,Team D,1,09:16,5,5,0,1,Team A,45,Play,96.0,16.5,Indirect,,0,0,48,96.0,-12.5
+2025-11-02,Team A,Team D,1,09:16,5,5,0,1,Team A,45,Takeaway,96.0,16.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,09:16,5,5,0,1,Team D,88,Puck Recovery,68.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,09:14,5,5,0,1,Team A,48,Play,96.0,-12.5,Direct,,0,0,71,61.0,-34.5
+2025-11-02,Team A,Team D,1,09:11,5,5,0,1,Team A,71,Play,45.0,-34.5,Direct,,0,0,17,-7.0,29.5
+2025-11-02,Team A,Team D,1,09:10,5,5,0,1,Team A,17,Zone Entry,-26.0,33.5,Carried,,0,0,88,,
+2025-11-02,Team A,Team D,1,09:06,5,5,0,1,Team A,17,Play,-57.0,29.5,Indirect,,0,0,71,-47.0,25.5
+2025-11-02,Team A,Team D,1,09:04,5,5,0,1,Team A,71,Play,-59.0,38.5,Indirect,,0,0,45,-86.0,36.5
+2025-11-02,Team A,Team D,1,09:01,5,5,0,1,Team A,45,Incomplete Play,-86.0,36.5,Direct,,0,0,21,-92.0,15.5
+2025-11-02,Team A,Team D,1,09:00,5,5,0,1,Team D,88,Puck Recovery,-92.0,30.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,09:00,5,5,0,1,Team D,88,Play,-92.0,30.5,Indirect,,0,0,52,-98.0,-6.5
+2025-11-02,Team A,Team D,1,08:56,5,5,0,1,Team D,52,Incomplete Play,-81.0,-32.5,Direct,,0,0,8,-27.0,-1.5
+2025-11-02,Team A,Team D,1,08:52,5,5,0,1,Team A,45,Puck Recovery,66.0,32.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,08:51,5,5,0,1,Team A,45,Play,78.0,12.5,Direct,,0,0,56,60.0,-36.5
+2025-11-02,Team A,Team D,1,08:49,5,5,0,1,Team A,56,Play,54.0,-37.5,Direct,,0,0,71,-4.0,-26.5
+2025-11-02,Team A,Team D,1,08:48,5,5,0,1,Team A,71,Dump In/Out,-4.0,-26.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,08:44,5,5,0,1,Team D,12,Faceoff Win,-69.0,-21.5,Backhand,,0,0,39,,
+2025-11-02,Team A,Team D,1,08:39,5,5,0,1,Team D,52,Puck Recovery,-71.0,-22.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,08:39,5,5,0,1,Team D,52,Play,-71.0,-22.5,Indirect,,0,0,74,-80.0,-13.5
+2025-11-02,Team A,Team D,1,08:37,5,5,0,1,Team D,74,Play,-87.0,-24.5,Direct,,0,0,12,-56.0,-10.5
+2025-11-02,Team A,Team D,1,08:35,5,5,0,1,Team D,12,Play,-56.0,-10.5,Direct,,0,0,36,-19.0,30.5
+2025-11-02,Team A,Team D,1,08:33,5,5,0,1,Team A,72,Puck Recovery,-4.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,08:33,5,5,0,1,Team A,72,Dump In/Out,-4.0,36.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,08:31,5,5,0,1,Team D,12,Puck Recovery,-47.0,33.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,08:30,5,5,0,1,Team D,12,Play,-66.0,21.5,Direct,,0,0,52,-69.0,-5.5
+2025-11-02,Team A,Team D,1,08:27,5,5,0,1,Team D,52,Incomplete Play,-55.0,-26.5,Direct,,0,0,74,-26.0,-35.5
+2025-11-02,Team A,Team D,1,08:26,5,5,0,1,Team D,42,Zone Entry,24.0,-38.5,Carried,,0,0,3,,
+2025-11-02,Team A,Team D,1,08:26,5,5,0,1,Team D,42,Puck Recovery,24.0,-38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,08:25,5,5,0,1,Team D,42,Dump In/Out,27.0,-36.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,08:23,5,5,0,1,Team A,29,Puck Recovery,84.0,-31.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,08:22,5,5,0,1,Team A,29,Play,90.0,-26.5,Indirect,,0,0,72,93.0,20.5
+2025-11-02,Team A,Team D,1,08:20,5,5,0,1,Team A,72,Play,93.0,20.5,Direct,,0,0,39,51.0,23.5
+2025-11-02,Team A,Team D,1,08:16,5,5,0,1,Team A,39,Dump In/Out,-3.0,29.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,08:16,5,5,0,1,Team A,39,Zone Entry,-25.0,9.5,Dumped,,0,0,74,,
+2025-11-02,Team A,Team D,1,08:13,5,5,0,1,Team D,74,Play,-94.0,-19.5,Indirect,,0,0,78,-95.0,9.5
+2025-11-02,Team A,Team D,1,08:13,5,5,0,1,Team D,74,Puck Recovery,-94.0,-19.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,08:11,5,5,0,1,Team A,39,Takeaway,-93.0,18.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,08:09,5,5,0,1,Team A,39,Play,-74.0,40.5,Indirect,,0,0,53,-32.0,39.5
+2025-11-02,Team A,Team D,1,08:08,5,5,0,1,Team A,53,Shot,-32.0,39.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,1,08:07,5,5,0,1,Team D,42,Puck Recovery,-66.0,5.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,08:06,5,5,0,1,Team D,42,Play,-55.0,-7.5,Direct,,0,0,78,-40.0,11.5
+2025-11-02,Team A,Team D,1,08:04,5,5,0,1,Team D,78,Play,-27.0,17.5,Direct,,0,0,42,-26.0,-16.5
+2025-11-02,Team A,Team D,1,08:02,5,5,0,1,Team D,42,Play,-18.0,-24.5,Direct,,0,0,12,10.0,-27.5
+2025-11-02,Team A,Team D,1,08:01,5,5,0,1,Team D,12,Dump In/Out,10.0,-27.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,07:58,5,5,0,1,Team A,53,Puck Recovery,96.0,-4.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,07:56,5,5,0,1,Team A,53,Play,96.0,-4.5,Direct,,0,0,48,77.0,-34.5
+2025-11-02,Team A,Team D,1,07:54,5,5,0,1,Team A,48,Incomplete Play,50.0,-32.5,Direct,,0,0,14,-17.0,1.5
+2025-11-02,Team A,Team D,1,07:52,5,5,0,1,Team A,73,Puck Recovery,-2.0,-4.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,07:51,5,5,0,1,Team A,73,Zone Entry,-25.0,-14.5,Carried,,0,0,74,,
+2025-11-02,Team A,Team D,1,07:50,5,5,0,1,Team A,73,Play,-68.0,-31.5,Indirect,,0,0,14,-62.0,-31.5
+2025-11-02,Team A,Team D,1,07:49,5,5,0,1,Team A,14,Shot,-62.0,-31.5,Snapshot,On Net,1,1,,,
+2025-11-02,Team A,Team D,1,07:48,5,5,0,1,Team A,14,Faceoff Win,-69.0,-21.5,Backhand,,0,0,25,,
+2025-11-02,Team A,Team D,1,07:46,5,5,0,1,Team A,48,Puck Recovery,-34.0,-8.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,07:46,5,5,0,1,Team A,48,Shot,-34.0,-8.5,Slapshot,On Net,1,0,,,
+2025-11-02,Team A,Team D,1,07:44,5,5,0,1,Team D,25,Puck Recovery,-73.0,-38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,07:44,5,5,0,1,Team D,25,Incomplete Play,-73.0,-38.5,Indirect,,0,0,37,-34.0,-35.5
+2025-11-02,Team A,Team D,1,07:43,5,5,0,1,Team A,14,Takeaway,-34.0,-35.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,07:42,5,5,0,1,Team A,14,Play,-48.0,-37.5,Indirect,,0,0,73,-74.0,-38.5
+2025-11-02,Team A,Team D,1,07:33,5,5,0,1,Team D,74,Puck Recovery,-96.0,0.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,07:31,5,5,0,1,Team D,74,Play,-63.0,38.5,Indirect,,0,0,59,-5.0,38.5
+2025-11-02,Team A,Team D,1,07:31,5,5,0,1,Team D,59,Incomplete Play,3.0,38.5,Direct,,0,0,37,18.0,-1.5
+2025-11-02,Team A,Team D,1,07:22,5,5,0,1,Team D,84,Puck Recovery,27.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,07:22,5,5,0,1,Team A,89,Puck Recovery,27.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,07:21,5,5,0,1,Team A,89,Play,27.0,40.5,Indirect,,0,0,53,80.0,-31.5
+2025-11-02,Team A,Team D,1,07:16,5,5,0,1,Team D,37,Puck Recovery,89.0,-18.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,07:14,5,5,0,1,Team D,37,Play,95.0,-7.5,Direct,,0,0,25,86.0,-15.5
+2025-11-02,Team A,Team D,1,07:13,5,5,0,1,Team D,25,Shot,86.0,-15.5,Snapshot,On Net,0,1,,,
+2025-11-02,Team A,Team D,1,07:11,5,5,0,1,Team D,84,Puck Recovery,58.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,07:11,5,5,0,1,Team D,84,Shot,58.0,38.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,1,07:06,5,5,0,1,Team D,59,Puck Recovery,-51.0,22.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,07:05,5,5,0,1,Team D,59,Play,-68.0,8.5,Indirect,,0,0,51,-82.0,-33.5
+2025-11-02,Team A,Team D,1,07:00,5,5,0,1,Team D,51,Play,-76.0,29.5,Direct,,0,0,63,6.0,37.5
+2025-11-02,Team A,Team D,1,06:59,5,5,0,1,Team D,63,Zone Entry,25.0,35.5,Dumped,,0,0,45,,
+2025-11-02,Team A,Team D,1,06:59,5,5,0,1,Team D,63,Dump In/Out,6.0,37.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,06:54,5,5,0,1,Team A,45,Play,94.0,22.5,Direct,,0,0,56,92.0,-25.5
+2025-11-02,Team A,Team D,1,06:54,5,5,0,1,Team A,45,Puck Recovery,94.0,22.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,06:49,5,5,0,1,Team A,56,Play,97.0,4.5,Indirect,,0,0,45,92.0,-20.5
+2025-11-02,Team A,Team D,1,06:46,5,5,0,1,Team A,45,Play,85.0,-27.5,Indirect,,0,0,92,67.0,-35.5
+2025-11-02,Team A,Team D,1,06:45,5,5,0,1,Team A,92,Play,67.0,-35.5,Indirect,,0,0,88,38.0,-40.5
+2025-11-02,Team A,Team D,1,06:43,5,5,0,1,Team A,88,Play,37.0,-39.5,Indirect,,0,0,92,25.0,-39.5
+2025-11-02,Team A,Team D,1,06:39,5,5,0,1,Team D,51,Puck Recovery,-39.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,06:39,5,5,0,1,Team D,51,Play,-58.0,-32.5,Direct,,0,0,84,-57.0,14.5
+2025-11-02,Team A,Team D,1,06:37,5,5,0,1,Team D,84,Play,-48.0,17.5,Direct,,0,0,46,5.0,20.5
+2025-11-02,Team A,Team D,1,06:36,5,5,0,1,Team D,46,Zone Entry,24.0,27.5,Carried,,0,0,56,,
+2025-11-02,Team A,Team D,1,06:35,5,5,0,1,Team D,46,Incomplete Play,68.0,17.5,Direct,,0,0,63,73.0,-7.5
+2025-11-02,Team A,Team D,1,06:33,5,5,0,1,Team D,63,Puck Recovery,85.0,-36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,06:24,5,5,0,1,Team D,51,Puck Recovery,26.0,-36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,06:23,5,5,0,1,Team D,51,Play,26.0,-36.5,Indirect,,0,0,28,95.0,-18.5
+2025-11-02,Team A,Team D,1,06:18,5,5,0,1,Team D,28,Incomplete Play,77.0,34.5,Direct,,0,0,63,81.0,4.5
+2025-11-02,Team A,Team D,1,06:17,5,5,0,1,Team A,45,Takeaway,77.0,7.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,06:17,5,5,0,1,Team A,45,Dump In/Out,75.0,11.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,1,06:14,5,5,0,1,Team A,9,Puck Recovery,-1.0,34.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,06:12,5,5,0,1,Team A,9,Zone Entry,-26.0,38.5,Carried,,0,0,51,,
+2025-11-02,Team A,Team D,1,06:10,5,5,0,1,Team D,84,Puck Recovery,-35.0,31.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,06:06,5,5,0,1,Team D,84,Incomplete Play,-67.0,38.5,Direct,,0,0,8,-51.0,38.5
+2025-11-02,Team A,Team D,1,06:03,5,5,0,1,Team A,72,Puck Recovery,5.0,35.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,06:02,5,5,0,1,Team A,72,Play,25.0,27.5,Direct,,0,0,3,21.0,-27.5
+2025-11-02,Team A,Team D,1,05:59,5,5,0,1,Team A,3,Play,32.0,-29.5,Direct,,0,0,72,33.0,4.5
+2025-11-02,Team A,Team D,1,05:56,5,5,0,1,Team A,72,Play,13.0,10.5,Direct,,0,0,71,5.0,31.5
+2025-11-02,Team A,Team D,1,05:53,5,5,0,1,Team A,71,Dump In/Out,-2.0,32.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,1,05:51,5,5,0,1,Team A,17,Zone Entry,-25.0,37.5,Dumped,,0,0,52,,
+2025-11-02,Team A,Team D,1,05:51,5,5,0,1,Team A,17,Puck Recovery,-20.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,05:51,5,5,0,1,Team A,17,Dump In/Out,-20.0,39.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,05:49,5,5,0,1,Team D,Go,Puck Recovery,-96.0,-1.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,05:49,5,5,0,1,Team D,Go,Incomplete Play,-96.0,-1.5,Indirect,,0,0,75,-62.0,39.5
+2025-11-02,Team A,Team D,1,05:47,5,5,0,1,Team D,77,Puck Recovery,-68.0,26.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,05:46,5,5,0,1,Team A,21,Takeaway,-55.0,23.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,05:45,5,5,0,1,Team A,21,Play,-28.0,35.5,Indirect,,0,0,71,-96.0,24.5
+2025-11-02,Team A,Team D,1,05:43,5,5,0,1,Team A,71,Incomplete Play,-96.0,24.5,Direct,,0,0,17,-62.0,7.5
+2025-11-02,Team A,Team D,1,05:41,5,5,0,1,Team D,84,Puck Recovery,-97.0,3.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,05:41,5,5,0,1,Team D,84,Incomplete Play,-97.0,3.5,Direct,,0,0,75,-66.0,27.5
+2025-11-02,Team A,Team D,1,05:40,5,5,0,1,Team A,21,Takeaway,-70.0,17.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,05:38,5,5,0,1,Team A,21,Shot,-74.0,22.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,1,05:34,5,5,0,1,Team A,71,Puck Recovery,-64.0,-23.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,05:33,5,5,0,1,Team A,71,Shot,-87.0,-20.5,Wristshot,Missed,1,0,,,
+2025-11-02,Team A,Team D,1,05:31,5,5,0,1,Team D,75,Puck Recovery,-55.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,05:27,5,5,0,1,Team D,75,Zone Entry,24.0,24.5,Dumped,,0,0,3,,
+2025-11-02,Team A,Team D,1,05:27,5,5,0,1,Team D,75,Dump In/Out,6.0,33.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,05:23,5,5,0,1,Team A,3,Puck Recovery,92.0,-21.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,05:22,5,5,0,1,Team A,21,Puck Recovery,92.0,-21.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,05:19,5,5,0,1,Team A,21,Play,80.0,-34.5,Direct,,0,0,71,48.0,-29.5
+2025-11-02,Team A,Team D,1,05:15,5,5,0,1,Team A,71,Dump In/Out,-14.0,14.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,05:15,5,5,0,1,Team A,71,Zone Entry,-25.0,10.5,Dumped,,0,0,88,,
+2025-11-02,Team A,Team D,1,05:14,5,5,0,1,Team D,Go,Puck Recovery,-88.0,9.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,05:13,5,5,0,1,Team D,Go,Play,-88.0,9.5,Indirect,,0,0,75,-54.0,37.5
+2025-11-02,Team A,Team D,1,05:08,5,5,0,1,Team D,75,Play,-54.0,37.5,Indirect,,0,0,88,-73.0,38.5
+2025-11-02,Team A,Team D,1,05:07,5,5,0,1,Team D,88,Play,-73.0,38.5,Direct,,0,0,52,-71.0,-7.5
+2025-11-02,Team A,Team D,1,05:06,5,5,0,1,Team D,52,Play,-58.0,-12.5,Direct,,0,0,8,-25.0,-23.5
+2025-11-02,Team A,Team D,1,05:01,5,5,0,1,Team D,8,Zone Entry,25.0,-37.5,Dumped,,0,0,48,,
+2025-11-02,Team A,Team D,1,05:01,5,5,0,1,Team D,8,Dump In/Out,15.0,-35.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,04:58,5,5,0,1,Team A,48,Puck Recovery,93.0,-25.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,04:58,5,5,0,1,Team A,48,Play,93.0,-25.5,Indirect,,0,0,29,72.0,-40.5
+2025-11-02,Team A,Team D,1,04:56,5,5,0,1,Team A,29,Play,76.0,-31.5,Direct,,0,0,39,49.0,-31.5
+2025-11-02,Team A,Team D,1,04:53,5,5,0,1,Team A,39,Zone Entry,-25.0,-39.5,Carried,,0,0,52,,
+2025-11-02,Team A,Team D,1,04:52,5,5,0,1,Team A,39,Incomplete Play,-64.0,-34.5,Direct,,0,0,46,-66.0,-20.5
+2025-11-02,Team A,Team D,1,04:50,5,5,0,1,Team D,Go,Puck Recovery,-84.0,5.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,04:50,5,5,0,1,Team D,Go,Dump In/Out,-84.0,5.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,04:49,5,5,0,1,Team A,53,Puck Recovery,-81.0,26.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,04:49,5,5,0,1,Team A,53,Play,-81.0,26.5,Indirect,,0,0,46,-81.0,26.5
+2025-11-02,Team A,Team D,1,04:48,5,5,0,1,Team A,46,Play,-81.0,26.5,Indirect,,0,0,53,-84.0,35.5
+2025-11-02,Team A,Team D,1,04:46,5,5,0,1,Team A,53,Play,-84.0,35.5,Direct,,0,0,29,-92.0,13.5
+2025-11-02,Team A,Team D,1,04:44,5,5,0,1,Team A,29,Play,-89.0,30.5,Indirect,,0,0,53,-51.0,37.5
+2025-11-02,Team A,Team D,1,04:42,5,5,0,1,Team A,53,Play,-37.0,38.5,Indirect,,0,0,29,-66.0,38.5
+2025-11-02,Team A,Team D,1,04:40,5,5,0,1,Team A,29,Incomplete Play,-61.0,32.5,Indirect,,0,0,39,-94.0,12.5
+2025-11-02,Team A,Team D,1,04:39,5,5,0,1,Team D,88,Takeaway,-92.0,30.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,04:38,5,5,0,1,Team D,88,Play,-79.0,34.5,Direct,,0,0,42,-50.0,14.5
+2025-11-02,Team A,Team D,1,04:36,5,5,0,1,Team D,42,Play,-42.0,22.5,Direct,,0,0,36,-26.0,38.5
+2025-11-02,Team A,Team D,1,04:34,5,5,0,1,Team D,36,Incomplete Play,-8.0,36.5,Direct,,0,0,42,5.0,29.5
+2025-11-02,Team A,Team D,1,04:32,5,5,0,1,Team D,42,Puck Recovery,60.0,-33.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,04:30,5,5,0,1,Team D,42,Play,94.0,-11.5,Direct,,0,0,12,80.0,-3.5
+2025-11-02,Team A,Team D,1,04:29,5,5,0,1,Team D,12,Shot,80.0,-3.5,Snapshot,Missed,0,1,,,
+2025-11-02,Team A,Team D,1,04:28,5,5,0,1,Team A,39,Puck Recovery,95.0,-6.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,04:23,5,5,0,1,Team A,39,Play,24.0,0.5,Direct,,0,0,46,-3.0,-28.5
+2025-11-02,Team A,Team D,1,04:22,5,5,0,1,Team A,46,Dump In/Out,-3.0,-28.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,04:18,5,5,0,1,Team D,74,Puck Recovery,-93.0,-23.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,04:13,5,5,0,1,Team D,74,Play,-51.0,23.5,Direct,,0,0,25,-25.0,31.5
+2025-11-02,Team A,Team D,1,04:10,5,5,0,1,Team D,25,Zone Entry,24.0,17.5,Carried,,0,0,45,,
+2025-11-02,Team A,Team D,1,04:09,5,5,0,1,Team D,25,Play,46.0,7.5,Direct,,0,0,37,52.0,-34.5
+2025-11-02,Team A,Team D,1,04:08,5,5,0,1,Team D,37,Incomplete Play,69.0,-24.5,Direct,,0,0,59,62.0,-2.5
+2025-11-02,Team A,Team D,1,04:06,5,5,0,1,Team A,56,Puck Recovery,75.0,-5.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,04:05,5,5,0,1,Team A,56,Play,64.0,5.5,Direct,,0,0,89,52.0,20.5
+2025-11-02,Team A,Team D,1,04:03,5,5,0,1,Team A,89,Play,25.0,19.5,Direct,,0,0,56,12.0,9.5
+2025-11-02,Team A,Team D,1,04:01,5,5,0,1,Team A,56,Play,-2.0,19.5,Indirect,,0,0,89,-83.0,36.5
+2025-11-02,Team A,Team D,1,04:00,5,5,0,1,Team A,56,Zone Entry,-25.0,24.5,Played,,0,0,78,,
+2025-11-02,Team A,Team D,1,03:59,5,5,0,1,Team A,89,Incomplete Play,-87.0,30.5,Direct,,0,0,73,-80.0,3.5
+2025-11-02,Team A,Team D,1,03:57,5,5,0,1,Team D,37,Puck Recovery,-80.0,3.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,03:52,5,5,0,1,Team D,78,Puck Recovery,-83.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,03:51,5,5,0,1,Team D,78,Play,-90.0,-26.5,Indirect,,0,0,74,-98.0,1.5
+2025-11-02,Team A,Team D,1,03:49,5,5,0,1,Team D,74,Play,-83.0,15.5,Direct,,0,0,25,-61.0,32.5
+2025-11-02,Team A,Team D,1,03:46,5,5,0,1,Team D,25,Incomplete Play,-29.0,31.5,Direct,,0,0,59,-26.0,22.5
+2025-11-02,Team A,Team D,1,03:45,5,5,0,1,Team A,89,Puck Recovery,-7.0,-12.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,03:44,5,5,0,1,Team A,89,Incomplete Play,-17.0,-25.5,Direct,,0,0,14,-24.0,-13.5
+2025-11-02,Team A,Team D,1,03:43,5,5,0,1,Team D,59,Takeaway,-24.0,-24.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,03:42,5,5,0,1,Team D,59,Play,-37.0,-29.5,Indirect,,0,0,74,-96.0,1.5
+2025-11-02,Team A,Team D,1,03:38,5,5,0,1,Team A,89,Puck Recovery,-96.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,03:37,5,5,0,1,Team A,89,Play,-97.0,-7.5,Direct,,0,0,56,-56.0,-27.5
+2025-11-02,Team A,Team D,1,03:34,5,5,0,1,Team A,56,Shot,-59.0,-37.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,1,03:31,5,5,0,1,Team D,28,Faceoff Win,-69.0,-21.5,Backhand,,0,0,88,,
+2025-11-02,Team A,Team D,1,03:30,5,5,0,1,Team D,51,Play,-80.0,-21.5,Direct,,0,0,84,-94.0,-10.5
+2025-11-02,Team A,Team D,1,03:30,5,5,0,1,Team D,51,Puck Recovery,-80.0,-21.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,03:28,5,5,0,1,Team D,84,Play,-98.0,8.5,Indirect,,0,0,46,9.0,38.5
+2025-11-02,Team A,Team D,1,03:24,5,5,0,1,Team D,46,Zone Entry,24.0,39.5,Carried,,0,0,72,,
+2025-11-02,Team A,Team D,1,03:23,5,5,0,1,Team D,46,Dump In/Out,31.0,35.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,03:22,5,5,0,1,Team D,28,Faceoff Win,69.0,22.5,Backhand,,0,0,9,,
+2025-11-02,Team A,Team D,1,03:21,5,5,0,1,Team D,46,Puck Recovery,60.0,10.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,03:20,5,5,0,1,Team D,46,Play,54.0,14.5,Indirect,,0,0,84,37.0,18.5
+2025-11-02,Team A,Team D,1,03:18,5,5,0,1,Team D,84,Play,37.0,18.5,Direct,,0,0,51,37.0,-12.5
+2025-11-02,Team A,Team D,1,03:17,5,5,0,1,Team D,51,Play,37.0,-12.5,Direct,,0,0,46,59.0,34.5
+2025-11-02,Team A,Team D,1,03:16,5,5,0,1,Team D,46,Shot,70.0,28.5,Wristshot,Missed,1,0,,,
+2025-11-02,Team A,Team D,1,03:16,5,5,0,1,Team D,63,Shot,85.0,5.5,Deflection,On Net,0,0,,,
+2025-11-02,Team A,Team D,1,03:16,5,5,0,1,Team D,63,Puck Recovery,87.0,4.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,03:16,5,5,0,1,Team D,63,Shot,87.0,4.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,1,03:14,5,5,0,1,Team D,46,Puck Recovery,89.0,32.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,03:14,5,5,0,1,Team D,46,Play,89.0,32.5,Indirect,,0,0,63,98.0,14.5
+2025-11-02,Team A,Team D,1,03:08,5,5,0,1,Team A,88,Puck Recovery,32.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,03:08,5,5,0,1,Team A,88,Dump In/Out,32.0,38.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,03:05,5,5,0,1,Team D,51,Puck Recovery,-94.0,21.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,03:04,5,5,0,1,Team D,84,Penalty Taken,14.0,33.5,Interference,,0,0,88,,
+2025-11-02,Team A,Team D,1,03:04,5,4,0,1,Team D,25,Faceoff Win,-69.0,22.5,Backhand,,0,0,88,,
+2025-11-02,Team A,Team D,1,03:02,5,4,0,1,Team D,88,Puck Recovery,-84.0,-23.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,03:02,5,4,0,1,Team D,88,Dump In/Out,-84.0,-23.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,02:58,5,4,0,1,Team A,Go,Puck Recovery,96.0,-3.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,02:57,5,4,0,1,Team A,Go,Play,96.0,-3.5,Indirect,,0,0,45,96.0,-3.5
+2025-11-02,Team A,Team D,1,02:51,5,4,0,1,Team A,45,Play,39.0,-6.5,Indirect,,0,0,92,24.0,39.5
+2025-11-02,Team A,Team D,1,02:45,5,4,0,1,Team A,92,Play,17.0,19.5,Direct,,0,0,88,-9.0,-30.5
+2025-11-02,Team A,Team D,1,02:43,5,4,0,1,Team A,88,Zone Entry,-26.0,-36.5,Carried,,0,0,52,,
+2025-11-02,Team A,Team D,1,02:42,5,4,0,1,Team A,88,Dump In/Out,-33.0,-36.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,02:40,5,4,0,1,Team D,88,Puck Recovery,-93.0,-26.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,02:39,5,4,0,1,Team D,46,Puck Recovery,-93.0,24.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,02:38,5,4,0,1,Team D,46,Dump In/Out,-87.0,27.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,02:32,5,4,0,1,Team A,Go,Puck Recovery,97.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,02:31,5,4,0,1,Team A,Go,Play,97.0,1.5,Indirect,,0,0,45,97.0,1.5
+2025-11-02,Team A,Team D,1,02:24,5,4,0,1,Team A,45,Play,-4.0,3.5,Direct,,0,0,92,-7.0,32.5
+2025-11-02,Team A,Team D,1,02:21,5,4,0,1,Team A,92,Zone Entry,-26.0,35.5,Carried,,0,0,88,,
+2025-11-02,Team A,Team D,1,02:20,5,4,0,1,Team A,92,Dump In/Out,-54.0,37.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,02:19,5,4,0,1,Team D,52,Puck Recovery,-97.0,-4.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,02:19,5,4,0,1,Team D,52,Dump In/Out,-97.0,-4.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,1,02:17,5,4,0,1,Team D,52,Puck Recovery,-96.0,-14.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,02:15,5,4,0,1,Team A,21,Puck Recovery,-95.0,-21.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,02:14,5,4,0,1,Team A,21,Play,-95.0,-21.5,Indirect,,0,0,39,-89.0,-34.5
+2025-11-02,Team A,Team D,1,02:13,5,4,0,1,Team A,39,Incomplete Play,-89.0,-34.5,Direct,,0,0,88,-54.0,-32.5
+2025-11-02,Team A,Team D,1,02:11,5,4,0,1,Team A,39,Puck Recovery,-80.0,-37.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,02:10,5,4,0,1,Team A,39,Incomplete Play,-56.0,-36.5,Direct,,0,0,45,-34.0,-20.5
+2025-11-02,Team A,Team D,1,02:09,5,4,0,1,Team D,42,Takeaway,-45.0,-12.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,02:09,5,4,0,1,Team D,42,Dump In/Out,-45.0,-12.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,02:03,5,4,0,1,Team A,Go,Puck Recovery,97.0,2.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,02:01,5,4,0,1,Team A,Go,Play,97.0,2.5,Indirect,,0,0,48,97.0,2.5
+2025-11-02,Team A,Team D,1,01:56,5,4,0,1,Team A,48,Play,34.0,-9.5,Direct,,0,0,29,24.0,35.5
+2025-11-02,Team A,Team D,1,01:54,5,4,0,1,Team A,29,Zone Entry,-26.0,39.5,Carried,,0,0,78,,
+2025-11-02,Team A,Team D,1,01:52,5,4,0,1,Team A,29,Play,-41.0,38.5,Indirect,,0,0,48,-36.0,33.5
+2025-11-02,Team A,Team D,1,01:50,5,4,0,1,Team A,48,Play,-45.0,22.5,Indirect,,0,0,29,-45.0,32.5
+2025-11-02,Team A,Team D,1,01:48,5,4,0,1,Team A,29,Play,-62.0,23.5,Direct,,0,0,46,-86.0,19.5
+2025-11-02,Team A,Team D,1,01:46,5,4,0,1,Team D,78,Puck Recovery,-74.0,9.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,01:46,5,4,0,1,Team D,78,Dump In/Out,-74.0,9.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,01:42,5,4,0,1,Team A,48,Puck Recovery,40.0,-2.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,01:41,5,4,0,1,Team A,14,Faceoff Win,69.0,22.5,Backhand,,0,0,25,,
+2025-11-02,Team A,Team D,1,01:40,5,4,0,1,Team A,46,Puck Recovery,61.0,21.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,01:38,5,4,0,1,Team A,46,Play,54.0,33.5,Direct,,0,0,48,77.0,32.5
+2025-11-02,Team A,Team D,1,01:34,5,4,0,1,Team A,48,Play,81.0,-13.5,Direct,,0,0,9,59.0,-36.5
+2025-11-02,Team A,Team D,1,01:28,5,4,0,1,Team A,9,Zone Entry,-25.0,-32.5,Carried,,0,0,74,,
+2025-11-02,Team A,Team D,1,01:25,5,4,0,1,Team D,74,Takeaway,-83.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,01:25,5,4,0,1,Team D,74,Dump In/Out,-83.0,-32.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,01:24,5,4,0,1,Team A,9,Puck Recovery,-83.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,01:22,5,4,0,1,Team D,46,Takeaway,-64.0,-37.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,01:22,5,4,0,1,Team D,46,Dump In/Out,-64.0,-37.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,01:21,5,4,0,1,Team A,48,Puck Recovery,-31.0,-37.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,01:20,5,4,0,1,Team A,48,Play,-37.0,-39.5,Indirect,,0,0,9,-56.0,-38.5
+2025-11-02,Team A,Team D,1,01:18,5,4,0,1,Team A,9,Play,-56.0,-38.5,Indirect,,0,0,48,-30.0,-32.5
+2025-11-02,Team A,Team D,1,01:16,5,4,0,1,Team A,48,Play,-30.0,-22.5,Direct,,0,0,29,-46.0,21.5
+2025-11-02,Team A,Team D,1,01:12,5,4,0,1,Team A,29,Play,-64.0,38.5,Indirect,,0,0,48,-32.0,27.5
+2025-11-02,Team A,Team D,1,01:09,5,4,0,1,Team A,48,Play,-30.0,0.5,Direct,,0,0,29,-52.0,32.5
+2025-11-02,Team A,Team D,1,01:08,5,4,0,1,Team A,29,Shot,-47.0,18.5,Wristshot,Missed,1,0,,,
+2025-11-02,Team A,Team D,1,01:08,5,4,0,1,Team A,14,Goal,-81.0,2.5,Deflection,On Net,0,0,,,
+2025-11-02,Team A,Team D,1,01:07,5,5,1,1,Team D,28,Faceoff Win,0.0,0.5,Backhand,,0,0,88,,
+2025-11-02,Team A,Team D,1,01:03,5,5,1,1,Team D,28,Play,0.0,11.5,Indirect,,0,0,84,-32.0,39.5
+2025-11-02,Team A,Team D,1,01:03,5,5,1,1,Team D,28,Puck Recovery,0.0,11.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,01:01,5,5,1,1,Team D,84,Play,-32.0,39.5,Indirect,,0,0,36,-6.0,37.5
+2025-11-02,Team A,Team D,1,00:57,5,5,1,1,Team D,36,Zone Entry,25.0,-14.5,Dumped,,0,0,72,,
+2025-11-02,Team A,Team D,1,00:57,5,5,1,1,Team D,36,Dump In/Out,3.0,-4.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,00:54,5,5,1,1,Team A,Go,Puck Recovery,85.0,-6.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,00:54,5,5,1,1,Team A,Go,Play,85.0,-6.5,Indirect,,0,0,72,91.0,-8.5
+2025-11-02,Team A,Team D,1,00:51,5,5,1,1,Team A,72,Play,92.0,-11.5,Direct,,0,0,92,59.0,-34.5
+2025-11-02,Team A,Team D,1,00:47,5,5,1,1,Team A,92,Play,-3.0,-1.5,Direct,,0,0,88,-25.0,37.5
+2025-11-02,Team A,Team D,1,00:46,5,5,1,1,Team A,88,Zone Entry,-25.0,37.5,Carried,,0,0,84,,
+2025-11-02,Team A,Team D,1,00:45,5,5,1,1,Team A,88,Play,-30.0,32.5,Direct,,0,0,72,-28.0,-20.5
+2025-11-02,Team A,Team D,1,00:43,5,5,1,1,Team A,72,Play,-44.0,-35.5,Indirect,,0,0,92,-96.0,-3.5
+2025-11-02,Team A,Team D,1,00:39,5,5,1,1,Team D,28,Puck Recovery,-94.0,7.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,00:35,5,5,1,1,Team D,28,Play,-54.0,39.5,Direct,,0,0,37,5.0,-28.5
+2025-11-02,Team A,Team D,1,00:32,5,5,1,1,Team D,37,Zone Entry,24.0,-35.5,Carried,,0,0,72,,
+2025-11-02,Team A,Team D,1,00:30,5,5,1,1,Team D,37,Play,55.0,-36.5,Indirect,,0,0,36,99.0,3.5
+2025-11-02,Team A,Team D,1,00:27,5,5,1,1,Team D,36,Play,97.0,-5.5,Indirect,,0,0,28,97.0,7.5
+2025-11-02,Team A,Team D,1,00:23,5,5,1,1,Team D,36,Puck Recovery,97.0,7.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,00:19,5,5,1,1,Team D,28,Play,89.0,29.5,Indirect,,0,0,51,26.0,38.5
+2025-11-02,Team A,Team D,1,00:19,5,5,1,1,Team D,28,Puck Recovery,89.0,29.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,00:18,5,5,1,1,Team D,51,Play,26.0,38.5,Direct,,0,0,52,32.0,-26.5
+2025-11-02,Team A,Team D,1,00:15,5,5,1,1,Team D,52,Shot,39.0,-36.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,1,00:12,5,5,1,1,Team D,28,Incomplete Play,94.0,7.5,Indirect,,0,0,36,98.0,-2.5
+2025-11-02,Team A,Team D,1,00:12,5,5,1,1,Team D,28,Puck Recovery,94.0,7.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,00:10,5,5,1,1,Team A,72,Puck Recovery,90.0,-24.5,,,0,0,,,
+2025-11-02,Team A,Team D,1,00:10,5,5,1,1,Team A,72,Play,90.0,-24.5,Direct,,0,0,71,60.0,-26.5
+2025-11-02,Team A,Team D,1,00:09,5,5,1,1,Team A,71,Dump In/Out,60.0,-26.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,1,00:04,5,5,1,1,Team D,51,Puck Recovery,-69.0,7.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,20:00,5,5,1,1,Team D,77,Faceoff Win,0.0,0.5,Backhand,,0,0,88,,
+2025-11-02,Team A,Team D,2,19:59,5,5,1,1,Team D,52,Puck Recovery,15.0,11.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,19:58,5,5,1,1,Team D,52,Zone Entry,-26.0,38.5,Dumped,,0,0,72,,
+2025-11-02,Team A,Team D,2,19:58,5,5,1,1,Team D,52,Dump In/Out,-1.0,31.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,19:54,5,5,1,1,Team A,88,Puck Recovery,-49.0,-21.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,19:54,5,5,1,1,Team A,88,Play,-49.0,-21.5,Direct,,0,0,9,-44.0,-39.5
+2025-11-02,Team A,Team D,2,19:50,5,5,1,1,Team A,9,Zone Entry,25.0,-37.5,Played,,0,0,88,,
+2025-11-02,Team A,Team D,2,19:50,5,5,1,1,Team A,9,Incomplete Play,22.0,-40.5,Direct,,0,0,88,31.0,-19.5
+2025-11-02,Team A,Team D,2,19:49,5,5,1,1,Team A,9,Puck Recovery,33.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,19:49,5,5,1,1,Team A,9,Incomplete Play,33.0,-32.5,Direct,,0,0,88,61.0,-22.5
+2025-11-02,Team A,Team D,2,19:48,5,5,1,1,Team D,88,Puck Recovery,69.0,-25.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,19:48,5,5,1,1,Team D,88,Play,69.0,-25.5,Direct,,0,0,77,53.0,-36.5
+2025-11-02,Team A,Team D,2,19:46,5,5,1,1,Team D,77,Incomplete Play,52.0,-39.5,Direct,,0,0,8,30.0,3.5
+2025-11-02,Team A,Team D,2,19:44,5,5,1,1,Team A,88,Takeaway,34.0,-14.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,19:41,5,5,1,1,Team A,88,Play,28.0,39.5,Indirect,,0,0,45,84.0,-38.5
+2025-11-02,Team A,Team D,2,19:41,5,5,1,1,Team A,88,Puck Recovery,28.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,19:37,5,5,1,1,Team A,45,Play,84.0,-38.5,Indirect,,0,0,9,97.0,-13.5
+2025-11-02,Team A,Team D,2,19:32,5,5,1,1,Team A,9,Incomplete Play,97.0,6.5,Direct,,0,0,92,80.0,7.5
+2025-11-02,Team A,Team D,2,19:30,5,5,1,1,Team A,88,Puck Recovery,86.0,21.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,19:30,5,5,1,1,Team A,88,Incomplete Play,86.0,21.5,Indirect,,0,0,9,97.0,4.5
+2025-11-02,Team A,Team D,2,19:28,5,5,1,1,Team D,52,Puck Recovery,92.0,4.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,19:28,5,5,1,1,Team D,52,Play,92.0,4.5,Direct,,0,0,88,81.0,6.5
+2025-11-02,Team A,Team D,2,19:27,5,5,1,1,Team D,88,Play,86.0,15.5,Indirect,,0,0,77,74.0,39.5
+2025-11-02,Team A,Team D,2,19:26,5,5,1,1,Team D,77,Incomplete Play,74.0,39.5,Indirect,,0,0,75,40.0,31.5
+2025-11-02,Team A,Team D,2,19:25,5,5,1,1,Team A,92,Takeaway,57.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,19:24,5,5,1,1,Team A,92,Incomplete Play,45.0,41.5,Direct,,0,0,72,27.0,41.5
+2025-11-02,Team A,Team D,2,19:22,5,5,1,1,Team D,52,Puck Recovery,86.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,19:20,5,5,1,1,Team D,52,Play,79.0,32.5,Direct,,0,0,88,73.0,-22.5
+2025-11-02,Team A,Team D,2,19:16,5,5,1,1,Team D,88,Incomplete Play,28.0,-21.5,Direct,,0,0,75,-17.0,20.5
+2025-11-02,Team A,Team D,2,19:11,5,5,1,1,Team A,45,Puck Recovery,-90.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,19:09,5,5,1,1,Team A,45,Play,-83.0,-17.5,Direct,,0,0,29,-34.0,-40.5
+2025-11-02,Team A,Team D,2,19:04,5,5,1,1,Team A,29,Dump In/Out,-6.0,-41.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,19:03,5,5,1,1,Team A,29,Zone Entry,25.0,-36.5,Dumped,,0,0,84,,
+2025-11-02,Team A,Team D,2,19:00,5,5,1,1,Team D,51,Puck Recovery,97.0,-3.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,18:59,5,5,1,1,Team D,51,Play,95.0,26.5,Indirect,,0,0,42,46.0,39.5
+2025-11-02,Team A,Team D,2,18:57,5,5,1,1,Team D,42,Play,62.0,33.5,Direct,,0,0,84,55.0,0.5
+2025-11-02,Team A,Team D,2,18:55,5,5,1,1,Team D,84,Incomplete Play,41.0,0.5,Indirect,,0,0,36,-24.0,32.5
+2025-11-02,Team A,Team D,2,18:53,5,5,1,1,Team D,42,Puck Recovery,-7.0,28.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,18:53,5,5,1,1,Team A,48,Puck Recovery,-24.0,25.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,18:53,5,5,1,1,Team A,48,Incomplete Play,-24.0,25.5,Direct,,0,0,46,9.0,25.5
+2025-11-02,Team A,Team D,2,18:52,5,5,1,1,Team D,42,Incomplete Play,-22.0,29.5,Direct,,0,0,51,-4.0,31.5
+2025-11-02,Team A,Team D,2,18:49,5,5,1,1,Team D,84,Puck Recovery,30.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,18:48,5,5,1,1,Team D,84,Play,50.0,13.5,Direct,,0,0,12,27.0,-30.5
+2025-11-02,Team A,Team D,2,18:46,5,5,1,1,Team D,12,Play,30.0,-31.5,Direct,,0,0,36,2.0,-18.5
+2025-11-02,Team A,Team D,2,18:45,5,5,1,1,Team D,36,Dump In/Out,-10.0,-30.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,18:44,5,5,1,1,Team A,53,Puck Recovery,-17.0,-38.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,18:44,5,5,1,1,Team A,53,Incomplete Play,-17.0,-38.5,Indirect,,0,0,29,-13.0,-40.5
+2025-11-02,Team A,Team D,2,18:43,5,5,1,1,Team D,12,Puck Recovery,-9.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,18:42,5,5,1,1,Team D,12,Incomplete Play,-9.0,-40.5,Direct,,0,0,36,-14.0,-37.5
+2025-11-02,Team A,Team D,2,18:42,5,5,1,1,Team A,29,Takeaway,-12.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,18:40,5,5,1,1,Team A,29,Play,-29.0,-40.5,Direct,,0,0,53,-44.0,-34.5
+2025-11-02,Team A,Team D,2,18:39,5,5,1,1,Team A,53,Play,-48.0,-31.5,Direct,,0,0,48,-58.0,23.5
+2025-11-02,Team A,Team D,2,18:37,5,5,1,1,Team A,48,Play,-48.0,39.5,Indirect,,0,0,39,0.0,39.5
+2025-11-02,Team A,Team D,2,18:36,5,5,1,1,Team A,39,Zone Entry,24.0,30.5,Dumped,,0,0,51,,
+2025-11-02,Team A,Team D,2,18:36,5,5,1,1,Team A,39,Dump In/Out,0.0,39.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,18:34,5,5,1,1,Team D,Go,Puck Recovery,86.0,9.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,18:33,5,5,1,1,Team D,Go,Play,86.0,9.5,Direct,,0,0,84,87.0,17.5
+2025-11-02,Team A,Team D,2,18:32,5,5,1,1,Team D,84,Play,94.0,10.5,Indirect,,0,0,12,57.0,-40.5
+2025-11-02,Team A,Team D,2,18:29,5,5,1,1,Team D,12,Play,48.0,-40.5,Indirect,,0,0,84,69.0,-35.5
+2025-11-02,Team A,Team D,2,18:27,5,5,1,1,Team D,84,Play,58.0,-32.5,Direct,,0,0,42,-8.0,-0.5
+2025-11-02,Team A,Team D,2,18:25,5,5,1,1,Team D,42,Play,-6.0,10.5,Direct,,0,0,36,-34.0,39.5
+2025-11-02,Team A,Team D,2,18:24,5,5,1,1,Team D,42,Zone Entry,-26.0,30.5,Played,,0,0,48,,
+2025-11-02,Team A,Team D,2,18:21,5,5,1,1,Team D,36,Incomplete Play,-99.0,-1.5,Direct,,0,0,12,-71.0,-12.5
+2025-11-02,Team A,Team D,2,18:20,5,5,1,1,Team A,Go,Puck Recovery,-88.0,-1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,18:18,5,5,1,1,Team A,14,Faceoff Win,-69.0,-21.5,Backhand,,0,0,28,,
+2025-11-02,Team A,Team D,2,18:17,5,5,1,1,Team A,3,Puck Recovery,-75.0,-10.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,18:14,5,5,1,1,Team A,3,Play,-95.0,23.5,Indirect,,0,0,89,-55.0,41.5
+2025-11-02,Team A,Team D,2,18:11,5,5,1,1,Team D,28,Puck Recovery,-18.0,19.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,18:11,5,5,1,1,Team D,28,Play,-18.0,19.5,Direct,,0,0,74,-8.0,39.5
+2025-11-02,Team A,Team D,2,18:10,5,5,1,1,Team D,74,Dump In/Out,-6.0,39.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,18:08,5,5,1,1,Team A,Go,Puck Recovery,-99.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,18:07,5,5,1,1,Team A,Go,Play,-97.0,1.5,Indirect,,0,0,3,-92.0,32.5
+2025-11-02,Team A,Team D,2,18:05,5,5,1,1,Team A,3,Incomplete Play,-92.0,32.5,Indirect,,0,0,89,-60.0,40.5
+2025-11-02,Team A,Team D,2,18:03,5,5,1,1,Team D,28,Puck Recovery,-38.0,28.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,18:02,5,5,1,1,Team D,28,Shot,-31.0,39.5,Wristshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,17:59,5,5,1,1,Team D,63,Puck Recovery,-67.0,-38.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:57,5,5,1,1,Team A,3,Puck Recovery,-92.0,-4.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:57,5,5,1,1,Team D,63,Incomplete Play,-96.0,-23.5,Direct,,0,0,28,-72.0,-3.5
+2025-11-02,Team A,Team D,2,17:56,5,5,1,1,Team A,3,Incomplete Play,-94.0,-5.5,Indirect,,0,0,14,-59.0,-41.5
+2025-11-02,Team A,Team D,2,17:52,5,5,1,1,Team A,73,Puck Recovery,-33.0,-41.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:51,5,5,1,1,Team D,28,Puck Recovery,-22.0,-31.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:51,5,5,1,1,Team A,73,Incomplete Play,-26.0,-40.5,Direct,,0,0,14,-30.0,-36.5
+2025-11-02,Team A,Team D,2,17:49,5,5,1,1,Team D,28,Play,-7.0,-40.5,Direct,,0,0,78,25.0,-26.5
+2025-11-02,Team A,Team D,2,17:48,5,5,1,1,Team D,78,Play,27.0,-28.5,Indirect,,0,0,63,-1.0,39.5
+2025-11-02,Team A,Team D,2,17:44,5,5,1,1,Team D,63,Incomplete Play,10.0,40.5,Indirect,,0,0,28,-9.0,41.5
+2025-11-02,Team A,Team D,2,17:43,5,5,1,1,Team A,73,Takeaway,-2.0,41.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:42,5,5,1,1,Team A,73,Play,7.0,40.5,Indirect,,0,0,14,18.0,40.5
+2025-11-02,Team A,Team D,2,17:39,5,5,1,1,Team A,73,Puck Recovery,23.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:39,5,5,1,1,Team A,73,Zone Entry,25.0,37.5,Dumped,,0,0,74,,
+2025-11-02,Team A,Team D,2,17:39,5,5,1,1,Team A,73,Dump In/Out,23.0,38.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,17:38,5,5,1,1,Team D,78,Puck Recovery,52.0,23.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:36,5,5,1,1,Team A,21,Takeaway,11.0,32.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:36,5,5,1,1,Team D,78,Incomplete Play,43.0,37.5,Direct,,0,0,63,0.0,34.5
+2025-11-02,Team A,Team D,2,17:34,5,5,1,1,Team A,21,Dump In/Out,15.0,4.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,2,17:34,5,5,1,1,Team A,21,Zone Entry,25.0,-4.5,Dumped,,0,0,78,,
+2025-11-02,Team A,Team D,2,17:31,5,5,1,1,Team A,21,Puck Recovery,98.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:28,5,5,1,1,Team A,17,Puck Recovery,83.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:26,5,5,1,1,Team A,17,Play,85.0,36.5,Indirect,,0,0,71,97.0,1.5
+2025-11-02,Team A,Team D,2,17:24,5,5,1,1,Team A,71,Incomplete Play,97.0,1.5,Direct,,0,0,17,81.0,13.5
+2025-11-02,Team A,Team D,2,17:22,5,5,1,1,Team A,71,Puck Recovery,99.0,15.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:19,5,5,1,1,Team A,21,Incomplete Play,77.0,40.5,Indirect,,0,0,17,80.0,40.5
+2025-11-02,Team A,Team D,2,17:19,5,5,1,1,Team A,21,Puck Recovery,77.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:13,5,5,1,1,Team A,71,Puck Recovery,79.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:12,5,5,1,1,Team D,63,Puck Recovery,66.0,31.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:11,5,5,1,1,Team D,63,Play,70.0,23.5,Direct,,0,0,74,83.0,11.5
+2025-11-02,Team A,Team D,2,17:10,5,5,1,1,Team D,74,Play,86.0,22.5,Direct,,0,0,28,51.0,33.5
+2025-11-02,Team A,Team D,2,17:06,5,5,1,1,Team D,28,Play,20.0,25.5,Direct,,0,0,63,-12.0,38.5
+2025-11-02,Team A,Team D,2,17:05,5,5,1,1,Team D,63,Zone Entry,-26.0,18.5,Carried,,0,0,45,,
+2025-11-02,Team A,Team D,2,17:05,5,5,1,1,Team D,63,Play,-28.0,15.5,Direct,,0,0,46,-30.0,-21.5
+2025-11-02,Team A,Team D,2,17:03,5,5,1,1,Team D,46,Shot,-49.0,-38.5,Wristshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,17:01,5,5,1,1,Team A,21,Puck Recovery,-80.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,17:00,5,5,1,1,Team A,21,Play,-85.0,15.5,Indirect,,0,0,71,-50.0,40.5
+2025-11-02,Team A,Team D,2,16:56,5,5,1,1,Team A,71,Dump In/Out,1.0,40.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,16:55,5,5,1,1,Team A,71,Zone Entry,25.0,38.5,Dumped,,0,0,52,,
+2025-11-02,Team A,Team D,2,16:54,5,5,1,1,Team A,88,Faceoff Win,0.0,0.5,Backhand,,0,0,25,,
+2025-11-02,Team A,Team D,2,16:52,5,5,1,1,Team A,53,Puck Recovery,-28.0,-4.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,16:51,5,5,1,1,Team A,53,Play,-39.0,-24.5,Indirect,,0,0,9,-7.0,-40.5
+2025-11-02,Team A,Team D,2,16:48,5,5,1,1,Team A,88,Zone Entry,24.0,-38.5,Dumped,,0,0,88,,
+2025-11-02,Team A,Team D,2,16:48,5,5,1,1,Team A,9,Play,11.0,-36.5,Direct,,0,0,88,21.0,-38.5
+2025-11-02,Team A,Team D,2,16:48,5,5,1,1,Team A,88,Dump In/Out,21.0,-38.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,2,16:46,5,5,1,1,Team A,92,Puck Recovery,46.0,-22.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,16:46,5,5,1,1,Team A,92,Shot,67.0,-21.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,16:45,5,5,1,1,Team D,25,Faceoff Win,69.0,-21.5,Backhand,,0,0,88,,
+2025-11-02,Team A,Team D,2,16:42,5,5,1,1,Team D,52,Play,95.0,-21.5,Indirect,,0,0,37,19.0,41.5
+2025-11-02,Team A,Team D,2,16:42,5,5,1,1,Team D,52,Puck Recovery,95.0,-21.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,16:36,5,5,1,1,Team A,9,Puck Recovery,-21.0,41.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,16:35,5,5,1,1,Team A,9,Dump In/Out,-31.0,40.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,16:34,5,5,1,1,Team D,37,Puck Recovery,-38.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,16:33,5,5,1,1,Team D,37,Play,-38.0,40.5,Direct,,0,0,25,-42.0,16.5
+2025-11-02,Team A,Team D,2,16:32,5,5,1,1,Team D,25,Shot,-51.0,3.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,2,16:30,5,5,1,1,Team D,25,Puck Recovery,-71.0,-35.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,16:30,5,5,1,1,Team D,25,Shot,-71.0,-35.5,Snapshot,On Net,1,0,,,
+2025-11-02,Team A,Team D,2,16:28,5,5,1,1,Team A,9,Puck Recovery,-62.0,-1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,16:25,5,5,1,1,Team D,37,Puck Recovery,-40.0,-20.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,16:14,5,5,1,1,Team D,37,Incomplete Play,-98.0,-21.5,Indirect,,0,0,25,-89.0,-30.5
+2025-11-02,Team A,Team D,2,16:12,5,5,1,1,Team A,9,Puck Recovery,-68.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,16:11,5,5,1,1,Team A,9,Play,-49.0,-39.5,Direct,,0,0,48,-44.0,1.5
+2025-11-02,Team A,Team D,2,16:08,5,5,1,1,Team A,48,Incomplete Play,-8.0,13.5,Direct,,0,0,9,16.0,-36.5
+2025-11-02,Team A,Team D,2,16:08,5,5,1,1,Team D,59,Takeaway,11.0,-4.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,16:07,5,5,1,1,Team D,59,Play,18.0,-6.5,Direct,,0,0,37,-8.0,-21.5
+2025-11-02,Team A,Team D,2,16:05,5,5,1,1,Team D,37,Zone Entry,-26.0,-37.5,Carried,,0,0,53,,
+2025-11-02,Team A,Team D,2,16:04,5,5,1,1,Team D,37,Play,-30.0,-25.5,Direct,,0,0,59,-35.0,-37.5
+2025-11-02,Team A,Team D,2,16:02,5,5,1,1,Team D,59,Play,-51.0,-32.5,Direct,,0,0,37,-48.0,-8.5
+2025-11-02,Team A,Team D,2,16:01,5,5,1,1,Team D,37,Shot,-51.0,-3.5,Snapshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,2,15:58,5,5,1,1,Team D,59,Incomplete Play,-81.0,29.5,Indirect,,0,0,52,-28.0,34.5
+2025-11-02,Team A,Team D,2,15:58,5,5,1,1,Team D,59,Puck Recovery,-81.0,29.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,15:57,5,5,1,1,Team A,29,Takeaway,-48.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,15:53,5,5,1,1,Team A,29,Zone Entry,24.0,36.5,Carried,,0,0,52,,
+2025-11-02,Team A,Team D,2,15:52,5,5,1,1,Team A,29,Play,58.0,28.5,Direct,,0,0,88,49.0,12.5
+2025-11-02,Team A,Team D,2,15:50,5,5,1,1,Team A,88,Play,61.0,11.5,Direct,,0,0,92,74.0,-13.5
+2025-11-02,Team A,Team D,2,15:48,5,5,1,1,Team A,92,Puck Recovery,94.0,-20.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,15:48,5,5,1,1,Team A,92,Play,94.0,-20.5,Indirect,,0,0,29,93.0,7.5
+2025-11-02,Team A,Team D,2,15:45,5,5,1,1,Team A,29,Play,82.0,23.5,Direct,,0,0,72,27.0,25.5
+2025-11-02,Team A,Team D,2,15:43,5,5,1,1,Team A,72,Play,33.0,12.5,Direct,,0,0,45,43.0,-26.5
+2025-11-02,Team A,Team D,2,15:42,5,5,1,1,Team A,45,Shot,43.0,-26.5,Slapshot,On Net,0,1,,,
+2025-11-02,Team A,Team D,2,15:41,5,5,1,1,Team A,29,Puck Recovery,80.0,0.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,15:41,5,5,1,1,Team A,29,Shot,80.0,0.5,Bat,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,15:40,5,5,1,1,Team D,77,Faceoff Win,69.0,22.5,Backhand,,0,0,39,,
+2025-11-02,Team A,Team D,2,15:39,5,5,1,1,Team D,51,Puck Recovery,70.0,30.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,15:39,5,5,1,1,Team D,51,Play,70.0,30.5,Indirect,,0,0,84,96.0,13.5
+2025-11-02,Team A,Team D,2,15:37,5,5,1,1,Team D,84,Play,96.0,13.5,Indirect,,0,0,75,-4.0,-40.5
+2025-11-02,Team A,Team D,2,15:33,5,5,1,1,Team D,8,Zone Entry,-25.0,-40.5,Dumped,,0,0,72,,
+2025-11-02,Team A,Team D,2,15:33,5,5,1,1,Team D,8,Puck Recovery,-5.0,-39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,15:33,5,5,1,1,Team D,8,Dump In/Out,-5.0,-39.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,15:29,5,5,1,1,Team A,3,Puck Recovery,-100.0,-4.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,15:28,5,5,1,1,Team A,3,Incomplete Play,-100.0,-4.5,Indirect,,0,0,72,-84.0,-38.5
+2025-11-02,Team A,Team D,2,15:28,5,5,1,1,Team D,75,Takeaway,-87.0,-35.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,15:26,5,5,1,1,Team D,77,Puck Recovery,-93.0,-30.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,15:25,5,5,1,1,Team D,77,Play,-68.0,-41.5,Direct,,0,0,84,-29.0,-39.5
+2025-11-02,Team A,Team D,2,15:24,5,5,1,1,Team D,84,Play,-30.0,-37.5,Direct,,0,0,51,-30.0,21.5
+2025-11-02,Team A,Team D,2,15:22,5,5,1,1,Team D,51,Play,-31.0,23.5,Indirect,,0,0,75,-99.0,8.5
+2025-11-02,Team A,Team D,2,15:18,5,5,1,1,Team D,75,Play,-98.0,-1.5,Indirect,,0,0,8,-95.0,2.5
+2025-11-02,Team A,Team D,2,15:17,5,5,1,1,Team D,8,Incomplete Play,-95.0,2.5,Direct,,0,0,77,-87.0,-6.5
+2025-11-02,Team A,Team D,2,15:15,5,5,1,1,Team A,29,Puck Recovery,-79.0,-39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,15:14,5,5,1,1,Team A,29,Play,-79.0,-39.5,Indirect,,0,0,39,-55.0,-40.5
+2025-11-02,Team A,Team D,2,15:11,5,5,1,1,Team A,39,Puck Recovery,-39.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,15:10,5,5,1,1,Team A,39,Incomplete Play,-23.0,-17.5,Direct,,0,0,46,4.0,-35.5
+2025-11-02,Team A,Team D,2,15:07,5,5,1,1,Team A,39,Faceoff Win,-69.0,-21.5,Backhand,,0,0,12,,
+2025-11-02,Team A,Team D,2,15:05,5,5,1,1,Team A,3,Puck Recovery,-95.0,-5.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,15:04,5,5,1,1,Team A,3,Incomplete Play,-95.0,22.5,Indirect,,0,0,46,-30.0,40.5
+2025-11-02,Team A,Team D,2,15:00,5,5,1,1,Team D,12,Faceoff Win,-69.0,-21.5,Backhand,,0,0,39,,
+2025-11-02,Team A,Team D,2,14:58,5,5,1,1,Team D,84,Puck Recovery,-38.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,14:57,5,5,1,1,Team D,84,Play,-48.0,-39.5,Direct,,0,0,36,-38.0,-20.5
+2025-11-02,Team A,Team D,2,14:52,5,5,1,1,Team D,12,Puck Recovery,14.0,-2.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,14:51,5,5,1,1,Team D,12,Play,30.0,0.5,Direct,,0,0,51,38.0,-1.5
+2025-11-02,Team A,Team D,2,14:49,5,5,1,1,Team D,51,Play,46.0,-33.5,Direct,,0,0,42,-9.0,-11.5
+2025-11-02,Team A,Team D,2,14:48,5,5,1,1,Team D,42,Play,-9.0,-11.5,Direct,,0,0,36,0.0,-27.5
+2025-11-02,Team A,Team D,2,14:46,5,5,1,1,Team D,36,Zone Entry,-26.0,-36.5,Played,,0,0,72,,
+2025-11-02,Team A,Team D,2,14:46,5,5,1,1,Team D,36,Play,-23.0,-40.5,Direct,,0,0,42,-29.0,-31.5
+2025-11-02,Team A,Team D,2,14:44,5,5,1,1,Team D,42,Incomplete Play,-44.0,-38.5,Indirect,,0,0,12,-95.0,-17.5
+2025-11-02,Team A,Team D,2,14:42,5,5,1,1,Team A,3,Takeaway,-98.0,-22.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,14:42,5,5,1,1,Team A,3,Play,-98.0,-22.5,Indirect,,0,0,29,-68.0,-40.5
+2025-11-02,Team A,Team D,2,14:40,5,5,1,1,Team A,29,Play,-69.0,-35.5,Direct,,0,0,39,-62.0,-23.5
+2025-11-02,Team A,Team D,2,14:38,5,5,1,1,Team A,39,Play,-51.0,-9.5,Direct,,0,0,72,-48.0,12.5
+2025-11-02,Team A,Team D,2,14:36,5,5,1,1,Team A,72,Dump In/Out,-17.0,33.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,14:35,5,5,1,1,Team A,72,Zone Entry,25.0,22.5,Dumped,,0,0,51,,
+2025-11-02,Team A,Team D,2,14:34,5,5,1,1,Team D,51,Puck Recovery,68.0,12.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,14:33,5,5,1,1,Team D,51,Play,70.0,14.5,Direct,,0,0,42,50.0,36.5
+2025-11-02,Team A,Team D,2,14:30,5,5,1,1,Team A,89,Puck Recovery,42.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,14:28,5,5,1,1,Team A,48,Play,-7.0,40.5,Direct,,0,0,73,21.0,-0.5
+2025-11-02,Team A,Team D,2,14:28,5,5,1,1,Team A,48,Puck Recovery,-7.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,14:26,5,5,1,1,Team A,73,Zone Entry,25.0,-5.5,Carried,,0,0,84,,
+2025-11-02,Team A,Team D,2,14:23,5,5,1,1,Team A,73,Shot,85.0,-5.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,14:22,5,5,1,1,Team D,42,Puck Recovery,74.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,14:21,5,5,1,1,Team D,42,Penalty Taken,45.0,35.5,High-sticking,,0,0,39,,
+2025-11-02,Team A,Team D,2,14:21,5,4,1,1,Team A,21,Faceoff Win,69.0,-21.5,Backhand,,0,0,25,,
+2025-11-02,Team A,Team D,2,14:19,5,4,1,1,Team A,92,Incomplete Play,52.0,-39.5,Direct,,0,0,45,29.0,-32.5
+2025-11-02,Team A,Team D,2,14:19,5,4,1,1,Team A,92,Puck Recovery,52.0,-39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,14:17,5,4,1,1,Team D,46,Puck Recovery,29.0,-16.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,14:14,5,4,1,1,Team D,46,Zone Entry,-25.0,16.5,Carried,,0,0,45,,
+2025-11-02,Team A,Team D,2,14:11,5,4,1,1,Team A,88,Puck Recovery,-91.0,31.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,14:06,5,4,1,1,Team A,88,Play,-19.0,10.5,Direct,,0,0,92,2.0,-38.5
+2025-11-02,Team A,Team D,2,14:04,5,4,1,1,Team A,92,Zone Entry,25.0,-39.5,Dumped,,0,0,88,,
+2025-11-02,Team A,Team D,2,14:04,5,4,1,1,Team A,92,Dump In/Out,24.0,-39.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,14:01,5,4,1,1,Team D,52,Puck Recovery,97.0,24.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,13:58,5,4,1,1,Team D,52,Play,98.0,-0.5,Indirect,,0,0,88,84.0,-36.5
+2025-11-02,Team A,Team D,2,13:56,5,4,1,1,Team D,88,Dump In/Out,84.0,-36.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,13:55,5,4,1,1,Team A,21,Play,86.0,-34.5,Indirect,,0,0,88,74.0,40.5
+2025-11-02,Team A,Team D,2,13:55,5,4,1,1,Team A,21,Puck Recovery,86.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,13:50,5,4,1,1,Team A,88,Play,94.0,29.5,Direct,,0,0,21,98.0,-2.5
+2025-11-02,Team A,Team D,2,13:49,5,4,1,1,Team A,21,Play,97.0,-12.5,Indirect,,0,0,92,34.0,-39.5
+2025-11-02,Team A,Team D,2,13:45,5,4,1,1,Team A,92,Play,38.0,-40.5,Direct,,0,0,39,65.0,-22.5
+2025-11-02,Team A,Team D,2,13:43,5,4,1,1,Team D,52,Play,79.0,-0.5,Direct,,0,0,25,71.0,-21.5
+2025-11-02,Team A,Team D,2,13:43,5,4,1,1,Team D,52,Takeaway,79.0,-0.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,13:43,5,4,1,1,Team A,39,Incomplete Play,74.0,-17.5,Direct,,0,0,88,72.0,16.5
+2025-11-02,Team A,Team D,2,13:41,5,4,1,1,Team D,25,Dump In/Out,70.0,-23.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,13:38,5,4,1,1,Team A,Go,Puck Recovery,-96.0,-5.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,13:35,5,4,1,1,Team A,Go,Play,-96.0,-6.5,Indirect,,0,0,45,-96.0,-6.5
+2025-11-02,Team A,Team D,2,13:29,5,4,1,1,Team A,45,Incomplete Play,-79.0,2.5,Direct,,0,0,29,-79.0,-17.5
+2025-11-02,Team A,Team D,2,13:27,5,4,1,1,Team A,45,Puck Recovery,-71.0,-24.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,13:26,5,4,1,1,Team A,45,Play,-88.0,-33.5,Indirect,,0,0,29,-75.0,-40.5
+2025-11-02,Team A,Team D,2,13:24,5,4,1,1,Team A,29,Play,-83.0,-36.5,Direct,,0,0,9,-73.0,35.5
+2025-11-02,Team A,Team D,2,13:20,5,4,1,1,Team A,9,Play,-51.0,22.5,Indirect,,0,0,45,-52.0,40.5
+2025-11-02,Team A,Team D,2,13:19,5,4,1,1,Team A,45,Play,-52.0,40.5,Direct,,0,0,9,-73.0,18.5
+2025-11-02,Team A,Team D,2,13:14,5,4,1,1,Team A,9,Play,-92.0,27.5,Direct,,0,0,45,-72.0,31.5
+2025-11-02,Team A,Team D,2,13:10,5,4,1,1,Team A,45,Play,-95.0,27.5,Indirect,,0,0,29,-48.0,-41.5
+2025-11-02,Team A,Team D,2,13:05,5,4,1,1,Team A,29,Play,-86.0,-7.5,Direct,,0,0,9,-69.0,20.5
+2025-11-02,Team A,Team D,2,13:03,5,4,1,1,Team A,9,Puck Recovery,-39.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,13:01,5,4,1,1,Team A,9,Zone Entry,25.0,39.5,Carried,,0,0,78,,
+2025-11-02,Team A,Team D,2,12:58,5,4,1,1,Team A,9,Incomplete Play,79.0,39.5,Indirect,,0,0,48,29.0,40.5
+2025-11-02,Team A,Team D,2,12:55,5,4,1,1,Team A,29,Puck Recovery,67.0,34.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,12:55,5,4,1,1,Team A,29,Play,67.0,34.5,Indirect,,0,0,48,29.0,40.5
+2025-11-02,Team A,Team D,2,12:52,5,4,1,1,Team A,48,Play,33.0,12.5,Indirect,,0,0,9,43.0,39.5
+2025-11-02,Team A,Team D,2,12:49,5,4,1,1,Team A,9,Play,34.0,40.5,Direct,,0,0,48,29.0,2.5
+2025-11-02,Team A,Team D,2,12:48,5,4,1,1,Team A,48,Play,30.0,-0.5,Direct,,0,0,29,64.0,-27.5
+2025-11-02,Team A,Team D,2,12:47,5,4,1,1,Team A,29,Play,66.0,-22.5,Direct,,0,0,14,85.0,1.5
+2025-11-02,Team A,Team D,2,12:47,5,4,1,1,Team A,14,Goal,85.0,1.5,Snapshot,On Net,0,1,,,
+2025-11-02,Team A,Team D,2,12:46,5,5,2,1,Team A,88,Faceoff Win,0.0,0.5,Backhand,,0,0,25,,
+2025-11-02,Team A,Team D,2,12:45,5,5,2,1,Team A,88,Play,2.0,-1.5,Direct,,0,0,48,-9.0,21.5
+2025-11-02,Team A,Team D,2,12:45,5,5,2,1,Team A,88,Puck Recovery,2.0,-1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,12:43,5,5,2,1,Team A,48,Zone Entry,24.0,32.5,Dumped,,0,0,74,,
+2025-11-02,Team A,Team D,2,12:43,5,5,2,1,Team A,48,Dump In/Out,-1.0,26.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,12:40,5,5,2,1,Team D,51,Puck Recovery,69.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,12:38,5,5,2,1,Team D,51,Incomplete Play,81.0,-38.5,Direct,,0,0,25,57.0,-25.5
+2025-11-02,Team A,Team D,2,12:37,5,5,2,1,Team A,53,Puck Recovery,26.0,-22.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,12:37,5,5,2,1,Team A,53,Shot,26.0,-22.5,Slapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,12:32,5,5,2,1,Team A,92,Play,17.0,39.5,Direct,,0,0,88,35.0,39.5
+2025-11-02,Team A,Team D,2,12:32,5,5,2,1,Team A,92,Puck Recovery,17.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,12:30,5,5,2,1,Team A,92,Zone Entry,24.0,40.5,Played,,0,0,51,,
+2025-11-02,Team A,Team D,2,12:29,5,5,2,1,Team A,92,Puck Recovery,29.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,12:28,5,5,2,1,Team A,92,Play,50.0,32.5,Direct,,0,0,73,51.0,3.5
+2025-11-02,Team A,Team D,2,12:26,5,5,2,1,Team A,73,Shot,71.0,-6.5,Snapshot,Missed,0,0,,,
+2025-11-02,Team A,Team D,2,12:26,5,5,2,1,Team A,88,Shot,82.0,-2.5,Deflection,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,12:25,5,5,2,1,Team A,73,Puck Recovery,98.0,-13.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,12:21,5,5,2,1,Team D,25,Puck Recovery,92.0,-24.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,12:20,5,5,2,1,Team D,25,Play,72.0,-29.5,Direct,,0,0,37,40.0,3.5
+2025-11-02,Team A,Team D,2,12:18,5,5,2,1,Team D,37,Play,20.0,3.5,Direct,,0,0,59,8.0,-23.5
+2025-11-02,Team A,Team D,2,12:16,5,5,2,1,Team D,59,Zone Entry,-26.0,5.5,Played,,0,0,48,,
+2025-11-02,Team A,Team D,2,12:16,5,5,2,1,Team D,59,Play,-23.0,-1.5,Direct,,0,0,37,-33.0,39.5
+2025-11-02,Team A,Team D,2,12:15,5,5,2,1,Team D,37,Shot,-59.0,31.5,Wristshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,12:13,5,5,2,1,Team A,92,Puck Recovery,-71.0,-10.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,12:13,5,5,2,1,Team A,92,Dump In/Out,-71.0,-10.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,2,12:11,5,5,2,1,Team A,73,Puck Recovery,-21.0,-24.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,12:08,5,5,2,1,Team A,88,Zone Entry,25.0,-21.5,Carried,,0,0,74,,
+2025-11-02,Team A,Team D,2,12:08,5,5,2,1,Team A,73,Play,10.0,3.5,Direct,,0,0,88,23.0,-21.5
+2025-11-02,Team A,Team D,2,12:05,5,5,2,1,Team A,88,Shot,62.0,16.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,2,12:03,5,5,2,1,Team A,73,Play,94.0,-3.5,Direct,,0,0,92,85.0,-10.5
+2025-11-02,Team A,Team D,2,12:03,5,5,2,1,Team A,73,Puck Recovery,96.0,4.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,12:02,5,5,2,1,Team A,92,Shot,85.0,-10.5,Snapshot,Missed,0,1,,,
+2025-11-02,Team A,Team D,2,11:57,5,5,2,1,Team A,45,Puck Recovery,-17.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,11:56,5,5,2,1,Team A,45,Play,-33.0,36.5,Direct,,0,0,48,-41.0,-29.5
+2025-11-02,Team A,Team D,2,11:54,5,5,2,1,Team A,48,Play,-34.0,-35.5,Direct,,0,0,45,-48.0,-10.5
+2025-11-02,Team A,Team D,2,11:51,5,5,2,1,Team A,45,Zone Entry,24.0,-15.5,Carried,,0,0,51,,
+2025-11-02,Team A,Team D,2,11:50,5,5,2,1,Team A,45,Incomplete Play,42.0,-10.5,Direct,,0,0,46,55.0,13.5
+2025-11-02,Team A,Team D,2,11:47,5,5,2,1,Team A,46,Puck Recovery,88.0,34.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,11:45,5,5,2,1,Team A,29,Incomplete Play,89.0,35.5,Indirect,,0,0,56,25.0,-23.5
+2025-11-02,Team A,Team D,2,11:45,5,5,2,1,Team A,29,Puck Recovery,89.0,35.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,11:42,5,5,2,1,Team A,56,Puck Recovery,4.0,-41.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,11:40,5,5,2,1,Team A,56,Incomplete Play,-17.0,-17.5,Indirect,,0,0,29,25.0,-35.5
+2025-11-02,Team A,Team D,2,11:38,5,5,2,1,Team D,28,Takeaway,13.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,11:37,5,5,2,1,Team D,28,Incomplete Play,-18.0,-40.5,Direct,,0,0,8,-34.0,6.5
+2025-11-02,Team A,Team D,2,11:35,5,5,2,1,Team D,28,Zone Entry,-26.0,-31.5,Played,,0,0,56,,
+2025-11-02,Team A,Team D,2,11:34,5,5,2,1,Team A,45,Puck Recovery,-55.0,-0.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,11:33,5,5,2,1,Team A,45,Play,-60.0,17.5,Direct,,0,0,39,14.0,-17.5
+2025-11-02,Team A,Team D,2,11:31,5,5,2,1,Team A,39,Zone Entry,24.0,-18.5,Carried,,0,0,88,,
+2025-11-02,Team A,Team D,2,11:28,5,5,2,1,Team A,39,Play,30.0,-36.5,Indirect,,0,0,29,66.0,41.5
+2025-11-02,Team A,Team D,2,11:25,5,5,2,1,Team A,29,Incomplete Play,66.0,41.5,Indirect,,0,0,46,81.0,-11.5
+2025-11-02,Team A,Team D,2,11:24,5,5,2,1,Team D,88,Takeaway,95.0,-6.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,11:23,5,5,2,1,Team D,88,Dump In/Out,98.0,-16.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,11:21,5,5,2,1,Team A,56,Puck Recovery,13.0,-39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,11:19,5,5,2,1,Team A,56,Dump In/Out,-1.0,-14.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,11:15,5,5,2,1,Team D,51,Puck Recovery,82.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,11:07,5,5,2,1,Team D,51,Play,87.0,12.5,Direct,,0,0,28,23.0,-4.5
+2025-11-02,Team A,Team D,2,11:06,5,5,2,1,Team D,28,Dump In/Out,23.0,-4.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,11:02,5,5,2,1,Team A,14,Faceoff Win,69.0,22.5,Backhand,,0,0,28,,
+2025-11-02,Team A,Team D,2,11:01,5,5,2,1,Team A,3,Play,37.0,39.5,Direct,,0,0,72,29.0,11.5
+2025-11-02,Team A,Team D,2,11:01,5,5,2,1,Team A,3,Puck Recovery,37.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,11:00,5,5,2,1,Team A,72,Shot,29.0,11.5,Slapshot,On Net,1,1,,,
+2025-11-02,Team A,Team D,2,10:54,5,5,2,1,Team A,73,Puck Recovery,42.0,-39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,10:52,5,5,2,1,Team D,88,Puck Recovery,51.0,-41.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,10:51,5,5,2,1,Team D,88,Dump In/Out,52.0,-40.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,10:47,5,5,2,1,Team D,28,Faceoff Win,69.0,22.5,Backhand,,0,0,14,,
+2025-11-02,Team A,Team D,2,10:44,5,5,2,1,Team D,8,Puck Recovery,44.0,24.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,10:43,5,5,2,1,Team D,8,Incomplete Play,32.0,15.5,Direct,,0,0,75,5.0,-14.5
+2025-11-02,Team A,Team D,2,10:40,5,5,2,1,Team A,72,Play,-34.0,-39.5,Indirect,,0,0,73,-14.0,-40.5
+2025-11-02,Team A,Team D,2,10:40,5,5,2,1,Team A,72,Puck Recovery,-34.0,-39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,10:37,5,5,2,1,Team A,73,Zone Entry,24.0,-26.5,Carried,,0,0,88,,
+2025-11-02,Team A,Team D,2,10:35,5,5,2,1,Team D,8,Puck Recovery,36.0,-19.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,10:34,5,5,2,1,Team D,8,Play,37.0,0.5,Direct,,0,0,12,-8.0,-28.5
+2025-11-02,Team A,Team D,2,10:33,5,5,2,1,Team D,12,Zone Entry,-26.0,-39.5,Carried,,0,0,72,,
+2025-11-02,Team A,Team D,2,10:31,5,5,2,1,Team D,12,Play,-80.0,-19.5,Direct,,0,0,75,-83.0,0.5
+2025-11-02,Team A,Team D,2,10:30,5,5,2,1,Team D,75,Shot,-83.0,0.5,Snapshot,On Net,1,1,,,
+2025-11-02,Team A,Team D,2,10:29,5,5,2,1,Team D,12,Faceoff Win,-20.0,-21.5,Backhand,,0,0,92,,
+2025-11-02,Team A,Team D,2,10:28,5,5,2,1,Team D,52,Puck Recovery,-1.0,-3.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,10:26,5,5,2,1,Team D,52,Zone Entry,-26.0,27.5,Dumped,,0,0,48,,
+2025-11-02,Team A,Team D,2,10:26,5,5,2,1,Team D,52,Dump In/Out,-6.0,20.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,10:23,5,5,2,1,Team A,53,Puck Recovery,-82.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,10:21,4,5,2,1,Team D,77,Faceoff Win,-69.0,22.5,Backhand,,0,0,21,,
+2025-11-02,Team A,Team D,2,10:21,5,5,2,1,Team A,9,Penalty Taken,-64.0,-40.5,Interference,,0,0,36,,
+2025-11-02,Team A,Team D,2,10:20,4,5,2,1,Team D,51,Puck Recovery,-47.0,37.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,10:19,4,5,2,1,Team D,51,Play,-45.0,25.5,Direct,,0,0,36,-46.0,-18.5
+2025-11-02,Team A,Team D,2,10:18,4,5,2,1,Team D,36,Shot,-46.0,-18.5,Slapshot,On Net,0,1,,,
+2025-11-02,Team A,Team D,2,10:17,4,5,2,1,Team A,45,Puck Recovery,-80.0,-3.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,10:15,4,5,2,1,Team A,45,Incomplete Play,-98.0,-0.5,Indirect,,0,0,21,-66.0,38.5
+2025-11-02,Team A,Team D,2,10:14,4,5,2,1,Team D,42,Takeaway,-69.0,41.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,10:13,4,5,2,1,Team D,42,Play,-76.0,38.5,Direct,,0,0,51,-34.0,25.5
+2025-11-02,Team A,Team D,2,10:10,4,5,2,1,Team D,51,Play,-37.0,-7.5,Direct,,0,0,42,-65.0,23.5
+2025-11-02,Team A,Team D,2,10:08,4,5,2,1,Team D,36,Shot,-81.0,-19.5,Fan,Missed,0,1,,,
+2025-11-02,Team A,Team D,2,10:08,4,5,2,1,Team D,42,Play,-69.0,16.5,Direct,,0,0,36,-81.0,-19.5
+2025-11-02,Team A,Team D,2,10:06,4,5,2,1,Team D,36,Puck Recovery,-86.0,-30.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,10:05,4,5,2,1,Team D,36,Play,-58.0,-39.5,Direct,,0,0,51,-30.0,-31.5
+2025-11-02,Team A,Team D,2,10:03,4,5,2,1,Team D,51,Play,-30.0,-31.5,Direct,,0,0,42,-44.0,25.5
+2025-11-02,Team A,Team D,2,10:01,4,5,2,1,Team D,42,Play,-61.0,24.5,Direct,,0,0,51,-35.0,-9.5
+2025-11-02,Team A,Team D,2,10:00,4,5,2,1,Team D,51,Shot,-48.0,-4.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,2,09:59,4,5,2,1,Team D,51,Puck Recovery,-60.0,-1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,09:59,4,5,2,1,Team D,51,Shot,-60.0,-1.5,Snapshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,2,09:57,4,5,2,1,Team A,48,Puck Recovery,-69.0,-3.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,09:57,4,5,2,1,Team D,77,Puck Recovery,-60.0,-0.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,09:57,4,5,2,1,Team A,48,Dump In/Out,-69.0,-3.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,09:56,4,5,2,1,Team D,36,Shot,-72.0,-22.5,Slapshot,Missed,0,1,,,
+2025-11-02,Team A,Team D,2,09:56,4,5,2,1,Team D,77,Play,-51.0,-14.5,Direct,,0,0,36,-72.0,-22.5
+2025-11-02,Team A,Team D,2,09:48,4,5,2,1,Team D,42,Puck Recovery,86.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,09:45,4,5,2,1,Team D,42,Play,81.0,-11.5,Direct,,0,0,51,68.0,32.5
+2025-11-02,Team A,Team D,2,09:40,4,5,2,1,Team D,51,Zone Entry,-25.0,40.5,Carried,,0,0,48,,
+2025-11-02,Team A,Team D,2,09:37,4,5,2,1,Team D,51,Play,-83.0,37.5,Direct,,0,0,42,-42.0,3.5
+2025-11-02,Team A,Team D,2,09:35,4,5,2,1,Team D,42,Play,-32.0,-13.5,Direct,,0,0,36,-60.0,-30.5
+2025-11-02,Team A,Team D,2,09:26,4,5,2,1,Team D,36,Play,-97.0,6.5,Direct,,0,0,51,-48.0,35.5
+2025-11-02,Team A,Team D,2,09:23,4,5,2,1,Team D,51,Play,-33.0,19.5,Direct,,0,0,36,-56.0,34.5
+2025-11-02,Team A,Team D,2,09:21,4,5,2,1,Team D,36,Goal,-61.0,25.5,Snapshot,On Net,1,0,,,
+2025-11-02,Team A,Team D,2,09:19,5,5,2,2,Team A,14,Faceoff Win,0.0,0.5,Backhand,,0,0,28,,
+2025-11-02,Team A,Team D,2,09:17,5,5,2,2,Team A,72,Puck Recovery,-20.0,-6.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,09:16,5,5,2,2,Team A,72,Play,-37.0,2.5,Indirect,,0,0,89,2.0,39.5
+2025-11-02,Team A,Team D,2,09:14,5,5,2,2,Team A,89,Zone Entry,25.0,41.5,Dumped,,0,0,74,,
+2025-11-02,Team A,Team D,2,09:14,5,5,2,2,Team A,89,Dump In/Out,4.0,39.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,09:11,5,5,2,2,Team D,Go,Play,97.0,1.5,Direct,,0,0,78,92.0,-21.5
+2025-11-02,Team A,Team D,2,09:11,5,5,2,2,Team D,Go,Puck Recovery,97.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,09:09,5,5,2,2,Team D,78,Play,95.0,-23.5,Indirect,,0,0,46,57.0,-39.5
+2025-11-02,Team A,Team D,2,09:05,5,5,2,2,Team D,46,Play,31.0,-40.5,Direct,,0,0,28,17.0,-25.5
+2025-11-02,Team A,Team D,2,09:03,5,5,2,2,Team A,73,Puck Recovery,-4.0,-4.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,09:01,5,5,2,2,Team D,28,Puck Recovery,-1.0,-20.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,09:01,5,5,2,2,Team D,28,Play,-1.0,-20.5,Direct,,0,0,63,-9.0,-25.5
+2025-11-02,Team A,Team D,2,08:59,5,5,2,2,Team A,72,Puck Recovery,-34.0,-22.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,08:59,5,5,2,2,Team D,63,Zone Entry,-25.0,-20.5,Dumped,,0,0,72,,
+2025-11-02,Team A,Team D,2,08:59,5,5,2,2,Team D,63,Dump In/Out,-15.0,-19.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,08:58,5,5,2,2,Team A,72,Play,-49.0,-19.5,Direct,,0,0,3,-54.0,10.5
+2025-11-02,Team A,Team D,2,08:56,5,5,2,2,Team A,3,Play,-60.0,28.5,Indirect,,0,0,89,-18.0,38.5
+2025-11-02,Team A,Team D,2,08:54,5,5,2,2,Team D,46,Puck Recovery,-31.0,41.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,08:51,5,5,2,2,Team A,3,Puck Recovery,-34.0,34.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,08:51,5,5,2,2,Team D,46,Zone Entry,-26.0,34.5,Carried,,0,0,3,,
+2025-11-02,Team A,Team D,2,08:50,5,5,2,2,Team A,3,Play,-37.0,23.5,Direct,,0,0,72,-61.0,-14.5
+2025-11-02,Team A,Team D,2,08:47,5,5,2,2,Team A,72,Play,-65.0,17.5,Direct,,0,0,73,-36.0,-39.5
+2025-11-02,Team A,Team D,2,08:46,5,5,2,2,Team A,73,Play,-34.0,-39.5,Direct,,0,0,3,-17.0,19.5
+2025-11-02,Team A,Team D,2,08:43,5,5,2,2,Team D,63,Puck Recovery,-7.0,24.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,08:42,5,5,2,2,Team D,63,Zone Entry,-26.0,40.5,Carried,,0,0,72,,
+2025-11-02,Team A,Team D,2,08:40,5,5,2,2,Team D,63,Incomplete Play,-69.0,33.5,Direct,,0,0,78,-32.0,-3.5
+2025-11-02,Team A,Team D,2,08:38,5,5,2,2,Team A,89,Puck Recovery,-66.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,08:38,5,5,2,2,Team A,89,Dump In/Out,-68.0,9.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,08:35,5,5,2,2,Team D,74,Puck Recovery,-17.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,08:33,5,5,2,2,Team D,74,Play,24.0,25.5,Direct,,0,0,78,47.0,-15.5
+2025-11-02,Team A,Team D,2,08:30,5,5,2,2,Team D,78,Play,42.0,-26.5,Direct,,0,0,28,-10.0,0.5
+2025-11-02,Team A,Team D,2,08:28,5,5,2,2,Team A,17,Puck Recovery,-11.0,6.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,08:28,5,5,2,2,Team A,17,Dump In/Out,-11.0,6.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,08:26,5,5,2,2,Team D,78,Puck Recovery,18.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,08:26,5,5,2,2,Team D,78,Play,18.0,-40.5,Indirect,,0,0,63,-8.0,-40.5
+2025-11-02,Team A,Team D,2,08:23,5,5,2,2,Team D,59,Puck Recovery,-10.0,-36.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,08:20,5,5,2,2,Team D,59,Zone Entry,-26.0,23.5,Carried,,0,0,72,,
+2025-11-02,Team A,Team D,2,08:18,5,5,2,2,Team D,59,Incomplete Play,-66.0,38.5,Direct,,0,0,28,-30.0,39.5
+2025-11-02,Team A,Team D,2,08:16,5,5,2,2,Team A,21,Puck Recovery,-50.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,08:15,5,5,2,2,Team A,21,Play,-44.0,37.5,Indirect,,0,0,17,2.0,40.5
+2025-11-02,Team A,Team D,2,08:13,5,5,2,2,Team A,17,Zone Entry,24.0,40.5,Dumped,,0,0,52,,
+2025-11-02,Team A,Team D,2,08:13,5,5,2,2,Team A,17,Dump In/Out,12.0,42.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,2,08:12,5,5,2,2,Team A,17,Puck Recovery,28.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,08:11,5,5,2,2,Team A,17,Incomplete Play,55.0,40.5,Indirect,,0,0,71,96.0,18.5
+2025-11-02,Team A,Team D,2,08:09,5,5,2,2,Team D,88,Play,99.0,17.5,Indirect,,0,0,25,88.0,36.5
+2025-11-02,Team A,Team D,2,08:09,5,5,2,2,Team D,88,Puck Recovery,99.0,17.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,08:07,5,5,2,2,Team D,25,Play,88.0,36.5,Direct,,0,0,63,50.0,40.5
+2025-11-02,Team A,Team D,2,08:06,5,5,2,2,Team D,63,Incomplete Play,44.0,40.5,Direct,,0,0,59,38.0,9.5
+2025-11-02,Team A,Team D,2,08:03,5,5,2,2,Team D,59,Puck Recovery,29.0,-38.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,08:03,5,5,2,2,Team D,59,Play,30.0,-37.5,Direct,,0,0,88,84.0,-24.5
+2025-11-02,Team A,Team D,2,08:01,5,5,2,2,Team D,88,Play,80.0,-24.5,Direct,,0,0,25,12.0,-37.5
+2025-11-02,Team A,Team D,2,07:57,5,5,2,2,Team D,25,Play,3.0,-6.5,Direct,,0,0,59,-17.0,-34.5
+2025-11-02,Team A,Team D,2,07:56,5,5,2,2,Team D,59,Zone Entry,-26.0,-29.5,Carried,,0,0,53,,
+2025-11-02,Team A,Team D,2,07:56,5,5,2,2,Team D,59,Play,-36.0,-24.5,Direct,,0,0,25,-30.0,0.5
+2025-11-02,Team A,Team D,2,07:55,5,5,2,2,Team D,25,Play,-36.0,-0.5,Direct,,0,0,37,-59.0,24.5
+2025-11-02,Team A,Team D,2,07:54,5,5,2,2,Team D,37,Shot,-77.0,24.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,07:52,5,5,2,2,Team A,17,Puck Recovery,-72.0,-11.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,07:48,5,5,2,2,Team A,17,Dump In/Out,0.0,-10.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,07:46,5,5,2,2,Team D,59,Puck Recovery,3.0,-11.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,07:44,5,5,2,2,Team A,71,Puck Recovery,12.0,-37.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,07:44,5,5,2,2,Team A,71,Zone Entry,25.0,-40.5,Dumped,,0,0,88,,
+2025-11-02,Team A,Team D,2,07:44,5,5,2,2,Team A,71,Dump In/Out,13.0,-40.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,07:44,5,5,2,2,Team D,88,Puck Recovery,38.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,07:42,5,5,2,2,Team A,53,Puck Recovery,-7.0,-39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,07:42,5,5,2,2,Team D,88,Dump In/Out,40.0,-41.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,07:40,5,5,2,2,Team A,53,Incomplete Play,-7.0,-39.5,Direct,,0,0,17,14.0,-39.5
+2025-11-02,Team A,Team D,2,07:39,5,5,2,2,Team D,59,Takeaway,7.0,-41.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,07:37,5,5,2,2,Team D,59,Play,-23.0,-9.5,Direct,,0,0,25,-32.0,4.5
+2025-11-02,Team A,Team D,2,07:37,5,5,2,2,Team D,59,Zone Entry,-26.0,-5.5,Played,,0,0,48,,
+2025-11-02,Team A,Team D,2,07:36,5,5,2,2,Team D,25,Play,-38.0,8.5,Direct,,0,0,59,-52.0,-10.5
+2025-11-02,Team A,Team D,2,07:35,5,5,2,2,Team A,53,Puck Recovery,-77.0,-11.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,07:35,5,5,2,2,Team A,53,Dump In/Out,-77.0,-11.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,07:34,5,5,2,2,Team D,37,Puck Recovery,-83.0,-37.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,07:32,5,5,2,2,Team D,37,Play,-56.0,-40.5,Direct,,0,0,88,-28.0,-32.5
+2025-11-02,Team A,Team D,2,07:31,5,5,2,2,Team D,88,Shot,-28.0,-29.5,Snapshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,2,07:28,5,5,2,2,Team A,53,Puck Recovery,-95.0,-21.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,07:28,5,5,2,2,Team A,53,Play,-95.0,-21.5,Indirect,,0,0,48,-92.0,30.5
+2025-11-02,Team A,Team D,2,07:24,5,5,2,2,Team A,48,Dump In/Out,-87.0,34.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,07:21,5,5,2,2,Team D,12,Faceoff Win,-69.0,-21.5,Backhand,,0,0,88,,
+2025-11-02,Team A,Team D,2,07:20,5,5,2,2,Team D,42,Puck Recovery,-60.0,-12.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,07:19,5,5,2,2,Team D,42,Play,-58.0,-18.5,Direct,,0,0,84,-35.0,-31.5
+2025-11-02,Team A,Team D,2,07:19,5,5,2,2,Team D,84,Play,-35.0,-31.5,Direct,,0,0,51,-31.0,-4.5
+2025-11-02,Team A,Team D,2,07:18,5,5,2,2,Team D,51,Shot,-31.0,-4.5,Slapshot,Blocked,1,1,,,
+2025-11-02,Team A,Team D,2,07:15,5,5,2,2,Team D,36,Puck Recovery,-99.0,18.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,07:05,5,5,2,2,Team D,36,Puck Recovery,-91.0,6.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,07:04,5,5,2,2,Team D,36,Shot,-86.0,5.5,Fan,Missed,0,0,,,
+2025-11-02,Team A,Team D,2,07:03,5,5,2,2,Team A,71,Puck Recovery,-73.0,14.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,07:00,5,5,2,2,Team A,71,Play,-24.0,39.5,Direct,,0,0,88,12.0,27.5
+2025-11-02,Team A,Team D,2,06:58,5,5,2,2,Team A,88,Dump In/Out,15.0,38.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,06:54,5,5,2,2,Team D,51,Puck Recovery,98.0,6.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,06:49,5,5,2,2,Team D,51,Incomplete Play,11.0,16.5,Direct,,0,0,42,-20.0,39.5
+2025-11-02,Team A,Team D,2,06:45,5,5,2,2,Team A,72,Play,-97.0,20.5,Indirect,,0,0,45,-98.0,-14.5
+2025-11-02,Team A,Team D,2,06:45,5,5,2,2,Team A,72,Puck Recovery,-97.0,20.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,06:44,5,5,2,2,Team A,45,Incomplete Play,-99.0,-20.5,Indirect,,0,0,9,-61.0,-40.5
+2025-11-02,Team A,Team D,2,06:40,5,5,2,2,Team A,92,Puck Recovery,15.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,06:39,5,5,2,2,Team D,42,Takeaway,30.0,-19.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,06:39,5,5,2,2,Team A,92,Zone Entry,24.0,-31.5,Played,,0,0,51,,
+2025-11-02,Team A,Team D,2,06:39,5,5,2,2,Team A,92,Incomplete Play,19.0,-39.5,Direct,,0,0,9,22.0,-14.5
+2025-11-02,Team A,Team D,2,06:37,5,5,2,2,Team D,42,Incomplete Play,46.0,-13.5,Direct,,0,0,84,33.0,-10.5
+2025-11-02,Team A,Team D,2,06:36,5,5,2,2,Team A,72,Puck Recovery,19.0,-1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,06:33,5,5,2,2,Team A,72,Zone Entry,25.0,-39.5,Carried,,0,0,84,,
+2025-11-02,Team A,Team D,2,06:33,5,5,2,2,Team A,72,Play,30.0,-39.5,Indirect,,0,0,92,72.0,40.5
+2025-11-02,Team A,Team D,2,06:29,5,5,2,2,Team A,92,Puck Recovery,73.0,41.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,06:29,5,5,2,2,Team A,92,Play,73.0,41.5,Direct,,0,0,9,67.0,40.5
+2025-11-02,Team A,Team D,2,06:27,5,5,2,2,Team D,36,Puck Recovery,64.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,06:26,5,5,2,2,Team D,36,Play,41.0,37.5,Direct,,0,0,42,28.0,2.5
+2025-11-02,Team A,Team D,2,06:23,5,5,2,2,Team D,42,Dump In/Out,-9.0,-15.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,06:19,5,5,2,2,Team A,45,Puck Recovery,-98.0,-18.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,06:19,5,5,2,2,Team A,45,Play,-98.0,-18.5,Direct,,0,0,72,-83.0,-35.5
+2025-11-02,Team A,Team D,2,06:12,5,5,2,2,Team A,72,Play,-51.0,-29.5,Direct,,0,0,39,12.0,-15.5
+2025-11-02,Team A,Team D,2,06:11,5,5,2,2,Team D,77,Puck Recovery,11.0,-22.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,06:09,5,5,2,2,Team D,77,Play,39.0,-21.5,Direct,,0,0,78,56.0,-32.5
+2025-11-02,Team A,Team D,2,06:08,5,5,2,2,Team D,78,Play,56.0,-32.5,Indirect,,0,0,75,-4.0,-40.5
+2025-11-02,Team A,Team D,2,06:07,5,5,2,2,Team D,75,Dump In/Out,-4.0,-40.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,2,06:06,5,5,2,2,Team D,75,Zone Entry,-26.0,-38.5,Dumped,,0,0,72,,
+2025-11-02,Team A,Team D,2,06:03,5,5,2,2,Team D,8,Puck Recovery,-97.0,-19.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:59,5,5,2,2,Team D,8,Shot,-55.0,-31.5,Wristshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,05:57,5,5,2,2,Team A,45,Puck Recovery,-78.0,-3.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:56,5,5,2,2,Team A,72,Penalty Taken,-80.0,-5.5,Hooking,,0,0,75,,
+2025-11-02,Team A,Team D,2,05:56,4,5,2,2,Team D,77,Faceoff Win,-69.0,22.5,Backhand,,0,0,39,,
+2025-11-02,Team A,Team D,2,05:55,4,5,2,2,Team D,75,Puck Recovery,-68.0,32.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:55,4,5,2,2,Team D,75,Play,-68.0,32.5,Direct,,0,0,51,-36.0,22.5
+2025-11-02,Team A,Team D,2,05:53,4,5,2,2,Team D,51,Shot,-41.0,12.5,Wristshot,Missed,1,0,,,
+2025-11-02,Team A,Team D,2,05:51,4,5,2,2,Team D,75,Puck Recovery,-89.0,-5.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:51,4,5,2,2,Team D,75,Shot,-89.0,-5.5,Snapshot,Missed,0,0,,,
+2025-11-02,Team A,Team D,2,05:48,4,5,2,2,Team D,75,Puck Recovery,-97.0,-21.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:47,4,5,2,2,Team D,77,Play,-95.0,-24.5,Direct,,0,0,36,-91.0,-30.5
+2025-11-02,Team A,Team D,2,05:47,4,5,2,2,Team D,77,Puck Recovery,-95.0,-24.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:46,4,5,2,2,Team D,75,Play,-97.0,-19.5,Indirect,,0,0,42,-39.0,41.5
+2025-11-02,Team A,Team D,2,05:46,4,5,2,2,Team D,75,Puck Recovery,-96.0,-22.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:41,4,5,2,2,Team D,42,Play,-60.0,25.5,Direct,,0,0,77,-59.0,15.5
+2025-11-02,Team A,Team D,2,05:39,4,5,2,2,Team A,48,Puck Recovery,-69.0,16.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:38,4,5,2,2,Team A,48,Dump In/Out,-70.0,12.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,05:37,4,5,2,2,Team D,42,Puck Recovery,-60.0,22.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:36,4,5,2,2,Team D,42,Play,-41.0,23.5,Direct,,0,0,51,-29.0,7.5
+2025-11-02,Team A,Team D,2,05:34,4,5,2,2,Team D,51,Play,-29.0,-1.5,Direct,,0,0,36,-57.0,-36.5
+2025-11-02,Team A,Team D,2,05:33,4,5,2,2,Team D,36,Play,-56.0,-39.5,Direct,,0,0,51,-33.0,-11.5
+2025-11-02,Team A,Team D,2,05:31,4,5,2,2,Team D,51,Play,-36.0,-23.5,Direct,,0,0,42,-42.0,21.5
+2025-11-02,Team A,Team D,2,05:30,4,5,2,2,Team D,42,Play,-58.0,19.5,Direct,,0,0,75,-85.0,7.5
+2025-11-02,Team A,Team D,2,05:29,4,5,2,2,Team D,75,Play,-83.0,8.5,Direct,,0,0,77,-68.0,3.5
+2025-11-02,Team A,Team D,2,05:29,4,5,2,2,Team D,77,Shot,-68.0,3.5,Snapshot,On Net,1,1,,,
+2025-11-02,Team A,Team D,2,05:27,4,5,2,2,Team A,45,Puck Recovery,-82.0,0.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:27,4,5,2,2,Team D,77,Puck Recovery,-76.0,-0.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:27,4,5,2,2,Team A,45,Dump In/Out,-82.0,0.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,05:26,4,5,2,2,Team D,77,Incomplete Play,-72.0,1.5,Direct,,0,0,42,-65.0,11.5
+2025-11-02,Team A,Team D,2,05:24,4,5,2,2,Team D,42,Puck Recovery,-39.0,34.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:21,4,5,2,2,Team D,42,Play,-44.0,22.5,Direct,,0,0,51,-32.0,21.5
+2025-11-02,Team A,Team D,2,05:19,4,5,2,2,Team D,51,Play,-55.0,23.5,Direct,,0,0,75,-87.0,12.5
+2025-11-02,Team A,Team D,2,05:18,4,5,2,2,Team D,75,Play,-86.0,9.5,Indirect,,0,0,36,-71.0,-37.5
+2025-11-02,Team A,Team D,2,05:16,4,5,2,2,Team D,36,Play,-55.0,-38.5,Direct,,0,0,42,-33.0,-17.5
+2025-11-02,Team A,Team D,2,05:14,4,5,2,2,Team D,42,Play,-30.0,-6.5,Direct,,0,0,51,-58.0,29.5
+2025-11-02,Team A,Team D,2,05:13,4,5,2,2,Team D,51,Shot,-59.0,28.5,Slapshot,Missed,1,1,,,
+2025-11-02,Team A,Team D,2,05:10,4,5,2,2,Team D,36,Puck Recovery,-9.0,-24.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:07,4,5,2,2,Team D,36,Play,3.0,7.5,Direct,,0,0,51,13.0,6.5
+2025-11-02,Team A,Team D,2,05:05,4,5,2,2,Team D,51,Puck Recovery,18.0,-39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,05:03,4,5,2,2,Team D,51,Play,37.0,-18.5,Indirect,,0,0,42,38.0,-19.5
+2025-11-02,Team A,Team D,2,04:58,4,5,2,2,Team D,42,Zone Entry,-26.0,15.5,Carried,,0,0,48,,
+2025-11-02,Team A,Team D,2,04:58,4,5,2,2,Team D,42,Incomplete Play,-38.0,18.5,Direct,,0,0,36,-39.0,-23.5
+2025-11-02,Team A,Team D,2,04:58,4,5,2,2,Team A,48,Takeaway,-39.0,17.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,04:56,4,5,2,2,Team A,48,Dump In/Out,-76.0,13.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,2,04:55,4,5,2,2,Team A,88,Puck Recovery,-79.0,32.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,04:55,4,5,2,2,Team A,88,Dump In/Out,-79.0,32.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,04:53,4,5,2,2,Team D,51,Puck Recovery,-29.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,04:52,4,5,2,2,Team D,51,Play,-29.0,22.5,Indirect,,0,0,77,-59.0,37.5
+2025-11-02,Team A,Team D,2,04:49,4,5,2,2,Team D,77,Play,-65.0,40.5,Direct,,0,0,75,-93.0,20.5
+2025-11-02,Team A,Team D,2,04:47,4,5,2,2,Team A,48,Takeaway,-87.0,31.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,04:47,4,5,2,2,Team D,75,Incomplete Play,-94.0,25.5,Direct,,0,0,77,-80.0,36.5
+2025-11-02,Team A,Team D,2,04:45,4,5,2,2,Team A,48,Dump In/Out,-80.0,32.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,04:43,4,5,2,2,Team D,51,Puck Recovery,-35.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,04:43,4,5,2,2,Team D,51,Play,-30.0,40.5,Indirect,,0,0,77,-55.0,38.5
+2025-11-02,Team A,Team D,2,04:41,4,5,2,2,Team D,77,Play,-49.0,40.5,Direct,,0,0,42,-46.0,24.5
+2025-11-02,Team A,Team D,2,04:37,4,5,2,2,Team D,42,Play,-85.0,30.5,Direct,,0,0,51,-30.0,11.5
+2025-11-02,Team A,Team D,2,04:36,4,5,2,2,Team D,51,Play,-29.0,-0.5,Direct,,0,0,36,-61.0,-27.5
+2025-11-02,Team A,Team D,2,04:32,4,5,2,2,Team D,36,Play,-30.0,-23.5,Direct,,0,0,51,-32.0,25.5
+2025-11-02,Team A,Team D,2,04:30,4,5,2,2,Team D,51,Play,-46.0,25.5,Direct,,0,0,42,-87.0,24.5
+2025-11-02,Team A,Team D,2,04:29,4,5,2,2,Team D,42,Play,-88.0,10.5,Direct,,0,0,77,-74.0,2.5
+2025-11-02,Team A,Team D,2,04:28,4,5,2,2,Team D,77,Shot,-74.0,2.5,Snapshot,Missed,0,0,,,
+2025-11-02,Team A,Team D,2,04:26,4,5,2,2,Team D,42,Puck Recovery,-92.0,-26.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,04:22,4,5,2,2,Team D,42,Play,-43.0,-21.5,Direct,,0,0,36,-72.0,-28.5
+2025-11-02,Team A,Team D,2,04:21,4,5,2,2,Team D,36,Play,-73.0,-29.5,Direct,,0,0,75,-87.0,4.5
+2025-11-02,Team A,Team D,2,04:20,4,5,2,2,Team D,75,Shot,-87.0,2.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,04:18,4,5,2,2,Team A,39,Puck Recovery,-80.0,-2.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,04:18,4,5,2,2,Team A,39,Dump In/Out,-80.0,-2.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,04:13,4,5,2,2,Team D,Go,Puck Recovery,98.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,04:12,4,5,2,2,Team D,Go,Play,97.0,0.5,Indirect,,0,0,84,97.0,0.5
+2025-11-02,Team A,Team D,2,04:08,4,5,2,2,Team D,84,Play,53.0,-36.5,Indirect,,0,0,12,71.0,-29.5
+2025-11-02,Team A,Team D,2,04:03,4,5,2,2,Team D,46,Puck Recovery,-10.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,04:03,4,5,2,2,Team D,46,Dump In/Out,-10.0,-40.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,2,03:59,4,5,2,2,Team D,46,Play,21.0,-39.5,Direct,,0,0,52,39.0,15.5
+2025-11-02,Team A,Team D,2,03:59,4,5,2,2,Team D,46,Puck Recovery,19.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,03:55,5,5,2,2,Team D,52,Play,71.0,14.5,Direct,,0,0,84,59.0,-23.5
+2025-11-02,Team A,Team D,2,03:50,5,5,2,2,Team D,84,Dump In/Out,-1.0,-37.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,03:49,5,5,2,2,Team D,84,Zone Entry,-25.0,-38.5,Dumped,,0,0,3,,
+2025-11-02,Team A,Team D,2,03:45,5,5,2,2,Team A,3,Puck Recovery,-96.0,-7.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,03:45,5,5,2,2,Team A,3,Play,-96.0,-7.5,Indirect,,0,0,17,-51.0,-38.5
+2025-11-02,Team A,Team D,2,03:44,5,5,2,2,Team A,17,Dump In/Out,-51.0,-38.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,03:39,5,5,2,2,Team D,52,Puck Recovery,84.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,03:36,5,5,2,2,Team D,52,Incomplete Play,64.0,21.5,Indirect,,0,0,12,57.0,-0.5
+2025-11-02,Team A,Team D,2,03:35,5,5,2,2,Team A,14,Puck Recovery,31.0,35.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,03:34,5,5,2,2,Team A,14,Dump In/Out,29.0,39.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,03:32,5,5,2,2,Team D,84,Puck Recovery,88.0,-9.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,03:30,5,5,2,2,Team D,84,Play,93.0,14.5,Direct,,0,0,52,71.0,35.5
+2025-11-02,Team A,Team D,2,03:30,5,5,2,2,Team D,52,Play,71.0,35.5,Direct,,0,0,12,66.0,-21.5
+2025-11-02,Team A,Team D,2,03:27,5,5,2,2,Team D,12,Incomplete Play,27.0,-17.5,Direct,,0,0,28,-4.0,40.5
+2025-11-02,Team A,Team D,2,03:25,5,5,2,2,Team D,46,Zone Entry,-26.0,-39.5,Carried,,0,0,53,,
+2025-11-02,Team A,Team D,2,03:25,5,5,2,2,Team D,46,Puck Recovery,-9.0,-37.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,03:24,5,5,2,2,Team D,46,Incomplete Play,-35.0,-41.5,Indirect,,0,0,28,-88.0,-8.5
+2025-11-02,Team A,Team D,2,03:21,5,5,2,2,Team A,3,Play,-99.0,-12.5,Direct,,0,0,53,-90.0,-21.5
+2025-11-02,Team A,Team D,2,03:21,5,5,2,2,Team A,3,Takeaway,-99.0,-12.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,03:19,5,5,2,2,Team A,53,Incomplete Play,-94.0,-26.5,Indirect,,0,0,73,-68.0,-36.5
+2025-11-02,Team A,Team D,2,03:16,5,5,2,2,Team D,78,Puck Recovery,0.0,-38.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,03:14,5,5,2,2,Team D,78,Play,52.0,-30.5,Indirect,,0,0,12,14.0,-39.5
+2025-11-02,Team A,Team D,2,03:12,5,5,2,2,Team D,12,Play,26.0,-24.5,Direct,,0,0,52,47.0,7.5
+2025-11-02,Team A,Team D,2,03:11,5,5,2,2,Team D,52,Play,37.0,10.5,Direct,,0,0,63,-16.0,26.5
+2025-11-02,Team A,Team D,2,03:09,5,5,2,2,Team D,63,Zone Entry,-25.0,1.5,Carried,,0,0,53,,
+2025-11-02,Team A,Team D,2,03:06,5,5,2,2,Team D,63,Shot,-75.0,-19.5,Snapshot,Missed,0,0,,,
+2025-11-02,Team A,Team D,2,03:03,5,5,2,2,Team A,14,Puck Recovery,-50.0,41.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,03:01,5,5,2,2,Team D,37,Takeaway,-50.0,41.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,02:58,5,5,2,2,Team A,14,Puck Recovery,-51.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,02:58,5,5,2,2,Team A,14,Dump In/Out,-51.0,39.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,02:56,5,5,2,2,Team D,25,Faceoff Win,20.0,-21.5,Backhand,,0,0,88,,
+2025-11-02,Team A,Team D,2,02:56,5,5,2,2,Team D,78,Puck Recovery,19.0,-2.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,02:54,5,5,2,2,Team D,37,Puck Recovery,3.0,-28.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,02:53,5,5,2,2,Team D,37,Zone Entry,-25.0,-39.5,Carried,,0,0,45,,
+2025-11-02,Team A,Team D,2,02:51,5,5,2,2,Team A,92,Puck Recovery,-46.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,02:49,5,5,2,2,Team D,25,Takeaway,-15.0,-37.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,02:49,5,5,2,2,Team A,92,Incomplete Play,-16.0,-40.5,Direct,,0,0,9,-16.0,-32.5
+2025-11-02,Team A,Team D,2,02:48,5,5,2,2,Team D,25,Play,-6.0,-36.5,Direct,,0,0,78,15.0,-31.5
+2025-11-02,Team A,Team D,2,02:47,5,5,2,2,Team D,78,Play,21.0,-38.5,Indirect,,0,0,37,-12.0,-40.5
+2025-11-02,Team A,Team D,2,02:46,5,5,2,2,Team D,37,Dump In/Out,-12.0,-40.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,02:46,5,5,2,2,Team D,37,Zone Entry,-25.0,-40.5,Dumped,,0,0,45,,
+2025-11-02,Team A,Team D,2,02:42,5,5,2,2,Team A,72,Puck Recovery,-100.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,02:38,5,5,2,2,Team D,37,Puck Recovery,-84.0,22.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,02:38,5,5,2,2,Team D,37,Play,-83.0,24.5,Direct,,0,0,59,-78.0,5.5
+2025-11-02,Team A,Team D,2,02:38,5,5,2,2,Team D,59,Goal,-82.0,4.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,02:37,5,5,2,3,Team D,28,Faceoff Win,0.0,0.5,Backhand,,0,0,39,,
+2025-11-02,Team A,Team D,2,02:36,5,5,2,3,Team D,51,Puck Recovery,10.0,26.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,02:35,5,5,2,3,Team D,51,Dump In/Out,-2.0,36.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,2,02:34,5,5,2,3,Team D,51,Zone Entry,-26.0,40.5,Dumped,,0,0,48,,
+2025-11-02,Team A,Team D,2,02:33,5,5,2,3,Team A,48,Puck Recovery,-30.0,41.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,02:32,5,5,2,3,Team A,48,Play,-51.0,32.5,Direct,,0,0,53,-62.0,-3.5
+2025-11-02,Team A,Team D,2,02:30,5,5,2,3,Team A,53,Play,-59.0,-22.5,Direct,,0,0,29,1.0,-38.5
+2025-11-02,Team A,Team D,2,02:28,5,5,2,3,Team A,29,Play,6.0,-36.5,Direct,,0,0,46,16.0,11.5
+2025-11-02,Team A,Team D,2,02:27,5,5,2,3,Team A,46,Zone Entry,25.0,15.5,Carried,,0,0,51,,
+2025-11-02,Team A,Team D,2,02:21,5,5,2,3,Team A,46,Play,65.0,-30.5,Direct,,0,0,53,27.0,-24.5
+2025-11-02,Team A,Team D,2,02:18,5,5,2,3,Team A,53,Play,26.0,-23.5,Indirect,,0,0,29,97.0,-21.5
+2025-11-02,Team A,Team D,2,02:13,5,5,2,3,Team A,29,Shot,87.0,-7.5,Snapshot,Missed,0,0,,,
+2025-11-02,Team A,Team D,2,02:12,5,5,2,3,Team A,46,Puck Recovery,89.0,-7.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,02:05,5,5,2,3,Team D,84,Takeaway,79.0,-22.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,02:03,5,5,2,3,Team D,84,Play,65.0,-40.5,Direct,,0,0,46,33.0,-39.5
+2025-11-02,Team A,Team D,2,02:00,5,5,2,3,Team D,46,Zone Entry,-25.0,-40.5,Carried,,0,0,53,,
+2025-11-02,Team A,Team D,2,02:00,5,5,2,3,Team D,46,Incomplete Play,-33.0,-39.5,Direct,,0,0,63,-35.0,-17.5
+2025-11-02,Team A,Team D,2,01:56,5,5,2,3,Team A,48,Incomplete Play,-99.0,-1.5,Indirect,,0,0,46,-69.0,-25.5
+2025-11-02,Team A,Team D,2,01:56,5,5,2,3,Team A,48,Puck Recovery,-99.0,-1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,01:54,5,5,2,3,Team D,84,Puck Recovery,-57.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,01:51,5,5,2,3,Team D,84,Shot,-79.0,-7.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,01:48,5,5,2,3,Team D,63,Puck Recovery,-99.0,-11.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,01:46,5,5,2,3,Team A,48,Takeaway,-85.0,22.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,01:46,5,5,2,3,Team A,48,Play,-80.0,23.5,Direct,,0,0,29,-67.0,19.5
+2025-11-02,Team A,Team D,2,01:45,5,5,2,3,Team D,63,Play,-67.0,21.5,Direct,,0,0,28,-63.0,-2.5
+2025-11-02,Team A,Team D,2,01:45,5,5,2,3,Team D,63,Puck Recovery,-67.0,21.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,01:44,5,5,2,3,Team D,28,Shot,-63.0,-2.5,Fan,Missed,0,1,,,
+2025-11-02,Team A,Team D,2,01:40,5,5,2,3,Team D,28,Puck Recovery,-79.0,-38.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,01:39,5,5,2,3,Team D,28,Play,-74.0,-40.5,Direct,,0,0,63,-62.0,-33.5
+2025-11-02,Team A,Team D,2,01:36,5,5,2,3,Team D,28,Puck Recovery,-67.0,-27.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,01:35,5,5,2,3,Team D,28,Play,-77.0,-10.5,Direct,,0,0,46,-74.0,16.5
+2025-11-02,Team A,Team D,2,01:33,5,5,2,3,Team D,46,Puck Recovery,-90.0,32.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,01:30,5,5,2,3,Team A,53,Penalty Taken,-67.0,-17.5,Hooking,,0,0,28,,
+2025-11-02,Team A,Team D,2,01:30,4,5,2,3,Team D,77,Faceoff Win,-69.0,22.5,Backhand,,0,0,88,,
+2025-11-02,Team A,Team D,2,01:30,5,5,2,3,Team A,29,Puck Recovery,-44.0,41.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,01:29,4,5,2,3,Team D,75,Puck Recovery,-68.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,01:29,4,5,2,3,Team D,75,Play,-68.0,39.5,Direct,,0,0,51,-36.0,38.5
+2025-11-02,Team A,Team D,2,01:27,4,5,2,3,Team D,51,Play,-40.0,14.5,Direct,,0,0,42,-46.0,24.5
+2025-11-02,Team A,Team D,2,01:24,4,5,2,3,Team D,42,Play,-68.0,34.5,Direct,,0,0,75,-87.0,12.5
+2025-11-02,Team A,Team D,2,01:23,4,5,2,3,Team D,75,Play,-84.0,9.5,Direct,,0,0,77,-68.0,-0.5
+2025-11-02,Team A,Team D,2,01:22,4,5,2,3,Team D,77,Shot,-74.0,-1.5,Snapshot,Blocked,0,0,,,
+2025-11-02,Team A,Team D,2,01:20,4,5,2,3,Team D,75,Play,-99.0,-1.5,Indirect,,0,0,42,-57.0,41.5
+2025-11-02,Team A,Team D,2,01:20,4,5,2,3,Team D,75,Puck Recovery,-99.0,-1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,01:17,4,5,2,3,Team D,42,Play,-68.0,32.5,Direct,,0,0,51,-32.0,20.5
+2025-11-02,Team A,Team D,2,01:16,4,5,2,3,Team D,51,Play,-34.0,12.5,Direct,,0,0,77,-45.0,-20.5
+2025-11-02,Team A,Team D,2,01:15,4,5,2,3,Team D,77,Play,-45.0,-20.5,Direct,,0,0,42,-60.0,30.5
+2025-11-02,Team A,Team D,2,01:09,4,5,2,3,Team D,42,Play,-60.0,23.5,Direct,,0,0,36,-53.0,-22.5
+2025-11-02,Team A,Team D,2,01:07,4,5,2,3,Team D,36,Shot,-58.0,-17.5,Wristshot,Blocked,0,0,,,
+2025-11-02,Team A,Team D,2,01:05,4,5,2,3,Team D,42,Puck Recovery,-64.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,01:01,4,5,2,3,Team D,42,Shot,-70.0,23.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,2,00:59,4,5,2,3,Team D,75,Puck Recovery,-90.0,19.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,00:58,4,5,2,3,Team D,75,Play,-93.0,26.5,Direct,,0,0,42,-68.0,37.5
+2025-11-02,Team A,Team D,2,00:57,4,5,2,3,Team D,42,Play,-68.0,37.5,Direct,,0,0,75,-89.0,25.5
+2025-11-02,Team A,Team D,2,00:56,4,5,2,3,Team D,75,Shot,-86.0,11.5,Snapshot,Missed,0,0,,,
+2025-11-02,Team A,Team D,2,00:52,4,5,2,3,Team D,51,Puck Recovery,-21.0,-40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,00:48,4,5,2,3,Team D,51,Play,10.0,36.5,Direct,,0,0,42,24.0,15.5
+2025-11-02,Team A,Team D,2,00:45,4,5,2,3,Team D,42,Zone Entry,-25.0,-9.5,Carried,,0,0,45,,
+2025-11-02,Team A,Team D,2,00:44,4,5,2,3,Team D,42,Play,-30.0,-12.5,Direct,,0,0,75,-35.0,-38.5
+2025-11-02,Team A,Team D,2,00:41,4,5,2,3,Team D,75,Play,-86.0,-32.5,Direct,,0,0,42,-98.0,-4.5
+2025-11-02,Team A,Team D,2,00:38,4,5,2,3,Team D,42,Play,-94.0,24.5,Indirect,,0,0,77,-43.0,40.5
+2025-11-02,Team A,Team D,2,00:34,4,5,2,3,Team D,77,Play,-63.0,34.5,Direct,,0,0,51,-32.0,19.5
+2025-11-02,Team A,Team D,2,00:33,4,5,2,3,Team D,51,Play,-34.0,15.5,Direct,,0,0,36,-66.0,-19.5
+2025-11-02,Team A,Team D,2,00:31,4,5,2,3,Team D,36,Shot,-48.0,-12.5,Wristshot,On Net,1,0,,,
+2025-11-02,Team A,Team D,2,00:29,4,5,2,3,Team D,77,Puck Recovery,-70.0,25.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,00:26,4,5,2,3,Team D,77,Play,-34.0,22.5,Indirect,,0,0,51,-33.0,25.5
+2025-11-02,Team A,Team D,2,00:23,4,5,2,3,Team D,51,Play,-54.0,34.5,Direct,,0,0,77,-34.0,-7.5
+2025-11-02,Team A,Team D,2,00:21,4,5,2,3,Team D,77,Play,-33.0,0.5,Direct,,0,0,51,-71.0,31.5
+2025-11-02,Team A,Team D,2,00:20,4,5,2,3,Team D,51,Play,-66.0,31.5,Direct,,0,0,75,-86.0,10.5
+2025-11-02,Team A,Team D,2,00:19,4,5,2,3,Team D,75,Shot,-86.0,8.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,2,00:16,4,5,2,3,Team D,42,Puck Recovery,-59.0,-37.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,00:14,4,5,2,3,Team D,42,Play,-38.0,-21.5,Direct,,0,0,36,-81.0,-24.5
+2025-11-02,Team A,Team D,2,00:12,4,5,2,3,Team D,36,Incomplete Play,-80.0,-17.5,Direct,,0,0,75,-87.0,4.5
+2025-11-02,Team A,Team D,2,00:09,4,5,2,3,Team D,42,Play,-38.0,40.5,Direct,,0,0,77,-43.0,22.5
+2025-11-02,Team A,Team D,2,00:09,4,5,2,3,Team D,42,Puck Recovery,-38.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,00:07,4,5,2,3,Team D,77,Incomplete Play,-65.0,31.5,Direct,,0,0,36,-67.0,-20.5
+2025-11-02,Team A,Team D,2,00:06,4,5,2,3,Team A,21,Takeaway,-65.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,2,00:06,4,5,2,3,Team A,21,Dump In/Out,-65.0,-1.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,20:00,4,5,2,3,Team A,21,Faceoff Win,0.0,0.5,Backhand,,0,0,12,,
+2025-11-02,Team A,Team D,3,19:56,4,5,2,3,Team A,45,Puck Recovery,77.0,-17.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,19:55,4,5,2,3,Team A,45,Dump In/Out,76.0,-32.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,19:51,4,5,2,3,Team D,84,Puck Recovery,-94.0,-16.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,19:45,4,5,2,3,Team D,84,Play,-38.0,12.5,Direct,,0,0,46,17.0,39.5
+2025-11-02,Team A,Team D,3,19:44,4,5,2,3,Team D,46,Play,17.0,39.5,Direct,,0,0,12,-23.0,31.5
+2025-11-02,Team A,Team D,3,19:43,4,5,2,3,Team D,12,Play,-13.0,33.5,Direct,,0,0,46,8.0,40.5
+2025-11-02,Team A,Team D,3,19:42,4,5,2,3,Team D,46,Play,8.0,40.5,Direct,,0,0,12,21.0,33.5
+2025-11-02,Team A,Team D,3,19:41,4,5,2,3,Team D,12,Zone Entry,25.0,31.5,Carried,,0,0,45,,
+2025-11-02,Team A,Team D,3,19:39,4,5,2,3,Team D,12,Play,68.0,40.5,Indirect,,0,0,28,65.0,-36.5
+2025-11-02,Team A,Team D,3,19:33,4,5,2,3,Team A,48,Puck Recovery,51.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,19:33,4,5,2,3,Team A,48,Dump In/Out,51.0,-34.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,19:31,4,5,2,3,Team D,84,Puck Recovery,-9.0,-33.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,19:31,4,5,2,3,Team D,84,Play,-9.0,-33.5,Direct,,0,0,12,-13.0,22.5
+2025-11-02,Team A,Team D,3,19:28,5,5,2,3,Team D,12,Zone Entry,24.0,33.5,Dumped,,0,0,45,,
+2025-11-02,Team A,Team D,3,19:28,5,5,2,3,Team D,12,Dump In/Out,12.0,35.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,19:25,5,5,2,3,Team A,48,Puck Recovery,85.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,19:25,5,5,2,3,Team A,48,Incomplete Play,85.0,-34.5,Indirect,,0,0,45,95.0,22.5
+2025-11-02,Team A,Team D,3,19:21,5,5,2,3,Team D,12,Play,73.0,41.5,Indirect,,0,0,28,96.0,26.5
+2025-11-02,Team A,Team D,3,19:21,5,5,2,3,Team D,12,Puck Recovery,73.0,41.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,19:20,5,5,2,3,Team D,28,Play,96.0,26.5,Direct,,0,0,46,77.0,22.5
+2025-11-02,Team A,Team D,3,19:19,5,5,2,3,Team D,46,Shot,76.0,18.5,Snapshot,Missed,0,0,,,
+2025-11-02,Team A,Team D,3,19:16,5,5,2,3,Team D,52,Puck Recovery,38.0,-35.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,19:15,5,5,2,3,Team D,52,Play,33.0,-22.5,Direct,,0,0,84,33.0,23.5
+2025-11-02,Team A,Team D,3,19:14,5,5,2,3,Team D,84,Play,36.0,25.5,Direct,,0,0,12,63.0,31.5
+2025-11-02,Team A,Team D,3,19:12,5,5,2,3,Team D,12,Play,50.0,28.5,Direct,,0,0,84,30.0,35.5
+2025-11-02,Team A,Team D,3,19:11,5,5,2,3,Team D,84,Play,30.0,35.5,Direct,,0,0,52,34.0,-26.5
+2025-11-02,Team A,Team D,3,19:10,5,5,2,3,Team D,52,Play,37.0,-33.5,Direct,,0,0,28,60.0,17.5
+2025-11-02,Team A,Team D,3,19:08,5,5,2,3,Team D,28,Play,60.0,17.5,Direct,,0,0,52,11.0,-20.5
+2025-11-02,Team A,Team D,3,19:05,5,5,2,3,Team D,52,Play,-5.0,-16.5,Direct,,0,0,84,-13.0,30.5
+2025-11-02,Team A,Team D,3,19:01,5,5,2,3,Team D,84,Play,-83.0,25.5,Indirect,,0,0,52,-88.0,-33.5
+2025-11-02,Team A,Team D,3,18:58,5,5,2,3,Team D,52,Play,-84.0,-34.5,Indirect,,0,0,84,-99.0,-4.5
+2025-11-02,Team A,Team D,3,18:53,5,5,2,3,Team D,84,Incomplete Play,-99.0,-4.5,Indirect,,0,0,59,-37.0,36.5
+2025-11-02,Team A,Team D,3,18:52,5,5,2,3,Team A,9,Takeaway,-40.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,18:50,5,5,2,3,Team A,9,Play,-75.0,31.5,Indirect,,0,0,3,-42.0,-31.5
+2025-11-02,Team A,Team D,3,18:50,5,5,2,3,Team A,9,Puck Recovery,-75.0,31.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,18:45,5,5,2,3,Team A,3,Play,-36.0,-37.5,Direct,,0,0,9,-77.0,-20.5
+2025-11-02,Team A,Team D,3,18:43,5,5,2,3,Team A,9,Shot,-70.0,-22.5,Wristshot,Missed,1,0,,,
+2025-11-02,Team A,Team D,3,18:41,5,5,2,3,Team A,88,Puck Recovery,-83.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,18:39,5,5,2,3,Team A,88,Play,-96.0,-22.5,Direct,,0,0,92,-77.0,-13.5
+2025-11-02,Team A,Team D,3,18:38,5,5,2,3,Team A,92,Play,-77.0,-13.5,Direct,,0,0,72,-33.0,15.5
+2025-11-02,Team A,Team D,3,18:36,5,5,2,3,Team A,72,Play,-34.0,13.5,Direct,,0,0,3,-39.0,-32.5
+2025-11-02,Team A,Team D,3,18:35,5,5,2,3,Team A,3,Shot,-46.0,-36.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,3,18:32,5,5,2,3,Team A,92,Puck Recovery,-69.0,-9.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,18:29,5,5,2,3,Team D,52,Puck Recovery,-95.0,-17.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,18:29,5,5,2,3,Team D,52,Incomplete Play,-95.0,-17.5,Indirect,,0,0,59,-62.0,39.5
+2025-11-02,Team A,Team D,3,18:25,5,5,2,3,Team A,9,Puck Recovery,-53.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,18:22,5,5,2,3,Team A,9,Play,-53.0,40.5,Direct,,0,0,92,-60.0,13.5
+2025-11-02,Team A,Team D,3,18:21,5,5,2,3,Team A,92,Shot,-62.0,-0.5,Wristshot,On Net,1,0,,,
+2025-11-02,Team A,Team D,3,18:18,5,5,2,3,Team D,28,Puck Recovery,-59.0,-28.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,18:18,5,5,2,3,Team D,28,Dump In/Out,-56.0,-34.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,18:15,5,5,2,3,Team A,72,Play,37.0,-27.5,Direct,,0,0,3,-3.0,-41.5
+2025-11-02,Team A,Team D,3,18:15,5,5,2,3,Team A,72,Puck Recovery,37.0,-27.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,18:10,5,5,2,3,Team D,51,Puck Recovery,-95.0,-15.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,18:08,5,5,2,3,Team D,51,Play,-86.0,22.5,Direct,,0,0,75,9.0,37.5
+2025-11-02,Team A,Team D,3,18:05,5,5,2,3,Team D,75,Zone Entry,25.0,39.5,Carried,,0,0,3,,
+2025-11-02,Team A,Team D,3,18:04,5,5,2,3,Team D,75,Incomplete Play,50.0,39.5,Indirect,,0,0,77,45.0,-26.5
+2025-11-02,Team A,Team D,3,18:01,5,5,2,3,Team A,48,Play,50.0,-34.5,Direct,,0,0,39,14.0,-34.5
+2025-11-02,Team A,Team D,3,18:01,5,5,2,3,Team A,48,Takeaway,50.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,17:55,5,5,2,3,Team D,88,Puck Recovery,-98.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,17:52,5,5,2,3,Team A,46,Takeaway,-95.0,-18.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,17:52,5,5,2,3,Team A,46,Play,-95.0,-18.5,Direct,,0,0,39,-72.0,-11.5
+2025-11-02,Team A,Team D,3,17:51,5,5,2,3,Team A,39,Shot,-72.0,-11.5,Snapshot,Blocked,1,1,,,
+2025-11-02,Team A,Team D,3,17:48,5,5,2,3,Team A,53,Puck Recovery,-38.0,37.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,17:47,5,5,2,3,Team A,53,Play,-38.0,28.5,Direct,,0,0,48,-35.0,-33.5
+2025-11-02,Team A,Team D,3,17:45,5,5,2,3,Team A,48,Play,-43.0,-36.5,Direct,,0,0,53,-36.0,-0.5
+2025-11-02,Team A,Team D,3,17:42,5,5,2,3,Team A,53,Shot,-39.0,19.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,3,17:40,5,5,2,3,Team A,48,Puck Recovery,-54.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,17:40,5,5,2,3,Team A,48,Shot,-54.0,-32.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,3,17:38,5,5,2,3,Team A,48,Puck Recovery,-86.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,17:35,5,5,2,3,Team D,88,Puck Recovery,-95.0,19.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,17:35,5,5,2,3,Team D,88,Play,-94.0,24.5,Direct,,0,0,77,-61.0,30.5
+2025-11-02,Team A,Team D,3,17:31,5,5,2,3,Team D,77,Dump In/Out,11.0,22.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,3,17:31,5,5,2,3,Team D,77,Zone Entry,25.0,22.5,Dumped,,0,0,53,,
+2025-11-02,Team A,Team D,3,17:27,5,5,2,3,Team D,8,Puck Recovery,95.0,9.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,17:25,5,5,2,3,Team D,8,Play,91.0,-26.5,Indirect,,0,0,75,95.0,-7.5
+2025-11-02,Team A,Team D,3,17:18,5,5,2,3,Team A,53,Takeaway,95.0,11.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,17:14,5,5,2,3,Team D,8,Takeaway,95.0,11.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,17:13,5,5,2,3,Team D,8,Play,94.0,19.5,Indirect,,0,0,78,30.0,35.5
+2025-11-02,Team A,Team D,3,17:12,5,5,2,3,Team D,78,Play,33.0,23.5,Direct,,0,0,74,41.0,-14.5
+2025-11-02,Team A,Team D,3,17:08,5,5,2,3,Team D,74,Play,86.0,-32.5,Direct,,0,0,8,83.0,-7.5
+2025-11-02,Team A,Team D,3,17:08,5,5,2,3,Team D,8,Shot,83.0,-7.5,Snapshot,On Net,0,1,,,
+2025-11-02,Team A,Team D,3,17:07,5,5,2,3,Team D,75,Puck Recovery,86.0,-0.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,17:07,5,5,2,3,Team D,75,Goal,86.0,-0.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,3,17:05,5,5,2,4,Team A,14,Faceoff Win,0.0,0.5,Backhand,,0,0,12,,
+2025-11-02,Team A,Team D,3,17:02,5,5,2,4,Team A,89,Puck Recovery,-7.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,17:00,5,5,2,4,Team D,78,Puck Recovery,-44.0,-27.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,16:58,5,5,2,4,Team D,78,Play,-71.0,6.5,Indirect,,0,0,36,10.0,37.5
+2025-11-02,Team A,Team D,3,16:57,5,5,2,4,Team D,36,Dump In/Out,10.0,37.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,16:56,5,5,2,4,Team D,36,Zone Entry,26.0,37.5,Dumped,,0,0,45,,
+2025-11-02,Team A,Team D,3,16:53,5,5,2,4,Team A,72,Play,95.0,24.5,Indirect,,0,0,14,62.0,37.5
+2025-11-02,Team A,Team D,3,16:53,5,5,2,4,Team A,72,Puck Recovery,95.0,24.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,16:50,5,5,2,4,Team A,14,Play,68.0,40.5,Direct,,0,0,89,52.0,12.5
+2025-11-02,Team A,Team D,3,16:48,5,5,2,4,Team A,89,Incomplete Play,12.0,19.5,Direct,,0,0,73,-10.0,32.5
+2025-11-02,Team A,Team D,3,16:45,5,5,2,4,Team D,42,Puck Recovery,4.0,27.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,16:44,5,5,2,4,Team D,42,Zone Entry,25.0,32.5,Carried,,0,0,72,,
+2025-11-02,Team A,Team D,3,16:43,5,5,2,4,Team D,42,Play,43.0,25.5,Direct,,0,0,36,75.0,1.5
+2025-11-02,Team A,Team D,3,16:42,5,5,2,4,Team D,36,Puck Recovery,67.0,-0.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,16:42,5,5,2,4,Team D,36,Shot,67.0,-0.5,Deflection,On Net,0,0,,,
+2025-11-02,Team A,Team D,3,16:39,5,5,2,4,Team A,14,Puck Recovery,86.0,-20.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,16:39,5,5,2,4,Team A,14,Dump In/Out,79.0,-35.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,16:33,5,5,2,4,Team D,78,Puck Recovery,-97.0,-9.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,16:33,5,5,2,4,Team D,25,Faceoff Win,69.0,22.5,Backhand,,0,0,14,,
+2025-11-02,Team A,Team D,3,16:33,5,5,2,4,Team D,59,Puck Recovery,61.0,27.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,16:32,5,5,2,4,Team D,59,Play,46.0,17.5,Direct,,0,0,52,34.0,-24.5
+2025-11-02,Team A,Team D,3,16:30,5,5,2,4,Team D,52,Play,41.0,-35.5,Indirect,,0,0,37,88.0,-7.5
+2025-11-02,Team A,Team D,3,16:25,5,5,2,4,Team D,37,Play,75.0,-30.5,Direct,,0,0,52,33.0,-24.5
+2025-11-02,Team A,Team D,3,16:24,5,5,2,4,Team D,52,Shot,33.0,-24.5,Slapshot,On Net,1,1,,,
+2025-11-02,Team A,Team D,3,16:22,5,5,2,4,Team A,73,Play,35.0,36.5,Direct,,0,0,89,-11.0,22.5
+2025-11-02,Team A,Team D,3,16:22,5,5,2,4,Team A,73,Puck Recovery,61.0,19.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,16:19,5,5,2,4,Team D,52,Puck Recovery,-35.0,18.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,16:17,5,5,2,4,Team D,52,Play,-61.0,-3.5,Direct,,0,0,59,-34.0,-21.5
+2025-11-02,Team A,Team D,3,16:15,5,5,2,4,Team D,59,Play,-38.0,-29.5,Direct,,0,0,88,-45.0,-0.5
+2025-11-02,Team A,Team D,3,16:13,5,5,2,4,Team D,88,Play,-47.0,11.5,Direct,,0,0,52,-45.0,-31.5
+2025-11-02,Team A,Team D,3,16:11,5,5,2,4,Team D,52,Play,-31.0,-26.5,Direct,,0,0,25,6.0,-15.5
+2025-11-02,Team A,Team D,3,16:10,5,5,2,4,Team D,25,Incomplete Play,11.0,-15.5,Direct,,0,0,37,17.0,-30.5
+2025-11-02,Team A,Team D,3,16:06,5,5,2,4,Team A,72,Play,97.0,-22.5,Indirect,,0,0,56,96.0,2.5
+2025-11-02,Team A,Team D,3,16:06,5,5,2,4,Team A,72,Puck Recovery,97.0,-22.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,16:03,5,5,2,4,Team A,89,Play,66.0,42.5,Direct,,0,0,88,47.0,33.5
+2025-11-02,Team A,Team D,3,16:03,5,5,2,4,Team A,89,Puck Recovery,66.0,42.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,16:01,5,5,2,4,Team A,88,Puck Recovery,38.0,17.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,16:00,5,5,2,4,Team D,59,Puck Recovery,38.0,29.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,16:00,5,5,2,4,Team D,59,Play,38.0,29.5,Direct,,0,0,37,41.0,8.5
+2025-11-02,Team A,Team D,3,15:56,5,5,2,4,Team D,52,Puck Recovery,-5.0,-23.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,15:48,5,5,2,4,Team D,52,Play,-49.0,-4.5,Direct,,0,0,88,-42.0,24.5
+2025-11-02,Team A,Team D,3,15:45,5,5,2,4,Team D,88,Dump In/Out,9.0,37.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,15:45,5,5,2,4,Team D,88,Zone Entry,24.0,37.5,Dumped,,0,0,48,,
+2025-11-02,Team A,Team D,3,15:42,5,5,2,4,Team A,56,Play,84.0,-32.5,Indirect,,0,0,48,97.0,0.5
+2025-11-02,Team A,Team D,3,15:42,5,5,2,4,Team A,56,Puck Recovery,84.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,15:40,5,5,2,4,Team A,48,Play,96.0,13.5,Direct,,0,0,92,48.0,40.5
+2025-11-02,Team A,Team D,3,15:38,5,5,2,4,Team A,92,Play,46.0,36.5,Direct,,0,0,9,12.0,-33.5
+2025-11-02,Team A,Team D,3,15:35,5,5,2,4,Team A,9,Zone Entry,-26.0,-33.5,Carried,,0,0,51,,
+2025-11-02,Team A,Team D,3,15:33,5,5,2,4,Team A,88,Incomplete Play,-86.0,-8.5,Direct,,0,0,92,-74.0,15.5
+2025-11-02,Team A,Team D,3,15:33,5,5,2,4,Team A,88,Puck Recovery,-86.0,-8.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,15:32,5,5,2,4,Team D,63,Puck Recovery,-76.0,5.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,15:32,5,5,2,4,Team D,63,Incomplete Play,-76.0,5.5,Direct,,0,0,51,-67.0,-11.5
+2025-11-02,Team A,Team D,3,15:30,5,5,2,4,Team A,56,Puck Recovery,-67.0,-11.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,15:30,5,5,2,4,Team A,56,Play,-67.0,-11.5,Direct,,0,0,48,-51.0,10.5
+2025-11-02,Team A,Team D,3,15:29,5,5,2,4,Team A,48,Shot,-54.0,9.5,Snapshot,Missed,1,0,,,
+2025-11-02,Team A,Team D,3,15:25,5,5,2,4,Team D,51,Puck Recovery,-53.0,-35.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,15:25,5,5,2,4,Team D,51,Incomplete Play,-53.0,-35.5,Indirect,,0,0,63,-20.0,-33.5
+2025-11-02,Team A,Team D,3,15:23,5,5,2,4,Team A,56,Play,-40.0,-37.5,Direct,,0,0,88,-58.0,-34.5
+2025-11-02,Team A,Team D,3,15:23,5,5,2,4,Team A,56,Puck Recovery,-40.0,-37.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,15:16,5,5,2,4,Team D,84,Puck Recovery,-97.0,13.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,15:15,5,5,2,4,Team D,84,Play,-90.0,24.5,Direct,,0,0,46,-47.0,33.5
+2025-11-02,Team A,Team D,3,15:11,5,5,2,4,Team D,46,Zone Entry,25.0,38.5,Dumped,,0,0,48,,
+2025-11-02,Team A,Team D,3,15:11,5,5,2,4,Team D,46,Dump In/Out,9.0,40.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,15:08,5,5,2,4,Team A,Go,Play,96.0,2.5,Indirect,,0,0,92,82.0,37.5
+2025-11-02,Team A,Team D,3,15:08,5,5,2,4,Team A,Go,Puck Recovery,96.0,2.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,15:01,5,5,2,4,Team A,92,Play,36.0,28.5,Direct,,0,0,56,63.0,14.5
+2025-11-02,Team A,Team D,3,14:58,5,5,2,4,Team A,48,Puck Recovery,77.0,-26.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,14:53,5,5,2,4,Team A,48,Play,96.0,-6.5,Direct,,0,0,29,43.0,-37.5
+2025-11-02,Team A,Team D,3,14:51,5,5,2,4,Team A,29,Play,48.0,-33.5,Direct,,0,0,56,29.0,37.5
+2025-11-02,Team A,Team D,3,14:48,5,5,2,4,Team A,56,Zone Entry,-25.0,38.5,Dumped,,0,0,78,,
+2025-11-02,Team A,Team D,3,14:48,5,5,2,4,Team A,56,Dump In/Out,-5.0,40.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,14:45,5,5,2,4,Team D,74,Puck Recovery,-96.0,27.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,14:45,5,5,2,4,Team D,74,Play,-96.0,27.5,Indirect,,0,0,78,-79.0,35.5
+2025-11-02,Team A,Team D,3,14:43,5,5,2,4,Team D,78,Play,-79.0,35.5,Indirect,,0,0,75,-60.0,40.5
+2025-11-02,Team A,Team D,3,14:35,5,5,2,4,Team A,39,Takeaway,-60.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,14:32,5,5,2,4,Team D,75,Puck Recovery,-48.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,14:32,5,5,2,4,Team D,75,Dump In/Out,-48.0,40.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,14:31,5,5,2,4,Team A,53,Puck Recovery,-7.0,33.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,14:30,5,5,2,4,Team A,53,Zone Entry,-25.0,33.5,Dumped,,0,0,78,,
+2025-11-02,Team A,Team D,3,14:30,5,5,2,4,Team A,53,Dump In/Out,-7.0,33.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,14:25,5,5,2,4,Team D,74,Puck Recovery,-83.0,-29.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,14:25,5,5,2,4,Team D,74,Play,-83.0,-29.5,Indirect,,0,0,78,-96.0,-4.5
+2025-11-02,Team A,Team D,3,14:22,5,5,2,4,Team A,29,Puck Recovery,-85.0,35.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,14:20,5,5,2,4,Team D,77,Takeaway,-70.0,42.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,14:19,5,5,2,4,Team D,77,Play,-79.0,40.5,Direct,,0,0,78,-94.0,27.5
+2025-11-02,Team A,Team D,3,14:15,5,5,2,4,Team D,74,Puck Recovery,-93.0,-18.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,14:12,5,5,2,4,Team D,74,Play,-35.0,-35.5,Direct,,0,0,36,-8.0,-36.5
+2025-11-02,Team A,Team D,3,14:07,5,5,2,4,Team A,45,Puck Recovery,90.0,-18.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,14:07,5,5,2,4,Team A,45,Play,90.0,-18.5,Indirect,,0,0,53,96.0,21.5
+2025-11-02,Team A,Team D,3,14:04,5,5,2,4,Team A,53,Dump In/Out,86.0,33.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,14:01,5,5,2,4,Team D,88,Play,-47.0,20.5,Direct,,0,0,12,-10.0,5.5
+2025-11-02,Team A,Team D,3,14:01,5,5,2,4,Team D,88,Puck Recovery,-47.0,20.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,13:57,5,5,2,4,Team D,12,Zone Entry,23.0,-30.5,Carried,,0,0,45,,
+2025-11-02,Team A,Team D,3,13:55,5,5,2,4,Team D,12,Shot,52.0,2.5,Wristshot,Missed,0,0,,,
+2025-11-02,Team A,Team D,3,13:47,5,5,2,4,Team A,14,Puck Recovery,51.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,13:45,5,5,2,4,Team A,89,Puck Recovery,46.0,9.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,13:43,5,5,2,4,Team A,45,Play,54.0,-0.5,Direct,,0,0,73,9.0,18.5
+2025-11-02,Team A,Team D,3,13:43,5,5,2,4,Team A,45,Puck Recovery,54.0,-0.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,13:41,5,5,2,4,Team A,73,Play,-19.0,15.5,Direct,,0,0,14,-33.0,36.5
+2025-11-02,Team A,Team D,3,13:40,5,5,2,4,Team A,73,Zone Entry,-27.0,24.5,Played,,0,0,88,,
+2025-11-02,Team A,Team D,3,13:38,5,5,2,4,Team A,14,Shot,-64.0,15.5,Wristshot,On Net,1,0,,,
+2025-11-02,Team A,Team D,3,13:37,5,5,2,4,Team D,88,Puck Recovery,-72.0,3.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,13:37,5,5,2,4,Team D,88,Dump In/Out,-72.0,3.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,13:36,5,5,2,4,Team A,3,Puck Recovery,-15.0,-3.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,13:33,5,5,2,4,Team A,3,Play,11.0,-31.5,Direct,,0,0,72,40.0,21.5
+2025-11-02,Team A,Team D,3,13:30,5,5,2,4,Team A,72,Play,41.0,31.5,Direct,,0,0,89,8.0,34.5
+2025-11-02,Team A,Team D,3,13:28,5,5,2,4,Team A,89,Play,16.0,15.5,Direct,,0,0,14,-10.0,-39.5
+2025-11-02,Team A,Team D,3,13:27,5,5,2,4,Team A,14,Dump In/Out,-10.0,-39.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,13:26,5,5,2,4,Team A,14,Zone Entry,-26.0,-35.5,Dumped,,0,0,52,,
+2025-11-02,Team A,Team D,3,13:23,5,5,2,4,Team D,88,Puck Recovery,-79.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,13:23,5,5,2,4,Team D,88,Incomplete Play,-79.0,40.5,Direct,,0,0,36,-43.0,-6.5
+2025-11-02,Team A,Team D,3,13:21,5,5,2,4,Team D,52,Puck Recovery,-59.0,-0.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,13:16,5,5,2,4,Team D,52,Play,-94.0,-23.5,Indirect,,0,0,25,-92.0,-20.5
+2025-11-02,Team A,Team D,3,13:15,5,5,2,4,Team D,25,Play,-92.0,-20.5,Indirect,,0,0,88,-94.0,20.5
+2025-11-02,Team A,Team D,3,13:13,5,5,2,4,Team D,88,Dump In/Out,-75.0,31.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,13:09,5,5,2,4,Team A,3,Puck Recovery,46.0,-23.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,13:07,5,5,2,4,Team A,3,Play,64.0,-25.5,Direct,,0,0,72,74.0,14.5
+2025-11-02,Team A,Team D,3,13:04,5,5,2,4,Team A,72,Play,46.0,23.5,Indirect,,0,0,88,-14.0,37.5
+2025-11-02,Team A,Team D,3,13:03,5,5,2,4,Team A,88,Dump In/Out,-14.0,37.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,3,13:03,5,5,2,4,Team A,88,Zone Entry,-24.0,38.5,Dumped,,0,0,51,,
+2025-11-02,Team A,Team D,3,12:57,5,5,2,4,Team A,92,Puck Recovery,-96.0,-5.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,12:56,5,5,2,4,Team A,92,Play,-97.0,18.5,Indirect,,0,0,48,-32.0,33.5
+2025-11-02,Team A,Team D,3,12:53,5,5,2,4,Team A,48,Play,-35.0,23.5,Direct,,0,0,56,-52.0,-34.5
+2025-11-02,Team A,Team D,3,12:51,5,5,2,4,Team A,56,Shot,-64.0,-29.5,Wristshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,3,12:50,5,5,2,4,Team A,9,Puck Recovery,-73.0,4.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,12:49,5,5,2,4,Team D,37,Puck Recovery,-72.0,19.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,12:47,5,5,2,4,Team D,59,Puck Recovery,-46.0,27.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,12:45,5,5,2,4,Team D,59,Zone Entry,25.0,33.5,Carried,,0,0,56,,
+2025-11-02,Team A,Team D,3,12:44,5,5,2,4,Team D,59,Play,45.0,21.5,Direct,,0,0,25,80.0,-7.5
+2025-11-02,Team A,Team D,3,12:42,5,5,2,4,Team D,25,Incomplete Play,83.0,-9.5,Direct,,0,0,59,79.0,3.5
+2025-11-02,Team A,Team D,3,12:42,5,5,2,4,Team A,56,Takeaway,82.0,-1.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,12:37,5,5,2,4,Team A,56,Play,92.0,24.5,Indirect,,0,0,88,50.0,40.5
+2025-11-02,Team A,Team D,3,12:34,5,5,2,4,Team A,88,Play,43.0,40.5,Direct,,0,0,48,49.0,28.5
+2025-11-02,Team A,Team D,3,12:31,5,5,2,4,Team A,48,Play,69.0,16.5,Direct,,0,0,56,45.0,-16.5
+2025-11-02,Team A,Team D,3,12:29,5,5,2,4,Team A,56,Play,18.0,-23.5,Direct,,0,0,92,-9.0,-35.5
+2025-11-02,Team A,Team D,3,12:27,5,5,2,4,Team A,92,Zone Entry,-22.0,-36.5,Dumped,,0,0,51,,
+2025-11-02,Team A,Team D,3,12:27,5,5,2,4,Team A,92,Dump In/Out,-9.0,-35.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,12:24,5,5,2,4,Team D,28,Puck Recovery,-52.0,37.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,12:24,5,5,2,4,Team D,28,Play,-52.0,37.5,Indirect,,0,0,51,-78.0,-24.5
+2025-11-02,Team A,Team D,3,12:20,5,5,2,4,Team D,51,Play,-76.0,-27.5,Indirect,,0,0,46,-41.0,-35.5
+2025-11-02,Team A,Team D,3,12:14,5,5,2,4,Team A,39,Puck Recovery,36.0,-21.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,12:14,5,5,2,4,Team A,39,Play,40.0,-16.5,Direct,,0,0,45,59.0,-11.5
+2025-11-02,Team A,Team D,3,12:12,5,5,2,4,Team A,45,Play,69.0,-2.5,Direct,,0,0,29,21.0,-35.5
+2025-11-02,Team A,Team D,3,12:08,5,5,2,4,Team D,46,Puck Recovery,34.0,-38.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,12:07,5,5,2,4,Team D,46,Play,39.0,-36.5,Direct,,0,0,63,59.0,-27.5
+2025-11-02,Team A,Team D,3,12:06,5,5,2,4,Team D,63,Play,67.0,-28.5,Direct,,0,0,28,45.0,-20.5
+2025-11-02,Team A,Team D,3,12:05,5,5,2,4,Team D,28,Play,51.0,-7.5,Direct,,0,0,46,75.0,-0.5
+2025-11-02,Team A,Team D,3,12:04,5,5,2,4,Team D,46,Shot,75.0,-0.5,Snapshot,On Net,0,1,,,
+2025-11-02,Team A,Team D,3,12:01,5,5,2,4,Team A,46,Puck Recovery,83.0,-8.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,11:56,5,5,2,4,Team D,28,Puck Recovery,10.0,-21.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,11:54,5,5,2,4,Team D,28,Play,7.0,6.5,Direct,,0,0,84,10.0,35.5
+2025-11-02,Team A,Team D,3,11:53,5,5,2,4,Team D,84,Zone Entry,26.0,37.5,Carried,,0,0,53,,
+2025-11-02,Team A,Team D,3,11:51,5,5,2,4,Team D,84,Goal,80.0,7.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,3,11:50,5,5,2,5,Team A,21,Faceoff Win,0.0,0.5,Backhand,,0,0,77,,
+2025-11-02,Team A,Team D,3,11:49,5,5,2,5,Team A,17,Play,12.0,3.5,Direct,,0,0,72,43.0,24.5
+2025-11-02,Team A,Team D,3,11:49,5,5,2,5,Team A,17,Puck Recovery,12.0,3.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,11:48,5,5,2,5,Team A,72,Play,43.0,24.5,Direct,,0,0,3,43.0,-5.5
+2025-11-02,Team A,Team D,3,11:46,5,5,2,5,Team A,3,Play,42.0,-21.5,Indirect,,0,0,71,7.0,-39.5
+2025-11-02,Team A,Team D,3,11:41,5,5,2,5,Team A,21,Puck Recovery,6.0,-10.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,11:40,5,5,2,5,Team A,21,Zone Entry,-25.0,-0.5,Dumped,,0,0,78,,
+2025-11-02,Team A,Team D,3,11:40,5,5,2,5,Team A,21,Dump In/Out,-20.0,4.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,11:32,5,5,2,5,Team D,77,Puck Recovery,-96.0,-20.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,11:32,5,5,2,5,Team D,77,Play,-96.0,-20.5,Indirect,,0,0,78,-98.0,6.5
+2025-11-02,Team A,Team D,3,11:30,5,5,2,5,Team D,78,Play,-88.0,21.5,Direct,,0,0,75,-62.0,30.5
+2025-11-02,Team A,Team D,3,11:29,5,5,2,5,Team D,75,Dump In/Out,-55.0,39.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,11:27,5,5,2,5,Team A,72,Puck Recovery,18.0,42.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,11:26,5,5,2,5,Team A,72,Play,35.0,38.5,Direct,,0,0,3,38.0,-3.5
+2025-11-02,Team A,Team D,3,11:25,5,5,2,5,Team A,3,Play,42.0,-26.5,Indirect,,0,0,71,-12.0,-37.5
+2025-11-02,Team A,Team D,3,11:24,5,5,2,5,Team A,71,Play,-12.0,-37.5,Direct,,0,0,21,-9.0,-19.5
+2025-11-02,Team A,Team D,3,11:22,5,5,2,5,Team A,21,Zone Entry,-25.0,-19.5,Carried,,0,0,78,,
+2025-11-02,Team A,Team D,3,11:21,5,5,2,5,Team D,12,Faceoff Win,-20.0,-21.5,Forehand,,0,0,92,,
+2025-11-02,Team A,Team D,3,11:20,5,5,2,5,Team D,78,Puck Recovery,-54.0,-5.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,11:19,5,5,2,5,Team D,78,Play,-67.0,2.5,Direct,,0,0,36,21.0,0.5
+2025-11-02,Team A,Team D,3,11:15,5,5,2,5,Team D,36,Puck Recovery,80.0,17.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,11:13,5,5,2,5,Team D,36,Play,93.0,-8.5,Direct,,0,0,42,76.0,-2.5
+2025-11-02,Team A,Team D,3,11:12,5,5,2,5,Team D,42,Shot,76.0,-2.5,Snapshot,Missed,0,1,,,
+2025-11-02,Team A,Team D,3,11:09,5,5,2,5,Team A,9,Puck Recovery,92.0,22.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,11:08,5,5,2,5,Team A,9,Play,56.0,40.5,Direct,,0,0,92,48.0,14.5
+2025-11-02,Team A,Team D,3,11:04,5,5,2,5,Team A,92,Zone Entry,-25.0,-21.5,Carried,,0,0,74,,
+2025-11-02,Team A,Team D,3,11:04,5,5,2,5,Team A,92,Play,-32.0,-22.5,Direct,,0,0,88,-38.0,-10.5
+2025-11-02,Team A,Team D,3,11:03,5,5,2,5,Team A,88,Play,-65.0,-11.5,Direct,,0,0,9,-74.0,12.5
+2025-11-02,Team A,Team D,3,11:02,5,5,2,5,Team A,9,Shot,-74.0,12.5,Snapshot,Missed,0,1,,,
+2025-11-02,Team A,Team D,3,10:58,5,5,2,5,Team D,78,Puck Recovery,-58.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,10:58,5,5,2,5,Team D,78,Dump In/Out,-58.0,39.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,10:57,5,5,2,5,Team A,48,Puck Recovery,9.0,-7.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,10:54,5,5,2,5,Team A,48,Zone Entry,-25.0,-32.5,Carried,,0,0,74,,
+2025-11-02,Team A,Team D,3,10:53,5,5,2,5,Team A,48,Shot,-49.0,-34.5,Wristshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,3,10:49,5,5,2,5,Team A,9,Puck Recovery,-32.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,10:48,5,5,2,5,Team A,9,Zone Entry,-26.0,39.5,Dumped,,0,0,78,,
+2025-11-02,Team A,Team D,3,10:48,5,5,2,5,Team A,9,Dump In/Out,-20.0,40.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,10:47,5,5,2,5,Team D,78,Puck Recovery,-49.0,21.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,10:45,5,5,2,5,Team D,78,Play,-47.0,26.5,Direct,,0,0,74,-60.0,-2.5
+2025-11-02,Team A,Team D,3,10:42,5,5,2,5,Team D,74,Play,-62.0,-13.5,Direct,,0,0,78,-72.0,33.5
+2025-11-02,Team A,Team D,3,10:40,5,5,2,5,Team D,78,Play,-62.0,40.5,Direct,,0,0,25,-19.0,-5.5
+2025-11-02,Team A,Team D,3,10:38,5,5,2,5,Team D,25,Play,-35.0,14.5,Direct,,0,0,37,-40.0,30.5
+2025-11-02,Team A,Team D,3,10:28,5,6,2,5,Team D,37,Play,-94.0,10.5,Indirect,,0,0,52,-95.0,19.5
+2025-11-02,Team A,Team D,3,10:23,5,6,2,5,Team A,9,Penalty Taken,-22.0,40.5,Roughing,,0,0,42,,
+2025-11-02,Team A,Team D,3,10:23,4,5,2,5,Team A,39,Faceoff Win,69.0,-21.5,Backhand,,0,0,28,,
+2025-11-02,Team A,Team D,3,10:21,4,5,2,5,Team D,28,Faceoff Win,69.0,-21.5,Backhand,,0,0,39,,
+2025-11-02,Team A,Team D,3,10:13,4,5,2,5,Team D,28,Puck Recovery,85.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,10:13,4,5,2,5,Team D,28,Play,85.0,-32.5,Indirect,,0,0,84,33.0,-35.5
+2025-11-02,Team A,Team D,3,10:09,4,5,2,5,Team D,84,Play,33.0,-20.5,Direct,,0,0,12,52.0,-39.5
+2025-11-02,Team A,Team D,3,10:06,4,5,2,5,Team D,12,Play,33.0,-12.5,Direct,,0,0,84,42.0,-24.5
+2025-11-02,Team A,Team D,3,10:00,4,5,2,5,Team D,84,Play,30.0,-11.5,Direct,,0,0,28,43.0,-31.5
+2025-11-02,Team A,Team D,3,09:58,4,5,2,5,Team D,28,Play,51.0,-37.5,Direct,,0,0,46,81.0,-18.5
+2025-11-02,Team A,Team D,3,09:55,4,5,2,5,Team D,46,Play,84.0,-35.5,Direct,,0,0,84,36.0,-21.5
+2025-11-02,Team A,Team D,3,09:52,4,5,2,5,Team D,84,Play,36.0,12.5,Direct,,0,0,46,33.0,-14.5
+2025-11-02,Team A,Team D,3,09:50,4,5,2,5,Team D,46,Play,33.0,-14.5,Direct,,0,0,12,38.0,-21.5
+2025-11-02,Team A,Team D,3,09:48,4,5,2,5,Team D,12,Play,46.0,-20.5,Direct,,0,0,28,68.0,-32.5
+2025-11-02,Team A,Team D,3,09:44,4,5,2,5,Team D,28,Incomplete Play,94.0,-3.5,Direct,,0,0,52,74.0,-4.5
+2025-11-02,Team A,Team D,3,09:42,4,5,2,5,Team A,39,Puck Recovery,79.0,-4.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,09:40,4,5,2,5,Team A,39,Play,96.0,-19.5,Indirect,,0,0,3,92.0,-17.5
+2025-11-02,Team A,Team D,3,09:37,4,5,2,5,Team D,52,Puck Recovery,67.0,-36.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,09:36,4,5,2,5,Team D,52,Play,67.0,-36.5,Direct,,0,0,84,30.0,-2.5
+2025-11-02,Team A,Team D,3,09:35,4,5,2,5,Team D,84,Play,33.0,8.5,Direct,,0,0,52,43.0,-26.5
+2025-11-02,Team A,Team D,3,09:33,4,5,2,5,Team D,52,Play,49.0,-26.5,Direct,,0,0,12,87.0,-20.5
+2025-11-02,Team A,Team D,3,09:31,4,5,2,5,Team D,52,Shot,60.0,-18.5,Snapshot,Missed,0,1,,,
+2025-11-02,Team A,Team D,3,09:31,4,5,2,5,Team D,12,Play,87.0,-22.5,Direct,,0,0,52,60.0,-18.5
+2025-11-02,Team A,Team D,3,09:25,4,5,2,5,Team D,84,Puck Recovery,-52.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,09:19,4,5,2,5,Team D,84,Play,-64.0,-22.5,Direct,,0,0,42,-77.0,1.5
+2025-11-02,Team A,Team D,3,09:13,4,5,2,5,Team D,42,Play,3.0,9.5,Direct,,0,0,36,12.0,37.5
+2025-11-02,Team A,Team D,3,09:12,4,5,2,5,Team D,36,Zone Entry,26.0,35.5,Carried,,0,0,45,,
+2025-11-02,Team A,Team D,3,09:06,4,5,2,5,Team D,36,Shot,73.0,-14.5,Wristshot,Missed,1,0,,,
+2025-11-02,Team A,Team D,3,09:03,4,5,2,5,Team D,36,Puck Recovery,83.0,-30.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,09:03,4,5,2,5,Team D,36,Play,83.0,-30.5,Indirect,,0,0,75,96.0,1.5
+2025-11-02,Team A,Team D,3,09:01,4,5,2,5,Team D,75,Play,96.0,-8.5,Direct,,0,0,36,86.0,-31.5
+2025-11-02,Team A,Team D,3,08:58,4,5,2,5,Team D,36,Play,80.0,-36.5,Direct,,0,0,51,31.0,-12.5
+2025-11-02,Team A,Team D,3,08:55,4,5,2,5,Team D,51,Shot,33.0,2.5,Wristshot,Missed,1,0,,,
+2025-11-02,Team A,Team D,3,08:49,4,5,2,5,Team D,36,Puck Recovery,34.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,08:45,4,5,2,5,Team D,36,Play,31.0,36.5,Indirect,,0,0,77,94.0,-15.5
+2025-11-02,Team A,Team D,3,08:40,4,5,2,5,Team D,77,Play,94.0,-15.5,Indirect,,0,0,42,50.0,-37.5
+2025-11-02,Team A,Team D,3,08:35,4,5,2,5,Team D,42,Play,58.0,-22.5,Direct,,0,0,51,34.0,-24.5
+2025-11-02,Team A,Team D,3,08:30,4,5,2,5,Team D,51,Incomplete Play,67.0,-31.5,Direct,,0,0,36,77.0,9.5
+2025-11-02,Team A,Team D,3,08:28,4,5,2,5,Team A,21,Faceoff Win,69.0,22.5,Backhand,,0,0,25,,
+2025-11-02,Team A,Team D,3,08:26,4,5,2,5,Team A,72,Puck Recovery,69.0,37.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,08:25,4,5,2,5,Team A,72,Incomplete Play,90.0,27.5,Indirect,,0,0,21,49.0,-36.5
+2025-11-02,Team A,Team D,3,08:23,4,5,2,5,Team D,74,Puck Recovery,49.0,-36.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,08:21,5,5,2,5,Team A,21,Takeaway,77.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,08:19,5,5,2,5,Team A,21,Incomplete Play,92.0,-24.5,Indirect,,0,0,14,47.0,37.5
+2025-11-02,Team A,Team D,3,08:16,5,5,2,5,Team D,78,Play,34.0,36.5,Indirect,,0,0,37,94.0,24.5
+2025-11-02,Team A,Team D,3,08:16,5,5,2,5,Team D,78,Puck Recovery,34.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,08:13,5,5,2,5,Team D,37,Play,80.0,38.5,Direct,,0,0,78,30.0,36.5
+2025-11-02,Team A,Team D,3,08:11,5,5,2,5,Team D,78,Shot,33.0,35.5,Wristshot,On Net,1,0,,,
+2025-11-02,Team A,Team D,3,08:08,5,5,2,5,Team D,25,Faceoff Win,69.0,22.5,Backhand,,0,0,14,,
+2025-11-02,Team A,Team D,3,08:08,5,5,2,5,Team D,59,Play,67.0,30.5,Direct,,0,0,78,37.0,19.5
+2025-11-02,Team A,Team D,3,08:08,5,5,2,5,Team D,59,Puck Recovery,67.0,30.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,08:05,5,5,2,5,Team D,78,Shot,38.0,27.5,Snapshot,Missed,1,0,,,
+2025-11-02,Team A,Team D,3,08:02,5,5,2,5,Team A,89,Puck Recovery,58.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,08:02,5,5,2,5,Team A,89,Dump In/Out,58.0,-34.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,07:58,5,5,2,5,Team D,78,Play,-87.0,-22.5,Indirect,,0,0,74,-81.0,-34.5
+2025-11-02,Team A,Team D,3,07:58,5,5,2,5,Team D,78,Puck Recovery,-64.0,-27.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,07:51,5,5,2,5,Team A,89,Puck Recovery,-96.0,-21.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,07:51,5,5,2,5,Team A,89,Incomplete Play,-96.0,-21.5,Direct,,0,0,14,-59.0,-22.5
+2025-11-02,Team A,Team D,3,07:50,5,5,2,5,Team D,25,Takeaway,-79.0,-18.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,07:49,5,5,2,5,Team D,25,Play,-87.0,-14.5,Indirect,,0,0,59,-51.0,-38.5
+2025-11-02,Team A,Team D,3,07:44,5,5,2,5,Team D,59,Play,-14.0,-31.5,Direct,,0,0,37,16.0,-35.5
+2025-11-02,Team A,Team D,3,07:42,5,5,2,5,Team A,3,Puck Recovery,51.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,07:40,5,5,2,5,Team D,74,Puck Recovery,38.0,-35.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,07:40,5,5,2,5,Team D,74,Play,47.0,-34.5,Direct,,0,0,25,35.0,-0.5
+2025-11-02,Team A,Team D,3,07:37,5,5,2,5,Team D,25,Puck Recovery,41.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,07:37,5,5,2,5,Team D,25,Play,41.0,39.5,Indirect,,0,0,37,99.0,15.5
+2025-11-02,Team A,Team D,3,07:33,5,5,2,5,Team D,37,Play,80.0,39.5,Direct,,0,0,52,36.0,-20.5
+2025-11-02,Team A,Team D,3,07:30,5,5,2,5,Team D,52,Shot,39.0,-21.5,Slapshot,On Net,1,0,,,
+2025-11-02,Team A,Team D,3,07:27,5,5,2,5,Team D,37,Puck Recovery,72.0,12.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,07:27,5,5,2,5,Team D,37,Goal,72.0,12.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,3,07:26,5,5,2,6,Team D,12,Faceoff Win,0.0,0.5,Backhand,,0,0,39,,
+2025-11-02,Team A,Team D,3,07:25,5,5,2,6,Team D,88,Play,-42.0,15.5,Direct,,0,0,52,-41.0,-7.5
+2025-11-02,Team A,Team D,3,07:25,5,5,2,6,Team D,88,Puck Recovery,-39.0,2.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,07:23,5,5,2,6,Team D,52,Play,-39.0,-30.5,Direct,,0,0,63,-7.0,-15.5
+2025-11-02,Team A,Team D,3,07:18,5,5,2,6,Team D,52,Puck Recovery,-80.0,-20.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,07:17,5,5,2,6,Team D,52,Play,-76.0,-36.5,Direct,,0,0,8,-39.0,-4.5
+2025-11-02,Team A,Team D,3,07:13,5,5,2,6,Team A,46,Puck Recovery,-41.0,-22.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,07:10,5,5,2,6,Team D,88,Puck Recovery,-82.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,07:09,5,5,2,6,Team D,88,Play,-78.0,-33.5,Indirect,,0,0,63,-44.0,-35.5
+2025-11-02,Team A,Team D,3,07:07,5,5,2,6,Team D,63,Play,-44.0,-35.5,Direct,,0,0,12,-14.0,-23.5
+2025-11-02,Team A,Team D,3,07:04,5,5,2,6,Team D,12,Zone Entry,25.0,-15.5,Carried,,0,0,53,,
+2025-11-02,Team A,Team D,3,07:03,5,5,2,6,Team D,12,Shot,66.0,-11.5,Snapshot,Blocked,0,0,,,
+2025-11-02,Team A,Team D,3,06:59,5,5,2,6,Team A,29,Puck Recovery,50.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,06:55,5,5,2,6,Team A,48,Puck Recovery,77.0,0.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,06:51,5,5,2,6,Team A,48,Play,44.0,-36.5,Direct,,0,0,29,20.0,16.5
+2025-11-02,Team A,Team D,3,06:48,5,5,2,6,Team A,29,Zone Entry,-24.0,36.5,Carried,,0,0,88,,
+2025-11-02,Team A,Team D,3,06:44,5,5,2,6,Team A,29,Puck Recovery,-4.0,37.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,06:44,5,5,2,6,Team A,29,Dump In/Out,-4.0,37.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,06:41,5,5,2,6,Team D,88,Puck Recovery,-20.0,28.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,06:39,5,5,2,6,Team D,88,Play,-37.0,25.5,Direct,,0,0,52,-60.0,1.5
+2025-11-02,Team A,Team D,3,06:31,5,5,2,6,Team D,52,Play,-20.0,-4.5,Direct,,0,0,88,-37.0,25.5
+2025-11-02,Team A,Team D,3,06:23,5,5,2,6,Team D,88,Play,-71.0,33.5,Direct,,0,0,52,-74.0,-8.5
+2025-11-02,Team A,Team D,3,06:21,5,5,2,6,Team D,52,Play,-61.0,-5.5,Direct,,0,0,88,-48.0,19.5
+2025-11-02,Team A,Team D,3,06:20,5,5,2,6,Team D,88,Play,-38.0,20.5,Direct,,0,0,52,-20.0,-17.5
+2025-11-02,Team A,Team D,3,06:17,5,5,2,6,Team D,52,Zone Entry,24.0,-28.5,Dumped,,0,0,56,,
+2025-11-02,Team A,Team D,3,06:17,5,5,2,6,Team D,52,Dump In/Out,7.0,-23.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,06:15,5,5,2,6,Team A,71,Play,74.0,39.5,Indirect,,0,0,56,95.0,-20.5
+2025-11-02,Team A,Team D,3,06:15,5,5,2,6,Team A,71,Puck Recovery,68.0,39.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,06:13,5,5,2,6,Team A,56,Play,95.0,-20.5,Indirect,,0,0,17,52.0,-36.5
+2025-11-02,Team A,Team D,3,06:11,5,5,2,6,Team A,17,Play,52.0,-36.5,Direct,,0,0,71,39.0,17.5
+2025-11-02,Team A,Team D,3,06:08,5,5,2,6,Team A,71,Zone Entry,-25.0,26.5,Dumped,,0,0,84,,
+2025-11-02,Team A,Team D,3,06:08,5,5,2,6,Team A,71,Dump In/Out,-9.0,20.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,06:05,5,5,2,6,Team D,Go,Puck Recovery,-96.0,4.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,06:05,5,5,2,6,Team D,Go,Play,-96.0,4.5,Indirect,,0,0,75,-47.0,37.5
+2025-11-02,Team A,Team D,3,06:01,5,5,2,6,Team D,75,Play,-42.0,35.5,Direct,,0,0,46,-10.0,19.5
+2025-11-02,Team A,Team D,3,05:57,5,5,2,6,Team A,56,Play,52.0,-36.5,Indirect,,0,0,17,34.0,-36.5
+2025-11-02,Team A,Team D,3,05:57,5,5,2,6,Team A,56,Puck Recovery,52.0,-36.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:56,5,5,2,6,Team D,51,Puck Recovery,8.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:55,5,5,2,6,Team D,51,Play,8.0,-34.5,Direct,,0,0,36,10.0,0.5
+2025-11-02,Team A,Team D,3,05:54,5,5,2,6,Team D,36,Play,10.0,0.5,Direct,,0,0,84,-42.0,-4.5
+2025-11-02,Team A,Team D,3,05:50,5,5,2,6,Team D,84,Play,-64.0,19.5,Direct,,0,0,51,-36.0,-34.5
+2025-11-02,Team A,Team D,3,05:47,5,5,2,6,Team D,51,Play,-36.0,-34.5,Direct,,0,0,12,17.0,-9.5
+2025-11-02,Team A,Team D,3,05:46,5,5,2,6,Team D,12,Zone Entry,25.0,-15.5,Carried,,0,0,56,,
+2025-11-02,Team A,Team D,3,05:45,5,5,2,6,Team A,88,Faceoff Win,20.0,-21.5,Backhand,,0,0,12,,
+2025-11-02,Team A,Team D,3,05:44,5,5,2,6,Team A,3,Puck Recovery,45.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:44,5,5,2,6,Team A,3,Play,45.0,-34.5,Direct,,0,0,72,64.0,13.5
+2025-11-02,Team A,Team D,3,05:42,5,5,2,6,Team A,72,Play,55.0,38.5,Indirect,,0,0,9,41.0,38.5
+2025-11-02,Team A,Team D,3,05:40,5,5,2,6,Team A,9,Dump In/Out,41.0,38.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,05:38,5,5,2,6,Team D,78,Puck Recovery,-9.0,35.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:38,5,5,2,6,Team D,78,Play,-9.0,35.5,Direct,,0,0,12,14.0,37.5
+2025-11-02,Team A,Team D,3,05:37,5,5,2,6,Team D,36,Puck Recovery,20.0,42.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:33,5,5,2,6,Team D,12,Faceoff Win,20.0,22.5,Forehand,,0,0,88,,
+2025-11-02,Team A,Team D,3,05:31,5,5,2,6,Team D,42,Puck Recovery,7.0,18.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:31,5,5,2,6,Team D,42,Play,7.0,18.5,Direct,,0,0,78,-12.0,25.5
+2025-11-02,Team A,Team D,3,05:29,5,5,2,6,Team D,78,Dump In/Out,7.0,28.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,05:28,5,5,2,6,Team D,78,Zone Entry,24.0,28.5,Dumped,,0,0,72,,
+2025-11-02,Team A,Team D,3,05:24,5,5,2,6,Team A,92,Play,69.0,-36.5,Direct,,0,0,3,84.0,-32.5
+2025-11-02,Team A,Team D,3,05:24,5,5,2,6,Team A,92,Puck Recovery,69.0,-36.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:23,5,5,2,6,Team A,3,Play,84.0,-32.5,Indirect,,0,0,92,63.0,-38.5
+2025-11-02,Team A,Team D,3,05:21,5,5,2,6,Team D,74,Puck Recovery,38.0,-38.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:18,5,5,2,6,Team D,36,Puck Recovery,17.0,-33.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:16,5,5,2,6,Team D,36,Play,-41.0,-34.5,Direct,,0,0,78,-60.0,21.5
+2025-11-02,Team A,Team D,3,05:14,5,5,2,6,Team D,78,Incomplete Play,-62.0,31.5,Indirect,,0,0,42,7.0,38.5
+2025-11-02,Team A,Team D,3,05:11,5,5,2,6,Team A,14,Faceoff Win,-69.0,-21.5,Backhand,,0,0,12,,
+2025-11-02,Team A,Team D,3,05:11,5,5,2,6,Team A,3,Puck Recovery,96.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:11,5,5,2,6,Team A,73,Play,-60.0,-7.5,Direct,,0,0,48,-33.0,-7.5
+2025-11-02,Team A,Team D,3,05:11,5,5,2,6,Team A,73,Puck Recovery,-60.0,-7.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:10,5,5,2,6,Team A,48,Shot,-33.0,-7.5,Snapshot,On Net,1,1,,,
+2025-11-02,Team A,Team D,3,05:08,5,5,2,6,Team A,14,Faceoff Win,-69.0,-21.5,Backhand,,0,0,77,,
+2025-11-02,Team A,Team D,3,05:07,5,5,2,6,Team A,53,Puck Recovery,-55.0,-34.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:06,5,5,2,6,Team A,53,Play,-73.0,-29.5,Direct,,0,0,14,-73.0,-7.5
+2025-11-02,Team A,Team D,3,05:05,5,5,2,6,Team A,14,Puck Recovery,-82.0,-3.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:05,5,5,2,6,Team A,14,Shot,-82.0,-3.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,3,05:02,5,5,2,6,Team D,77,Puck Recovery,-83.0,-35.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,05:01,5,5,2,6,Team D,77,Play,-74.0,-39.5,Direct,,0,0,8,-13.0,-34.5
+2025-11-02,Team A,Team D,3,04:59,5,5,2,6,Team D,8,Play,-13.0,-34.5,Direct,,0,0,75,8.0,-12.5
+2025-11-02,Team A,Team D,3,04:59,5,5,2,6,Team D,75,Dump In/Out,8.0,-12.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,04:58,5,5,2,6,Team D,75,Zone Entry,27.0,-14.5,Dumped,,0,0,48,,
+2025-11-02,Team A,Team D,3,04:54,5,5,2,6,Team A,53,Puck Recovery,94.0,19.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,04:54,5,5,2,6,Team A,53,Play,94.0,19.5,Indirect,,0,0,89,77.0,39.5
+2025-11-02,Team A,Team D,3,04:52,5,5,2,6,Team A,89,Play,77.0,39.5,Direct,,0,0,14,44.0,37.5
+2025-11-02,Team A,Team D,3,04:47,5,5,2,6,Team A,89,Puck Recovery,10.0,29.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,04:45,5,5,2,6,Team A,89,Play,-35.0,-10.5,Direct,,0,0,48,-39.0,-35.5
+2025-11-02,Team A,Team D,3,04:45,5,5,2,6,Team A,89,Zone Entry,-26.0,-3.5,Carried,,0,0,84,,
+2025-11-02,Team A,Team D,3,04:44,5,5,2,6,Team A,48,Play,-39.0,-35.5,Direct,,0,0,73,-37.0,-9.5
+2025-11-02,Team A,Team D,3,04:41,5,5,2,6,Team A,14,Penalty Taken,23.0,41.5,Roughing,,0,0,75,,
+2025-11-02,Team A,Team D,3,04:41,5,5,2,6,Team D,75,Penalty Taken,23.0,41.5,Roughing,,0,0,14,,
+2025-11-02,Team A,Team D,3,04:41,4,4,2,6,Team A,88,Faceoff Win,-69.0,-21.5,Backhand,,0,0,28,,
+2025-11-02,Team A,Team D,3,04:40,4,4,2,6,Team A,92,Play,-61.0,-20.5,Direct,,0,0,45,-45.0,-20.5
+2025-11-02,Team A,Team D,3,04:40,4,4,2,6,Team A,92,Puck Recovery,-61.0,-20.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,04:37,4,4,2,6,Team A,45,Shot,-37.0,-12.5,Wristshot,Missed,1,0,,,
+2025-11-02,Team A,Team D,3,04:37,4,4,2,6,Team A,92,Shot,-68.0,2.5,Deflection,Missed,1,0,,,
+2025-11-02,Team A,Team D,3,04:34,4,4,2,6,Team A,88,Puck Recovery,-82.0,-30.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,04:33,4,4,2,6,Team A,88,Play,-72.0,-37.5,Direct,,0,0,45,-30.0,-36.5
+2025-11-02,Team A,Team D,3,04:29,4,4,2,6,Team A,45,Play,15.0,-29.5,Indirect,,0,0,88,6.0,-39.5
+2025-11-02,Team A,Team D,3,04:23,4,4,2,6,Team A,88,Zone Entry,-25.0,33.5,Carried,,0,0,78,,
+2025-11-02,Team A,Team D,3,04:21,4,4,2,6,Team A,88,Play,-49.0,39.5,Indirect,,0,0,45,-97.0,20.5
+2025-11-02,Team A,Team D,3,04:19,4,4,2,6,Team D,74,Takeaway,-97.0,20.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,04:16,4,4,2,6,Team D,74,Play,-95.0,26.5,Indirect,,0,0,78,-84.0,37.5
+2025-11-02,Team A,Team D,3,04:15,4,4,2,6,Team D,78,Play,-84.0,37.5,Indirect,,0,0,46,-61.0,41.5
+2025-11-02,Team A,Team D,3,04:14,4,4,2,6,Team D,46,Dump In/Out,-61.0,41.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,3,04:11,3,4,2,6,Team A,39,Faceoff Win,69.0,-21.5,Backhand,,0,0,28,,
+2025-11-02,Team A,Team D,3,04:11,4,4,2,6,Team D,28,Puck Recovery,8.0,40.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,04:11,4,4,2,6,Team A,88,Penalty Taken,-50.0,38.5,Tripping,,0,0,46,,
+2025-11-02,Team A,Team D,3,04:09,3,4,2,6,Team A,21,Puck Recovery,61.0,-11.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,04:08,3,4,2,6,Team A,21,Dump In/Out,73.0,1.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,04:05,3,4,2,6,Team D,Go,Puck Recovery,-87.0,20.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,04:05,3,4,2,6,Team D,Go,Play,-87.0,20.5,Direct,,0,0,84,-64.0,26.5
+2025-11-02,Team A,Team D,3,03:57,3,4,2,6,Team A,39,Takeaway,19.0,-12.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,03:55,3,4,2,6,Team D,51,Takeaway,32.0,-39.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,03:55,3,4,2,6,Team D,51,Play,32.0,-39.5,Indirect,,0,0,84,64.0,-32.5
+2025-11-02,Team A,Team D,3,03:48,3,4,2,6,Team D,28,Puck Recovery,94.0,-16.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,03:46,3,4,2,6,Team D,28,Play,92.0,9.5,Indirect,,0,0,84,36.0,33.5
+2025-11-02,Team A,Team D,3,03:41,3,4,2,6,Team D,84,Play,38.0,5.5,Direct,,0,0,28,45.0,34.5
+2025-11-02,Team A,Team D,3,03:37,3,4,2,6,Team D,28,Play,36.0,2.5,Direct,,0,0,84,44.0,-35.5
+2025-11-02,Team A,Team D,3,03:31,3,4,2,6,Team D,84,Play,40.0,4.5,Direct,,0,0,51,76.0,-20.5
+2025-11-02,Team A,Team D,3,03:29,3,4,2,6,Team D,51,Incomplete Play,76.0,-6.5,Direct,,0,0,46,78.0,-1.5
+2025-11-02,Team A,Team D,3,03:27,3,4,2,6,Team D,51,Puck Recovery,77.0,-3.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,03:26,3,4,2,6,Team D,51,Play,87.0,-17.5,Direct,,0,0,84,44.0,-22.5
+2025-11-02,Team A,Team D,3,03:17,3,4,2,6,Team D,84,Shot,81.0,8.5,Snapshot,Missed,1,0,,,
+2025-11-02,Team A,Team D,3,03:16,3,4,2,6,Team D,51,Puck Recovery,69.0,-29.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,03:12,3,4,2,6,Team D,51,Play,63.0,-32.5,Direct,,0,0,28,39.0,35.5
+2025-11-02,Team A,Team D,3,03:06,3,4,2,6,Team D,28,Play,37.0,1.5,Direct,,0,0,46,66.0,-23.5
+2025-11-02,Team A,Team D,3,03:04,3,4,2,6,Team D,46,Play,36.0,-16.5,Direct,,0,0,28,63.0,-27.5
+2025-11-02,Team A,Team D,3,03:02,3,4,2,6,Team D,51,Goal,79.0,-0.5,Snapshot,On Net,0,1,,,
+2025-11-02,Team A,Team D,3,03:02,3,4,2,6,Team D,28,Play,74.0,-23.5,Direct,,0,0,51,79.0,-0.5
+2025-11-02,Team A,Team D,3,03:00,4,4,2,7,Team A,46,Faceoff Win,0.0,0.5,Backhand,,0,0,25,,
+2025-11-02,Team A,Team D,3,02:59,4,4,2,7,Team A,92,Play,8.0,0.5,Direct,,0,0,72,35.0,0.5
+2025-11-02,Team A,Team D,3,02:59,4,4,2,7,Team A,92,Puck Recovery,8.0,0.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,02:53,4,4,2,7,Team A,72,Play,97.0,0.5,Direct,,0,0,3,71.0,-27.5
+2025-11-02,Team A,Team D,3,02:50,4,4,2,7,Team A,92,Puck Recovery,63.0,-26.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,02:47,4,4,2,7,Team D,74,Puck Recovery,-12.0,-24.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,02:46,4,4,2,7,Team D,74,Play,-32.0,-5.5,Direct,,0,0,63,-19.0,-25.5
+2025-11-02,Team A,Team D,3,02:43,4,4,2,7,Team D,63,Zone Entry,25.0,-3.5,Carried,,0,0,72,,
+2025-11-02,Team A,Team D,3,02:42,4,4,2,7,Team D,25,Puck Recovery,40.0,-16.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,02:38,5,5,2,7,Team D,74,Puck Recovery,40.0,14.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,02:37,5,5,2,7,Team D,74,Play,35.0,23.5,Indirect,,0,0,63,76.0,39.5
+2025-11-02,Team A,Team D,3,02:31,5,5,2,7,Team D,25,Puck Recovery,95.0,18.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,02:31,5,5,2,7,Team D,25,Incomplete Play,95.0,18.5,Indirect,,0,0,63,73.0,-28.5
+2025-11-02,Team A,Team D,3,02:28,5,5,2,7,Team A,3,Takeaway,84.0,-32.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,02:26,5,5,2,7,Team A,3,Play,91.0,-25.5,Indirect,,0,0,72,92.0,-4.5
+2025-11-02,Team A,Team D,3,02:22,5,5,2,7,Team A,72,Play,95.0,11.5,Indirect,,0,0,3,94.0,-26.5
+2025-11-02,Team A,Team D,3,02:19,5,5,2,7,Team A,3,Play,82.0,-32.5,Direct,,0,0,46,61.0,-36.5
+2025-11-02,Team A,Team D,3,02:15,5,5,2,7,Team D,25,Puck Recovery,50.0,-33.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,02:15,5,5,2,7,Team D,25,Play,50.0,-33.5,Direct,,0,0,74,30.0,-37.5
+2025-11-02,Team A,Team D,3,02:14,5,5,2,7,Team D,77,Faceoff Win,20.0,-21.5,Backhand,,0,0,21,,
+2025-11-02,Team A,Team D,3,02:13,5,5,2,7,Team D,37,Puck Recovery,34.0,-36.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,02:13,5,5,2,7,Team D,37,Dump In/Out,34.0,-36.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,02:09,5,5,2,7,Team A,56,Puck Recovery,95.0,-26.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,02:09,5,5,2,7,Team A,56,Play,95.0,-26.5,Indirect,,0,0,71,55.0,-40.5
+2025-11-02,Team A,Team D,3,02:04,5,5,2,7,Team D,59,Play,36.0,1.5,Direct,,0,0,37,47.0,-15.5
+2025-11-02,Team A,Team D,3,02:04,5,5,2,7,Team D,59,Puck Recovery,36.0,1.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,02:01,5,5,2,7,Team A,56,Puck Recovery,90.0,-18.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,02:01,5,5,2,7,Team A,56,Incomplete Play,90.0,-18.5,Indirect,,0,0,21,60.0,-39.5
+2025-11-02,Team A,Team D,3,02:00,5,5,2,7,Team D,37,Takeaway,78.0,-33.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,01:59,5,5,2,7,Team D,37,Play,78.0,-33.5,Direct,,0,0,77,89.0,-18.5
+2025-11-02,Team A,Team D,3,01:58,5,5,2,7,Team D,77,Play,89.0,-18.5,Direct,,0,0,59,57.0,-16.5
+2025-11-02,Team A,Team D,3,01:57,5,5,2,7,Team D,59,Play,59.0,-15.5,Direct,,0,0,84,32.0,10.5
+2025-11-02,Team A,Team D,3,01:55,5,5,2,7,Team D,84,Play,63.0,16.5,Direct,,0,0,51,39.0,-5.5
+2025-11-02,Team A,Team D,3,01:55,5,5,2,7,Team D,51,Shot,39.0,-5.5,Slapshot,Blocked,1,1,,,
+2025-11-02,Team A,Team D,3,01:52,5,5,2,7,Team D,37,Puck Recovery,83.0,-29.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,01:51,5,5,2,7,Team D,37,Play,69.0,-37.5,Direct,,0,0,59,57.0,-20.5
+2025-11-02,Team A,Team D,3,01:50,5,5,2,7,Team D,59,Play,57.0,-20.5,Indirect,,0,0,77,62.0,-11.5
+2025-11-02,Team A,Team D,3,01:48,5,5,2,7,Team A,21,Play,60.0,-20.5,Direct,,0,0,45,74.0,-2.5
+2025-11-02,Team A,Team D,3,01:48,5,5,2,7,Team A,21,Puck Recovery,60.0,-20.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,01:46,5,5,2,7,Team A,45,Incomplete Play,63.0,15.5,Direct,,0,0,17,7.0,1.5
+2025-11-02,Team A,Team D,3,01:42,5,5,2,7,Team D,37,Puck Recovery,9.0,-2.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,01:40,5,5,2,7,Team D,12,Faceoff Win,-20.0,-21.5,Backhand,,0,0,39,,
+2025-11-02,Team A,Team D,3,01:39,5,5,2,7,Team D,51,Puck Recovery,-39.0,-23.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,01:39,5,5,2,7,Team D,51,Play,-39.0,-18.5,Direct,,0,0,84,-46.0,18.5
+2025-11-02,Team A,Team D,3,01:36,5,5,2,7,Team D,84,Play,-42.0,27.5,Indirect,,0,0,75,-11.0,37.5
+2025-11-02,Team A,Team D,3,01:32,5,5,2,7,Team D,12,Puck Recovery,17.0,16.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,01:31,5,5,2,7,Team D,12,Zone Entry,22.0,21.5,Carried,,0,0,48,,
+2025-11-02,Team A,Team D,3,01:29,5,5,2,7,Team A,46,Puck Recovery,43.0,-0.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,01:26,5,5,2,7,Team A,46,Play,-37.0,-37.5,Direct,,0,0,39,-38.0,-16.5
+2025-11-02,Team A,Team D,3,01:26,5,5,2,7,Team A,46,Zone Entry,-26.0,-31.5,Carried,,0,0,84,,
+2025-11-02,Team A,Team D,3,01:24,5,5,2,7,Team A,39,Shot,-65.0,-13.5,Wristshot,Missed,0,0,,,
+2025-11-02,Team A,Team D,3,01:22,5,5,2,7,Team A,29,Play,-96.0,25.5,Indirect,,0,0,39,-95.0,1.5
+2025-11-02,Team A,Team D,3,01:22,5,5,2,7,Team A,29,Puck Recovery,-91.0,25.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,01:19,5,5,2,7,Team A,39,Play,-96.0,-22.5,Direct,,0,0,48,-63.0,-28.5
+2025-11-02,Team A,Team D,3,01:17,5,5,2,7,Team A,48,Play,-58.0,-36.5,Indirect,,0,0,39,-68.0,-37.5
+2025-11-02,Team A,Team D,3,01:14,5,5,2,7,Team D,75,Puck Recovery,-79.0,-18.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,01:14,5,5,2,7,Team D,75,Dump In/Out,-79.0,-18.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,01:12,5,5,2,7,Team A,48,Puck Recovery,-36.0,-20.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,01:11,5,5,2,7,Team A,48,Play,-36.0,-20.5,Direct,,0,0,53,-33.0,6.5
+2025-11-02,Team A,Team D,3,01:08,5,5,2,7,Team A,53,Play,-60.0,26.5,Direct,,0,0,29,-81.0,6.5
+2025-11-02,Team A,Team D,3,01:07,5,5,2,7,Team A,29,Shot,-80.0,2.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,3,01:07,5,5,2,7,Team A,29,Puck Recovery,-82.0,2.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,01:07,5,5,2,7,Team A,29,Goal,-82.0,2.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,3,01:06,5,5,3,7,Team D,77,Faceoff Win,0.0,0.5,Backhand,,0,0,14,,
+2025-11-02,Team A,Team D,3,01:02,5,5,3,7,Team D,78,Puck Recovery,-19.0,18.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,01:02,5,5,3,7,Team D,78,Incomplete Play,-19.0,18.5,Direct,,0,0,77,4.0,22.5
+2025-11-02,Team A,Team D,3,01:00,5,5,3,7,Team A,14,Takeaway,8.0,19.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:58,5,5,3,7,Team D,78,Puck Recovery,-42.0,16.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:57,5,5,3,7,Team D,78,Play,-43.0,15.5,Indirect,,0,0,59,-40.0,40.5
+2025-11-02,Team A,Team D,3,00:56,5,5,3,7,Team D,59,Play,-40.0,40.5,Direct,,0,0,77,-40.0,32.5
+2025-11-02,Team A,Team D,3,00:54,5,5,3,7,Team D,37,Puck Recovery,-8.0,27.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:53,5,5,3,7,Team D,37,Dump In/Out,8.0,37.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,3,00:52,5,5,3,7,Team D,37,Puck Recovery,33.0,38.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:51,5,5,3,7,Team A,14,Takeaway,33.0,31.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:48,5,5,3,7,Team A,14,Zone Entry,-24.0,23.5,Dumped,,0,0,78,,
+2025-11-02,Team A,Team D,3,00:48,5,5,3,7,Team A,14,Dump In/Out,5.0,14.5,Retained,,0,0,,,
+2025-11-02,Team A,Team D,3,00:44,5,5,3,7,Team A,14,Play,-95.0,24.5,Indirect,,0,0,73,-96.0,-4.5
+2025-11-02,Team A,Team D,3,00:44,5,5,3,7,Team A,14,Puck Recovery,-95.0,24.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:40,5,5,3,7,Team D,74,Puck Recovery,-98.0,15.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:39,5,5,3,7,Team D,74,Play,-96.0,23.5,Direct,,0,0,59,-77.0,40.5
+2025-11-02,Team A,Team D,3,00:36,5,5,3,7,Team D,59,Dump In/Out,-60.0,39.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,00:34,5,5,3,7,Team A,3,Puck Recovery,-6.0,-10.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:32,5,5,3,7,Team A,3,Zone Entry,-26.0,-33.5,Carried,,0,0,74,,
+2025-11-02,Team A,Team D,3,00:29,5,5,3,7,Team A,3,Shot,-87.0,-11.5,Wristshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,3,00:27,5,5,3,7,Team A,89,Puck Recovery,-74.0,-11.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:27,5,5,3,7,Team A,89,Shot,-74.0,-11.5,Snapshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,3,00:21,5,5,3,7,Team A,39,Faceoff Win,-69.0,-21.5,Backhand,,0,0,25,,
+2025-11-02,Team A,Team D,3,00:20,5,5,3,7,Team A,46,Puck Recovery,-58.0,-20.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:20,5,5,3,7,Team A,46,Shot,-58.0,-20.5,Snapshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,3,00:17,5,5,3,7,Team D,78,Puck Recovery,-77.0,-10.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:15,5,5,3,7,Team D,78,Dump In/Out,-78.0,-35.5,Lost,,0,0,,,
+2025-11-02,Team A,Team D,3,00:09,5,5,3,7,Team A,39,Faceoff Win,-69.0,-21.5,Backhand,,0,0,25,,
+2025-11-02,Team A,Team D,3,00:09,5,5,3,7,Team A,45,Puck Recovery,94.0,2.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:08,5,5,3,7,Team A,29,Puck Recovery,-59.0,-10.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:06,5,5,3,7,Team A,29,Shot,-85.0,-30.5,Wristshot,On Net,0,0,,,
+2025-11-02,Team A,Team D,3,00:04,5,5,3,7,Team A,45,Puck Recovery,-43.0,36.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:03,5,5,3,7,Team A,45,Shot,-39.0,36.5,Snapshot,Blocked,1,0,,,
+2025-11-02,Team A,Team D,3,00:02,5,5,3,7,Team D,25,Puck Recovery,-61.0,18.5,,,0,0,,,
+2025-11-02,Team A,Team D,3,00:02,5,5,3,7,Team D,25,Play,-61.0,18.5,Direct,,0,0,75,-42.0,9.5
