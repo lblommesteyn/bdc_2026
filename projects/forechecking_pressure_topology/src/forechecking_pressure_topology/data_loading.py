@@ -52,6 +52,70 @@ TRACKING_COLUMNS = [
 ]
 
 
+def _estimate_player_velocities(df: pd.DataFrame) -> pd.DataFrame:
+    velocity = pd.DataFrame(index=df.index, data={"vx": np.nan, "vy": np.nan, "speed_ft_s": np.nan})
+    mask = (
+        (df["object_type"] == "Player")
+        & df["team_side"].notna()
+        & df["player_id"].notna()
+        & df["period_label"].notna()
+        & df["elapsed_seconds"].notna()
+        & df["x"].notna()
+        & df["y"].notna()
+    )
+    if not mask.any():
+        return velocity
+
+    work = (
+        df.loc[mask, ["team_side", "player_id", "period_label", "elapsed_seconds", "x", "y"]]
+        .copy()
+        .assign(row_idx=lambda x: x.index)
+        .sort_values(["team_side", "player_id", "period_label", "elapsed_seconds"], kind="mergesort")
+    )
+    grp_cols = ["team_side", "player_id", "period_label"]
+    grouped = work.groupby(grp_cols, sort=False)
+
+    work["x_prev"] = grouped["x"].shift(1)
+    work["y_prev"] = grouped["y"].shift(1)
+    work["t_prev"] = grouped["elapsed_seconds"].shift(1)
+    work["x_next"] = grouped["x"].shift(-1)
+    work["y_next"] = grouped["y"].shift(-1)
+    work["t_next"] = grouped["elapsed_seconds"].shift(-1)
+
+    dt_center = work["t_next"] - work["t_prev"]
+    vx_center = (work["x_next"] - work["x_prev"]) / dt_center
+    vy_center = (work["y_next"] - work["y_prev"]) / dt_center
+
+    dt_forward = work["elapsed_seconds"] - work["t_prev"]
+    vx_forward = (work["x"] - work["x_prev"]) / dt_forward
+    vy_forward = (work["y"] - work["y_prev"]) / dt_forward
+
+    dt_backward = work["t_next"] - work["elapsed_seconds"]
+    vx_backward = (work["x_next"] - work["x"]) / dt_backward
+    vy_backward = (work["y_next"] - work["y"]) / dt_backward
+
+    vx = vx_center.where(dt_center > 0.08, np.nan)
+    vy = vy_center.where(dt_center > 0.08, np.nan)
+    vx = vx.fillna(vx_forward.where(dt_forward > 0.04, np.nan))
+    vy = vy.fillna(vy_forward.where(dt_forward > 0.04, np.nan))
+    vx = vx.fillna(vx_backward.where(dt_backward > 0.04, np.nan))
+    vy = vy.fillna(vy_backward.where(dt_backward > 0.04, np.nan))
+
+    speed = pd.Series(np.hypot(vx, vy), index=vx.index)
+    speed_cap = 40.0
+    over_cap = speed > speed_cap
+    if over_cap.any():
+        scale = speed_cap / speed[over_cap]
+        vx.loc[over_cap] = vx.loc[over_cap] * scale
+        vy.loc[over_cap] = vy.loc[over_cap] * scale
+        speed.loc[over_cap] = speed_cap
+
+    velocity.loc[work["row_idx"], "vx"] = vx.to_numpy(dtype=float)
+    velocity.loc[work["row_idx"], "vy"] = vy.to_numpy(dtype=float)
+    velocity.loc[work["row_idx"], "speed_ft_s"] = speed.to_numpy(dtype=float)
+    return velocity
+
+
 def load_camera_orientations(raw_dir: Path) -> dict[str, str]:
     path = raw_dir / "camera_orientations.csv"
     if not path.exists():
@@ -184,10 +248,9 @@ def load_tracking_for_game(raw_dir: Path, game_id: str) -> pd.DataFrame:
     frame_table["elapsed_seconds"] = frame_table["elapsed_seconds_base"] + frame_table["subsecond"]
     df = df.merge(frame_table[["image_id", "elapsed_seconds"]], on="image_id", how="left")
 
-    df["team_name"] = np.where(
-        df["team_side"] == "Home",
-        game_meta.home_team,
-        np.where(df["team_side"] == "Away", game_meta.away_team, np.nan),
-    )
+    df["team_name"] = pd.Series(index=df.index, dtype="object")
+    df.loc[df["team_side"] == "Home", "team_name"] = game_meta.home_team
+    df.loc[df["team_side"] == "Away", "team_name"] = game_meta.away_team
+    velocity = _estimate_player_velocities(df)
+    df[["vx", "vy", "speed_ft_s"]] = velocity[["vx", "vy", "speed_ft_s"]]
     return df
-

@@ -3,7 +3,6 @@
   "output_dir": "projects/forechecking_pressure_topology/outputs",
   "max_games": null,
   "max_episode_seconds": 25.0,
-  "frame_stride": 15,
+  "frame_stride": 20,
   "n_clusters": 4
 }
-

@@ -25,6 +25,11 @@ class PressureConfig:
     sigma_ft: float = PRESSURE_SIGMA_FT
     max_speed_ft_s: float = FORECHECKER_MAX_SPEED_FT_S
     eta_tau_s: float = ETA_TAU_S
+    max_accel_ft_s2: float = 14.0
+    min_reach_speed_ft_s: float = 4.0
+    anisotropy_forward_bonus: float = 0.35
+    anisotropy_backward_penalty: float = 0.25
+    turn_penalty_s: float = 0.35
     pressure_threshold: float = 1.2
     compactness_extent_ft: float = 35.0
     compactness_step_ft: float = 7.0
@@ -38,32 +43,90 @@ def _as_xy_array(df: pd.DataFrame) -> np.ndarray:
     return df[["x", "y"]].to_numpy(dtype=float)
 
 
+def _as_velocity_array(df: pd.DataFrame) -> np.ndarray:
+    if df.empty:
+        return np.empty((0, 2), dtype=float)
+    if "vx" not in df.columns or "vy" not in df.columns:
+        return np.zeros((len(df), 2), dtype=float)
+    return (
+        df[["vx", "vy"]]
+        .replace([np.inf, -np.inf], np.nan)
+        .fillna(0.0)
+        .to_numpy(dtype=float)
+    )
+
+
+def _defender_pressure_contributions(
+    defenders_xy: np.ndarray,
+    defenders_vxy: np.ndarray,
+    point_xy: tuple[float, float],
+    config: PressureConfig,
+) -> np.ndarray:
+    if defenders_xy.size == 0:
+        return np.empty((0,), dtype=float)
+
+    if defenders_vxy.size == 0:
+        defenders_vxy = np.zeros_like(defenders_xy)
+    elif defenders_vxy.shape != defenders_xy.shape:
+        defenders_vxy = np.zeros_like(defenders_xy)
+
+    point = np.array(point_xy, dtype=float).reshape(1, 2)
+    delta = point - defenders_xy
+    distance = np.linalg.norm(delta, axis=1)
+    safe_distance = np.maximum(distance, 1e-6)
+    direction = delta / safe_distance[:, None]
+
+    speed = np.linalg.norm(defenders_vxy, axis=1)
+    speed_cap = max(config.max_speed_ft_s * 2.0, config.min_reach_speed_ft_s + 1.0)
+    speed = np.clip(speed, 0.0, speed_cap)
+    speed_safe = np.maximum(speed, 1e-6)
+    velocity_dir = defenders_vxy / speed_safe[:, None]
+    heading_alignment = np.sum(velocity_dir * direction, axis=1)
+    heading_alignment = np.where(speed > 0.5, heading_alignment, 0.0)
+
+    sigma_multiplier = (
+        1.0
+        + config.anisotropy_forward_bonus * np.clip(heading_alignment, 0.0, 1.0)
+        - config.anisotropy_backward_penalty * np.clip(-heading_alignment, 0.0, 1.0)
+    )
+    sigma_multiplier = np.clip(sigma_multiplier, 0.65, 1.6)
+    effective_sigma = config.sigma_ft * sigma_multiplier
+    kernel = np.exp(-0.5 * (distance / effective_sigma) ** 2)
+
+    v_toward = np.maximum(np.sum(defenders_vxy * direction, axis=1), 0.0)
+    accel = max(config.max_accel_ft_s2, 1e-6)
+    eta = (-v_toward + np.sqrt(np.maximum(v_toward * v_toward + 2.0 * accel * distance, 0.0))) / accel
+    eta_no_accel = distance / np.maximum(v_toward, config.min_reach_speed_ft_s)
+    eta = np.where(config.max_accel_ft_s2 > 0, eta, eta_no_accel)
+    eta = eta + config.turn_penalty_s * np.clip(-heading_alignment, 0.0, 1.0)
+    eta = np.nan_to_num(eta, nan=0.0, posinf=10.0, neginf=0.0)
+
+    eta_weight = np.exp(-eta / config.eta_tau_s)
+    return eta_weight * kernel
+
+
 def pressure_at_point(
     defenders_xy: np.ndarray,
+    defenders_vxy: np.ndarray,
     point_xy: tuple[float, float],
     config: PressureConfig,
 ) -> float:
-    if defenders_xy.size == 0:
-        return 0.0
-    point = np.array(point_xy, dtype=float).reshape(1, 2)
-    d = np.linalg.norm(defenders_xy - point, axis=1)
-    eta = d / config.max_speed_ft_s
-    eta_weight = np.exp(-eta / config.eta_tau_s)
-    kernel = np.exp(-0.5 * (d / config.sigma_ft) ** 2)
-    return float(np.sum(eta_weight * kernel))
+    contributions = _defender_pressure_contributions(defenders_xy, defenders_vxy, point_xy, config)
+    return float(np.sum(contributions))
 
 
 def pressure_gradient(
     defenders_xy: np.ndarray,
+    defenders_vxy: np.ndarray,
     point_xy: tuple[float, float],
     config: PressureConfig,
     delta_ft: float = 2.0,
 ) -> tuple[float, float]:
     x, y = point_xy
-    p_x_plus = pressure_at_point(defenders_xy, (x + delta_ft, y), config)
-    p_x_minus = pressure_at_point(defenders_xy, (x - delta_ft, y), config)
-    p_y_plus = pressure_at_point(defenders_xy, (x, y + delta_ft), config)
-    p_y_minus = pressure_at_point(defenders_xy, (x, y - delta_ft), config)
+    p_x_plus = pressure_at_point(defenders_xy, defenders_vxy, (x + delta_ft, y), config)
+    p_x_minus = pressure_at_point(defenders_xy, defenders_vxy, (x - delta_ft, y), config)
+    p_y_plus = pressure_at_point(defenders_xy, defenders_vxy, (x, y + delta_ft), config)
+    p_y_minus = pressure_at_point(defenders_xy, defenders_vxy, (x, y - delta_ft), config)
     gx = (p_x_plus - p_x_minus) / (2.0 * delta_ft)
     gy = (p_y_plus - p_y_minus) / (2.0 * delta_ft)
     return gx, gy
@@ -92,6 +155,7 @@ def corridor_targets(
 
 def integrated_corridor_pressure(
     defenders_xy: np.ndarray,
+    defenders_vxy: np.ndarray,
     origin_xy: tuple[float, float],
     target_xy: tuple[float, float],
     config: PressureConfig,
@@ -99,12 +163,13 @@ def integrated_corridor_pressure(
 ) -> float:
     xs = np.linspace(origin_xy[0], target_xy[0], n_samples)
     ys = np.linspace(origin_xy[1], target_xy[1], n_samples)
-    values = [pressure_at_point(defenders_xy, (x, y), config) for x, y in zip(xs, ys)]
+    values = [pressure_at_point(defenders_xy, defenders_vxy, (x, y), config) for x, y in zip(xs, ys)]
     return float(np.mean(values))
 
 
 def high_pressure_area(
     defenders_xy: np.ndarray,
+    defenders_vxy: np.ndarray,
     center_xy: tuple[float, float],
     config: PressureConfig,
 ) -> float:
@@ -117,7 +182,7 @@ def high_pressure_area(
         for y in ys:
             if not (RINK_X_MIN_FT <= x <= RINK_X_MAX_FT and RINK_Y_MIN_FT <= y <= RINK_Y_MAX_FT):
                 continue
-            if pressure_at_point(defenders_xy, (x, y), config) >= config.pressure_threshold:
+            if pressure_at_point(defenders_xy, defenders_vxy, (x, y), config) >= config.pressure_threshold:
                 high += 1
     return float(high * (step * step))
 
@@ -197,17 +262,18 @@ def compute_episode_frame_metrics(
             continue
         defenders = frame_rows[(frame_rows["object_type"] == "Player") & (frame_rows["team_name"] == forechecking_team)]
         defenders_xy = _as_xy_array(defenders)
+        defenders_vxy = _as_velocity_array(defenders)
         if defenders_xy.size == 0:
             continue
 
-        p_carrier = pressure_at_point(defenders_xy, (carrier_x, carrier_y), config)
-        gx, gy = pressure_gradient(defenders_xy, (carrier_x, carrier_y), config)
+        p_carrier = pressure_at_point(defenders_xy, defenders_vxy, (carrier_x, carrier_y), config)
+        gx, gy = pressure_gradient(defenders_xy, defenders_vxy, (carrier_x, carrier_y), config)
         grad_mag = float(np.hypot(gx, gy))
 
         defending_right = team_defends_right(possessing_team, str(frame.period_label), game_meta, camera_lookup)
         targets = corridor_targets((carrier_x, carrier_y), defending_right)
         corridor_costs = {
-            name: integrated_corridor_pressure(defenders_xy, (carrier_x, carrier_y), target_xy, config)
+            name: integrated_corridor_pressure(defenders_xy, defenders_vxy, (carrier_x, carrier_y), target_xy, config)
             for name, target_xy in targets.items()
         }
         most_open_corridor = min(corridor_costs, key=corridor_costs.get)
@@ -219,14 +285,38 @@ def compute_episode_frame_metrics(
         else:
             funnel_strength = 0.0
 
-        compactness_area = high_pressure_area(defenders_xy, (carrier_x, carrier_y), config)
+        compactness_area = high_pressure_area(defenders_xy, defenders_vxy, (carrier_x, carrier_y), config)
         nearest_defender_dist = _nearest_defender_distance(defenders_xy, (carrier_x, carrier_y))
         defenders_near = _local_defender_count(defenders_xy, (carrier_x, carrier_y), config.nearby_defender_radius_ft)
 
         d = np.linalg.norm(defenders_xy - np.array([[carrier_x, carrier_y]]), axis=1)
+        contributions = _defender_pressure_contributions(defenders_xy, defenders_vxy, (carrier_x, carrier_y), config)
+        role_order = np.argsort(d)
+        f_indices = role_order[:3]
+        role_mask = np.zeros(len(d), dtype=bool)
+        role_mask[f_indices] = True
+
+        sorted_d = d[f_indices]
+        sorted_contrib = contributions[f_indices]
+        f1_distance = float(sorted_d[0]) if len(sorted_d) > 0 else np.nan
+        f2_distance = float(sorted_d[1]) if len(sorted_d) > 1 else np.nan
+        f3_distance = float(sorted_d[2]) if len(sorted_d) > 2 else np.nan
+        f1_pressure = float(sorted_contrib[0]) if len(sorted_contrib) > 0 else np.nan
+        f2_pressure = float(sorted_contrib[1]) if len(sorted_contrib) > 1 else np.nan
+        f3_pressure = float(sorted_contrib[2]) if len(sorted_contrib) > 2 else np.nan
+        role_total = np.nansum([f1_pressure, f2_pressure, f3_pressure])
+        if role_total > 0:
+            f1_share = f1_pressure / role_total
+            f2_share = f2_pressure / role_total
+            f3_share = f3_pressure / role_total
+        else:
+            f1_share = np.nan
+            f2_share = np.nan
+            f3_share = np.nan
+
         local_pressure_points = d <= config.local_pressure_radius_ft
         if np.any(local_pressure_points):
-            local_pressure_mean = float(np.mean(np.exp(-0.5 * (d[local_pressure_points] / config.sigma_ft) ** 2)))
+            local_pressure_mean = float(np.mean(contributions[local_pressure_points]))
         else:
             local_pressure_mean = 0.0
 
@@ -235,6 +325,7 @@ def compute_episode_frame_metrics(
         else:
             blue_line_x = -BLUE_LINE_X_ABS_FT
         pinchers = int(np.sum(np.abs(defenders_xy[:, 0] - blue_line_x) <= 7.0))
+        d_pinch_support = int(np.sum((np.abs(defenders_xy[:, 0] - blue_line_x) <= 7.0) & (~role_mask)))
 
         records.append(
             {
@@ -262,6 +353,16 @@ def compute_episode_frame_metrics(
                 "defenders_near_carrier": defenders_near,
                 "local_pressure_mean": local_pressure_mean,
                 "pinchers_near_blueline": pinchers,
+                "d_pinch_support_count": d_pinch_support,
+                "f1_distance": f1_distance,
+                "f2_distance": f2_distance,
+                "f3_distance": f3_distance,
+                "f1_pressure_contrib": f1_pressure,
+                "f2_pressure_contrib": f2_pressure,
+                "f3_pressure_contrib": f3_pressure,
+                "f1_share_pressure": f1_share,
+                "f2_share_pressure": f2_share,
+                "f3_share_pressure": f3_share,
                 "n_forecheckers": int(defenders_xy.shape[0]),
             }
         )
@@ -291,6 +392,16 @@ def aggregate_episode_features(frame_metrics: pd.DataFrame, episodes: pd.DataFra
         mean_defenders_near_carrier=("defenders_near_carrier", "mean"),
         mean_local_pressure=("local_pressure_mean", "mean"),
         mean_pinchers=("pinchers_near_blueline", "mean"),
+        mean_d_pinch_support=("d_pinch_support_count", "mean"),
+        mean_f1_distance=("f1_distance", "mean"),
+        mean_f2_distance=("f2_distance", "mean"),
+        mean_f3_distance=("f3_distance", "mean"),
+        mean_f1_pressure_contrib=("f1_pressure_contrib", "mean"),
+        mean_f2_pressure_contrib=("f2_pressure_contrib", "mean"),
+        mean_f3_pressure_contrib=("f3_pressure_contrib", "mean"),
+        mean_f1_share_pressure=("f1_share_pressure", "mean"),
+        mean_f2_share_pressure=("f2_share_pressure", "mean"),
+        mean_f3_share_pressure=("f3_share_pressure", "mean"),
     ).reset_index()
 
     threshold = frame_metrics["pressure_at_carrier"].quantile(0.75)

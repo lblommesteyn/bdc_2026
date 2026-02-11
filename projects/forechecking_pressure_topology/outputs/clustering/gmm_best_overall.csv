@@ -1,0 +1,2 @@
+covariance_type,n_components,n_obs,bic,aic,silhouette,calinski_harabasz,davies_bouldin,n_components_found,largest_component_weight,smallest_component_weight,weight_entropy
+full,6,1569,29824.977366061023,21696.59744316501,0.02267542280434136,215.29647739830637,3.09458067639495,6,0.30251702650092216,0.07147103719145978,1.6537944187126414

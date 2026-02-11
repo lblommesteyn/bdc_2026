@@ -9,12 +9,19 @@ This project turns forechecking pressure into a continuous spatial signal and bu
 - Computes frame-level pressure metrics around the puck carrier:
   - pressure intensity
   - pressure gradient
+  - acceleration-constrained anisotropic reachability
   - escape corridor cost (middle, strong boards, weak boards, behind net)
   - compactness / local pressure / pinch indicators
+- Adds role-aware support features:
+  - inferred `F1/F2/F3` pressure and distance contributions
+  - defense pinch support counts
+- Adds score-state context at episode start:
+  - score differential from forechecking perspective
+  - score-state bucket (leading/tied/trailing)
 - Aggregates to episode-level signatures.
 - Runs:
   - archetype clustering (`k-means`)
-  - predictive validation for D-zone turnovers vs baselines
+  - predictive validation for D-zone turnovers vs baselines and score-state-adjusted variants
 
 ## Run
 
@@ -56,4 +63,3 @@ Written to `projects/forechecking_pressure_topology/outputs`:
 - Episode segmentation is rule-based and intentionally transparent.
 - Pressure is currently ETA-weighted kernel pressure (interpretable baseline).
 - The pipeline is designed so you can swap in richer pressure models later.
-

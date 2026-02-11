@@ -6,15 +6,29 @@
       "model": "pressure_logreg",
       "n_obs": 1660,
       "features": "mean_pressure_at_carrier,peak_pressure_at_carrier,mean_gradient_mag,mean_funnel_to_boards,mean_open_corridor_cost,mean_compactness_area,mean_defenders_near_carrier,mean_local_pressure,mean_pinchers,share_time_high_pressure,corridor_closure_rate_3s",
-      "auc_mean": 0.7525429081134484,
-      "auc_std": 0.02257909246328774
+      "auc_mean": 0.728869172598378,
+      "auc_std": 0.03264738090205432
     },
     {
       "model": "pressure_gb",
       "n_obs": 1660,
       "features": "mean_pressure_at_carrier,peak_pressure_at_carrier,mean_gradient_mag,mean_funnel_to_boards,mean_open_corridor_cost,mean_compactness_area,mean_defenders_near_carrier,mean_local_pressure,mean_pinchers,share_time_high_pressure,corridor_closure_rate_3s",
-      "auc_mean": 0.7575311646447982,
-      "auc_std": 0.019044433383197636
+      "auc_mean": 0.7420333946955625,
+      "auc_std": 0.02427577000465763
+    },
+    {
+      "model": "pressure_role_logreg",
+      "n_obs": 1569,
+      "features": "mean_pressure_at_carrier,peak_pressure_at_carrier,mean_gradient_mag,mean_funnel_to_boards,mean_open_corridor_cost,mean_compactness_area,mean_defenders_near_carrier,mean_local_pressure,mean_pinchers,share_time_high_pressure,corridor_closure_rate_3s,mean_d_pinch_support,mean_f1_distance,mean_f2_distance,mean_f3_distance,mean_f1_pressure_contrib,mean_f2_pressure_contrib,mean_f3_pressure_contrib,mean_f1_share_pressure,mean_f2_share_pressure,mean_f3_share_pressure",
+      "auc_mean": 0.7421702961903248,
+      "auc_std": 0.01835692415697486
+    },
+    {
+      "model": "pressure_role_score_logreg",
+      "n_obs": 1569,
+      "features": "mean_pressure_at_carrier,peak_pressure_at_carrier,mean_gradient_mag,mean_funnel_to_boards,mean_open_corridor_cost,mean_compactness_area,mean_defenders_near_carrier,mean_local_pressure,mean_pinchers,share_time_high_pressure,corridor_closure_rate_3s,mean_d_pinch_support,mean_f1_distance,mean_f2_distance,mean_f3_distance,mean_f1_pressure_contrib,mean_f2_pressure_contrib,mean_f3_pressure_contrib,mean_f1_share_pressure,mean_f2_share_pressure,mean_f3_share_pressure,score_diff_forechecking_start,forechecking_score_state (one-hot)",
+      "auc_mean": 0.7401712764266413,
+      "auc_std": 0.015382398379560552
     },
     {
       "model": "baseline_nearest_distance",
@@ -27,8 +41,15 @@
       "model": "baseline_counts",
       "n_obs": 1665,
       "features": "mean_defenders_near_carrier,mean_pinchers",
-      "auc_mean": 0.6185700008269995,
-      "auc_std": 0.03133152380025674
+      "auc_mean": 0.618672041643326,
+      "auc_std": 0.0312535335338814
+    },
+    {
+      "model": "pressure_role_score_adjusted_logreg",
+      "n_obs": 1569,
+      "features": "adj_mean_pressure_at_carrier,adj_peak_pressure_at_carrier,adj_mean_gradient_mag,adj_mean_funnel_to_boards,adj_mean_open_corridor_cost,adj_mean_compactness_area,adj_mean_defenders_near_carrier,adj_mean_local_pressure,adj_mean_pinchers,adj_share_time_high_pressure,adj_corridor_closure_rate_3s,adj_mean_d_pinch_support,adj_mean_f1_distance,adj_mean_f2_distance,adj_mean_f3_distance,adj_mean_f1_pressure_contrib,adj_mean_f2_pressure_contrib,adj_mean_f3_pressure_contrib,adj_mean_f1_share_pressure,adj_mean_f2_share_pressure,adj_mean_f3_share_pressure,score_diff_forechecking_start,forechecking_score_state (one-hot)",
+      "auc_mean": 0.7385986594606051,
+      "auc_std": 0.009681320427848826
     }
   ]
 }

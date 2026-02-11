@@ -19,7 +19,7 @@ class ForecheckPipelineConfig:
     output_dir: str = "projects/forechecking_pressure_topology/outputs"
     max_games: int | None = None
     max_episode_seconds: float = 25.0
-    frame_stride: int = 15
+    frame_stride: int = 20
     n_clusters: int = 4
 
 
@@ -121,4 +121,3 @@ def run_pipeline(config: ForecheckPipelineConfig) -> dict[str, str]:
     with (out_dir / "run_summary.json").open("w", encoding="utf-8") as f:
         json.dump(summary, f, indent=2)
     return summary
-

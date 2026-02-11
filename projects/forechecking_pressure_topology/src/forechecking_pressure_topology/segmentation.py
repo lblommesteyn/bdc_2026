@@ -42,6 +42,11 @@ class ForecheckEpisode:
     timeout: int
     exit_lane: str
     start_is_5v5: int
+    home_goals_start: int
+    away_goals_start: int
+    score_diff_possessing_start: int
+    score_diff_forechecking_start: int
+    forechecking_score_state: str
 
 
 def _is_5v5(row: pd.Series) -> bool:
@@ -102,6 +107,23 @@ def _to_episode_record(episode: ForecheckEpisode) -> dict[str, Any]:
     return asdict(episode)
 
 
+def _safe_goal_value(value: object) -> int:
+    if pd.isna(value):
+        return 0
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return 0
+
+
+def _score_state_from_diff(score_diff: int) -> str:
+    if score_diff > 0:
+        return "leading"
+    if score_diff < 0:
+        return "trailing"
+    return "tied"
+
+
 def segment_forecheck_episodes(
     events_df: pd.DataFrame,
     game_meta: GameMeta,
@@ -140,6 +162,14 @@ def segment_forecheck_episodes(
 
         possessing_team = start_team
         forechecking_team = game_meta.home_team if possessing_team == game_meta.away_team else game_meta.away_team
+        home_goals_start = _safe_goal_value(start_row.get("Home_Team_Goals"))
+        away_goals_start = _safe_goal_value(start_row.get("Away_Team_Goals"))
+        if possessing_team == game_meta.home_team:
+            score_diff_possessing_start = home_goals_start - away_goals_start
+            score_diff_forechecking_start = away_goals_start - home_goals_start
+        else:
+            score_diff_possessing_start = away_goals_start - home_goals_start
+            score_diff_forechecking_start = home_goals_start - away_goals_start
 
         end_idx = i
         end_row = start_row
@@ -229,6 +259,11 @@ def segment_forecheck_episodes(
             timeout=int(outcome == "timeout"),
             exit_lane=_exit_lane(float(end_row.get("Y_Coordinate", np.nan))),
             start_is_5v5=1,
+            home_goals_start=home_goals_start,
+            away_goals_start=away_goals_start,
+            score_diff_possessing_start=score_diff_possessing_start,
+            score_diff_forechecking_start=score_diff_forechecking_start,
+            forechecking_score_state=_score_state_from_diff(score_diff_forechecking_start),
         )
         episodes.append(_to_episode_record(episode))
 
@@ -239,4 +274,3 @@ def segment_forecheck_episodes(
     if not out.empty:
         out = out.sort_values(["game_id", "start_elapsed_seconds"]).reset_index(drop=True)
     return out
-
