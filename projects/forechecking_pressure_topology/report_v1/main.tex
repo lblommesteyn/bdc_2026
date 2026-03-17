@@ -16,20 +16,22 @@
 
 \title{\textbf{Forechecking Pressure Topology}\\A Continuous Geometry Framework for Retrieval Denial}
 \author{Ryan Dajani, Luke Blommesteyn, Eric Schilha, and Yashna Garg}
-\date{February 11, 2026}
+\date{}
 
 \begin{document}
 \maketitle
 \vspace{-1.1em}
 
 \begin{abstract}
-Forechecking systems are typically communicated with discrete tactical labels, but retrieval denial is produced by continuous spatial interactions over time. We introduce \textbf{Retrieval Denial Topology (RDT)}, a carrier-centric framework that quantifies pressure intensity, corridor availability, first-3-second lane closure, and role-layer coordination (F1/F2/F3 with D-pinch support). Using all 10 Big Data Cup 2026 public games at 5v5, we segment 2{,}086 defensive-zone retrieval episodes and evaluate 14{,}921 tracking frames. The framework shows a monotonic pressure-response relationship for denial (46.1\% in the lowest pressure decile to 64.1\% in the highest), and materially outperforms nearest-defender/count baselines for D-zone turnover prediction (best AUC 0.742 vs 0.640 nearest-defender baseline). We further provide coach-native archetypes, score-state context splits, and team process benchmarking that support practical pre-scout and clip-review deployment.
+Forechecking systems are usually described with discrete labels, but retrieval denial is created by continuous spatial pressure over time. We introduce \textbf{Retrieval Denial Topology (RDT)}, a carrier-centric framework that measures pressure intensity, exit-lane availability, 3-second lane closure, and layered support from the first, second, and third forecheckers. Using all 10 Big Data Cup 2026 public games at 5v5, we segment 2{,}086 defensive-zone retrieval episodes and evaluate 14{,}921 tracking frames. Higher-pressure retrievals are consistently harder to escape: denial rates rise from 46.1\% in the lowest pressure decile to 64.1\% in the highest. RDT also predicts defensive-zone turnovers more accurately than simpler proximity-based baselines, improving area under the ROC curve from 0.640 for the nearest-defender model to 0.742 for the best topology model. We further provide coach-native archetypes, score-state splits, and team process benchmarking to support pre-scouting and clip review.
 \end{abstract}
 
 \section{Introduction}
-Forechecking decisions are often discussed as discrete systems (for example, 1-2-2 or 2-1-2), while execution quality is continuous and timing-dependent. On defensive-zone retrievals, the coaching problem is not only ``which system was called,'' but how quickly viable exit lanes are removed and whether pressure layers are synchronized. Prior work on zone entries and defensive structure has relied largely on event-level counts; the spatial geometry of pressure arrival is rarely modeled explicitly.
+This paper asks a direct question: \textbf{how does forechecking pressure influence defensive-zone retrieval failure, and can a spatial pressure-topology model predict turnovers more accurately than traditional proximity-based approaches?}
 
-This paper uses a single organizing hypothesis: \textbf{retrieval denial is lane-removal dynamics}. We model this dynamic with a carrier-centric pressure topology and evaluate whether it is simultaneously interpretable for coaching and predictive for high-value defensive outcomes. The key claim is that a defender four feet closer to the carrier but with poor heading alignment contributes less effective pressure than one six feet away but closing on axis, a distinction invisible to count-based approaches.
+Forechecking decisions are often discussed as discrete systems (for example, 1-2-2 or 2-1-2), while execution quality is continuous and timing-dependent. On defensive-zone retrievals, the coaching problem is not only ``which system was called,'' but how quickly viable exit lanes are removed and whether pressure layers are synchronized. Here, \textbf{synchronized pressure layers} means the first forechecker pressures the puck immediately, while the second and third forecheckers arrive quickly enough to remove the carrier's next-best outlets before the play can escape. Prior work on zone entries and defensive structure has relied largely on event-level counts; the spatial geometry of pressure arrival is rarely modeled explicitly.
+
+This paper uses a single organizing hypothesis: \textbf{retrieval denial is lane-removal dynamics}. We model this dynamic with a carrier-centric pressure topology and evaluate whether it is simultaneously interpretable for coaching and predictive for high-value defensive outcomes. The key claim is that a defender four feet closer to the carrier but with poor skating angle contributes less effective pressure than one six feet away but closing directly into the play, a distinction invisible to count-based approaches.
 
 \section{Data and Episode Construction}
 \subsection{Dataset}
@@ -65,7 +67,7 @@ At each sampled frame, the likely puck carrier is inferred as the nearest offens
 \[
 P(x)=\sum_i \exp\!\left(-\frac{\|x-x_i\|^2}{2\sigma_i^2}\right)\exp\!\left(-\frac{\mathrm{ETA}_i(x)}{\tau}\right).
 \]
-The ETA term uses a bounded-acceleration reachability approximation so that defenders who are physically closer but moving away contribute less. The spread parameter $\sigma_i$ is made anisotropic by the defender's heading: a defender aligned toward the carrier has a narrower, more intense pressure footprint, while one moving perpendicular or away has a wider, attenuated one. This jointly rewards proximity, arrival speed, and directional commitment; all three are necessary for effective lane denial.
+This pressure score is our proposed modeling choice rather than a league-standard formula: it combines distance, estimated arrival time, and skating direction into one continuous measure of how disruptive each defender is to the carrier. The ETA term uses a \textbf{bounded-acceleration reachability approximation}, meaning we estimate how fast a defender can realistically reach the carrier if acceleration stays within physically plausible limits. The spread parameter $\sigma_i$ is direction-dependent: a defender skating toward the carrier has a tighter, more concentrated pressure footprint, while one moving across or away from the play has a broader, weaker footprint. This jointly rewards proximity, arrival speed, and directional commitment; all three are necessary for effective lane denial.
 
 \begin{figure}[H]
     \centering
@@ -75,13 +77,28 @@ The ETA term uses a bounded-acceleration reachability approximation so that defe
 \end{figure}
 
 \subsection{Corridor Costs and Lane Closure}
-Four exit corridors are defined: middle lane, strong-side boards, weak-side boards, and behind the net. For each corridor, the cost is computed by integrating the pressure field along the canonical exit path from the carrier's current position. The \textbf{cheapest corridor} (the minimum cost across the four options) represents the carrier's best instantaneous escape route. \textbf{3-second closure rate} is the drop in cheapest-corridor cost between $t=0$ and $t+3$s of a retrieval: a large drop means defenders removed the best exit option quickly, which is the mechanism behind forced dump-outs and turnovers.
+Four exit corridors are defined: middle lane, strong-side boards, weak-side boards, and behind the net. For each corridor, the cost is computed by integrating the pressure field along the canonical exit path from the carrier's current position. The \textbf{cheapest corridor} (the minimum cost across the four options) represents the carrier's best instantaneous escape route. We summarize how pressure evolves with \textbf{3-second closure}, defined as cheapest-corridor cost at $t+3$s minus cheapest-corridor cost at $t=0$. Positive values mean the best lane became harder to use over the next three seconds; negative values mean the carrier found or preserved an easier exit. We use a 3-second window because it covers the first decisive forecheck wave in most retrievals and keeps the metric anchored to the same early-decision window across episodes.
 
 \subsection{Episode-Level Features, Archetypes, and Validation}
-Frame-level signals are aggregated to episode signatures: mean and peak pressure, corridor costs and closure, compactness, role-geometry distances and pressure shares (F1/F2/F3), D-pinch support count, and score-state context. Archetypes are obtained by k-means ($k=4$) in the pressure-role feature space and labeled by their tactical character. The supervised prediction target is \textbf{turnover in defensive zone}, the highest-leverage denial event. Denial rate (turnover + forced dump) is retained as the process lens for coaching-facing interpretation. Validation compares pressure-only and pressure+role models against nearest-distance and defender-count baselines using stratified cross-validated AUC.
+Frame-level signals are aggregated to episode signatures: mean and peak pressure, corridor costs and closure, compactness, role-geometry distances and pressure shares (F1/F2/F3), D-pinch support count, and score-state context. Here, F1/F2/F3 denote the first, second, and third forecheckers in the pressure sequence. Archetypes are obtained by k-means ($k=4$) in the pressure-role feature space and labeled by their tactical character. The supervised prediction target is \textbf{turnover in defensive zone}, the most valuable denial event because it creates immediate possession gain. Denial rate (turnover + forced dump) is retained as the process lens for coaching-facing interpretation. Validation compares pressure-only and pressure+role models against nearest-distance and defender-count baselines using stratified cross-validated \textbf{area under the ROC curve (AUC)}.
 
 \section{Results}
 \subsection{Retrieval Geography and Pressure Sanity Check}
+\begin{figure}[H]
+    \centering
+    \begin{minipage}[t]{0.49\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{figures/fig_outcome_distribution.png}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{0.49\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{figures/fig_pressure_decile_denial.png}
+    \end{minipage}
+    \caption{Outcome mix (left) and pressure-response sanity check with decile means and 95\% CI (right). Denial rises from 46.1\% to 64.1\% across pressure deciles 1--10; in other words, high-pressure retrievals are much less likely to escape cleanly.}
+    \label{fig:outcome_pressure}
+\end{figure}
+
 \begin{figure}[H]
     \centering
     \begin{minipage}[t]{0.49\textwidth}
@@ -97,28 +114,13 @@ Frame-level signals are aggregated to episode signatures: mean and peak pressure
     \label{fig:geo_maps}
 \end{figure}
 
-\begin{figure}[H]
-    \centering
-    \begin{minipage}[t]{0.49\textwidth}
-        \centering
-        \includegraphics[width=\textwidth]{figures/fig_outcome_distribution.png}
-    \end{minipage}
-    \hfill
-    \begin{minipage}[t]{0.49\textwidth}
-        \centering
-        \includegraphics[width=\textwidth]{figures/fig_pressure_decile_denial.png}
-    \end{minipage}
-    \caption{Outcome mix (left) and pressure-response sanity check with decile means and 95\% CI (right). Denial rises from 46.1\% to 64.1\% across pressure deciles 1--10; controlled exits fall correspondingly, validating pressure as a directional mechanism signal.}
-    \label{fig:outcome_pressure}
-\end{figure}
-
 Top pressure-quartile denial is 62.6\% versus 46.7\% in the bottom three quartiles, while controlled exits fall from 46.8\% to 32.4\%. The monotonic decile response, without the inflection points common to count-based signals, supports pressure quality as a smooth causal pathway to denial rather than a threshold effect.
 
 \subsection{Mechanistic Illustration (Single Episode)}
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.74\textwidth]{figures/fig_micro_play_topology.png}
-    \caption{A single illustrative retrieval episode. \textit{Left:} carrier path on the rink section (colour = elapsed time; black circle = t=0 start, red X = t=3s end). The green dashed arrow shows the cheapest available exit corridor at t=0 and its cost; the carrier's actual path diverges from it as defenders close the lane. \textit{Right:} cheapest corridor cost over the 3s window (bold line) with the full range of all four lanes shaded grey. The red bracket shows the 3-second closure: how much the best exit tightened as defenders converged. A large closure is the direct mechanism behind forced dump-outs and turnovers.}
+    \caption{A single illustrative retrieval episode. \textit{Left:} carrier path on the rink section (colour = elapsed time; black circle = t=0 start, red X = t=3s end). The green dashed arrow shows the cheapest available exit corridor at t=0 and its cost; the carrier's actual path diverges from it as defenders close the lane. \textit{Right:} cheapest corridor cost over the 3s window (bold line) with the full range of all four lanes shaded grey. The grey band shows how much the escape options vary within this one episode, not a league-wide trend. The red bracket shows 3-second closure: how much the best exit tightened as defenders converged.}
     \label{fig:micro_play}
 \end{figure}
 
@@ -155,7 +157,7 @@ Heavy Disrupt (C3) & 476 & 28.8 & 27.1 & 38.2 \\
     \label{fig:cluster_panels}
 \end{figure}
 
-\textbf{Tight Squeeze} is the highest-denial archetype (62.4\% combined): it achieves this through simultaneous carrier pressure and compressed F2/F3 support that blocks secondary exits. \textbf{Heavy Disrupt} produces sustained pressure volume at a wider physical spread, yielding strong forced-dump rates. \textbf{Light Pressure} is the most permissive, with low pressure, slow closure, and the highest clean-exit rate (52.9\%), making it the clearest coaching target for improvement. \textbf{Spread Support} sits in the middle: reasonable pressure but incomplete lane removal. The topology phase-space (Figure~\ref{fig:relative_topology}, right) maps these archetypes onto two mechanical axes: how open the best exit lane is at episode start and how quickly that lane closes; the highest-denial structures occupy the \textit{suffocating} quadrant, where a partially closed exit is further tightened within the critical 3-second window.
+\textbf{Tight Squeeze} is the highest-denial archetype (62.4\% combined): it pairs strong carrier pressure with compressed F2/F3 support that removes secondary exits. \textbf{Heavy Disrupt} produces sustained pressure at a wider spread, yielding strong forced-dump rates. \textbf{Light Pressure} is the most permissive, with low pressure, slow closure, and the highest clean-exit rate (52.9\%), making it the clearest coaching target for improvement. \textbf{Spread Support} sits in the middle: reasonable pressure but incomplete lane removal. The topology phase-space (Figure~\ref{fig:relative_topology}, right) reduces the picture to two coaching questions: how open is the best exit lane at the start, and how quickly does that lane close? The highest-denial structures occupy the \textit{suffocating} quadrant, where an already-limited option gets tighter within the critical 3-second window.
 
 \begin{figure}[H]
     \centering
@@ -187,7 +189,9 @@ Heavy Disrupt (C3) & 476 & 28.8 & 27.1 & 38.2 \\
     \label{fig:lane_role}
 \end{figure}
 
-Global normalized role composition is approximately F1 59.6\%, F2 27.8\%, F3 12.6\%. High-denial archetypes maintain stronger F2 and F3 contribution relative to the field; the first forechecker alone cannot manufacture denial, as it requires coordinated layering from the second and third waves. This layering structure implies that coaching interventions targeting only F1 speed underestimate the contribution ceiling: when F2 closes a secondary exit within 2--3 seconds and F3 eliminates the behind-net option, denial probability compounds beyond what any single forechecker can achieve.
+Global normalized role composition is approximately F1 59.6\%, F2 27.8\%, F3 12.6\%. High-denial archetypes maintain stronger F2 and F3 contribution relative to the field; the first forechecker alone cannot manufacture denial, because denial depends on coordinated layering from the second and third waves.
+
+\textbf{Coaching takeaway:} improving only F1 pressure will understate the true ceiling. Denial rises most when F2 closes the secondary outlet within 2--3 seconds and F3 removes the behind-net release, allowing pressure to compound across layers rather than relying on a single forechecker.
 
 \subsection{Score-State Context, Closure Dynamics, and Predictive Performance}
 \begin{figure}[H]
@@ -206,7 +210,7 @@ Global normalized role composition is approximately F1 59.6\%, F2 27.8\%, F3 12.
         \centering
         \includegraphics[width=\textwidth]{figures/fig_model_auc.png}
     \end{minipage}
-    \caption{Score-state denial composition (left); closure-response by decile with 95\% CI (center); model AUC comparison (right, best method highlighted). Trailing teams show higher forced-dump rates, consistent with desperation pressure that sacrifices structure. Topology and role-aware models produce substantial lift over distance/count baselines.}
+    \caption{Score-state denial composition (left); closure-response by decile with 95\% CI (center); model AUC comparison (right, best method highlighted). Trailing teams show higher forced-dump rates, consistent with desperation pressure that sacrifices structure. Faster positive 3-second closure tracks higher denial, and topology models outperform distance/count baselines.}
     \label{fig:context_closure_model}
 \end{figure}
 
@@ -230,7 +234,7 @@ Defender-count baseline & 0.619 & 0.031 & 1,665 \\
 \label{tab:predictive}
 \end{table}
 
-The best topology model achieves $+$0.102 AUC lift over the nearest-defender baseline. The gap between pressure-only (0.729) and pressure+role (0.742) further confirms that role-layer geometry adds signal beyond aggregate pressure volume.
+The best model in Table~\ref{tab:predictive} is the pressure+role logistic model at 0.742 AUC. Relative to the nearest-defender baseline (0.640), this is a $+$0.102 absolute lift, or roughly a 16\% improvement on the AUC scale. The smaller gain from 0.729 to 0.742 shows that \textbf{role-layer geometry} adds useful signal beyond total pressure alone: knowing where the second and third forecheckers are positioned improves prediction, not just knowing that pressure exists. Adding score state changes performance only negligibly (0.742 to 0.740), suggesting the spatial pressure structure is the primary driver.
 
 \subsection{Team Process Benchmarking}
 \begin{figure}[H]
@@ -248,15 +252,17 @@ The best topology model achieves $+$0.102 AUC lift over the nearest-defender bas
     \label{fig:team_panels}
 \end{figure}
 
-Team-level TFPI is defined as $\mathrm{TFPI}=100\cdot(\mathrm{TurnoverRate}+0.5\cdot\mathrm{ForcedDumpRate}-\mathrm{ControlledExitRate})$, where the 0.5 weight treats a forced dump as a partial denial (the carrier is displaced but transition value is lower than an immediate turnover). Team I (11.6) and Team L (9.8) lead; Team K ($-$6.3), Team B ($-$4.4), and Team E ($-$4.0) sit lowest.
+Team-level TFPI (\textbf{Team Forecheck Pressure Index}) is defined as $\mathrm{TFPI}=100\cdot(\mathrm{TurnoverRate}+0.5\cdot\mathrm{ForcedDumpRate}-\mathrm{ControlledExitRate})$. Higher TFPI is better: it rewards retrievals that end in turnovers, gives partial credit to forced dump-outs, and penalizes clean exits against. We use a 0.5 weight because a forced dump-out is meaningfully better than allowing a controlled exit, but not as valuable as winning the puck outright with a turnover. Team I (11.6) and Team L (9.8) lead; Team K ($-$6.3), Team B ($-$4.4), and Team E ($-$4.0) sit lowest.
 
 \section{Discussion and Operational Deployment}
-The central empirical finding is that denial is driven by \textit{lane-removal geometry}, not nearest-defender distance alone. The coaching implication is direct: teams that generate high pressure volume but fail to close the cheapest corridor in the first three seconds will systematically allow more clean exits. In practice this supports a clip-review workflow organized around (1) which corridor the carrier identified as cheapest at retrieval start, (2) whether F2/F3 layers closed that corridor within three seconds, and (3) whether D-pinch support was active. Because all signals are computed per-episode from tracking, the system supports line-matching and role-accountability analysis under score-state context. A natural extension of this topology applies to zone entries from the offensive side, where corridor costs computed from the possessing team's perspective would yield a symmetric entry-success predictor and enable a unified spatial framework across both phases of the neutral-zone transition. Linking denial quality to downstream transition value would sharpen the outcome metric: a forced dump-out that cedes a controlled neutral-zone carry is materially different from one that produces an immediate D-zone turnover, and weighting denial events by the expected-goal delta of the subsequent possession chain converts RDT from a process metric into a decision-quality signal. For front-office evaluation, this chain from corridor-closure geometry to expected-goal consequences provides a principled basis for comparing forecheck line combinations on a common value scale, replacing event-rate proxies with a direct measure of how much structured pressure translates into sustainable possession denial.
+The central empirical finding is that denial is driven by \textit{lane-removal geometry}, not nearest-defender distance alone. Three action points follow. First, coaches should evaluate retrieval pressure by asking whether the carrier's best lane became harder within the first three seconds, not just whether F1 arrived on time. Second, layered support matters: the best denial outcomes occur when F2 and F3 remove secondary exits quickly enough to trap the carrier after first contact. Third, team benchmarking should focus on process quality, because the topology signal remains predictive even when score state is added and has only negligible incremental value.
+
+In practice, this supports a clip-review workflow organized around (1) which corridor the carrier identified as cheapest at retrieval start, (2) whether that lane closed within three seconds, and (3) whether secondary support and D-pinch help arrived in time. Because all signals are computed per episode from tracking, the system supports line-matching, role accountability, and pre-scouting. A natural extension is to weight denial events by downstream transition value so that future versions of RDT distinguish between ``good'' dump-outs and truly damaging turnovers on a common value scale.
 
 \section{Limitations}
-Four constraints apply: role labels are inferred from positional proximity (nearest offensive skater to puck = carrier) and require manual video audit for confirmation; this inference is most susceptible to error in screening and tight-cycling sequences where multiple offensive players converge simultaneously, though such situations are less prevalent in the confined D-zone retrieval episodes studied here than in open-play cycling contexts, and the expected misclassification rate is modest relative to the episode sample. Acceleration and heading estimates inherit noise from the underlying tracking system. Episode segmentation is rule-based rather than learned from tagged possession chains. The supervised endpoint is event occurrence rather than downstream expected-goal or transition-value outcome.
+Four constraints apply: role labels are inferred from positional proximity (nearest offensive skater to puck = carrier) and require manual video audit for confirmation; this inference is most susceptible to error in screening and tight-cycling sequences where multiple offensive players converge simultaneously, though such situations are less prevalent in the confined D-zone retrieval episodes studied here than in open-play cycling contexts, and the expected misclassification rate is modest relative to the episode sample. Acceleration and heading estimates inherit noise from the underlying tracking system. Corridor costs treat lane difficulty in a common pressure-based currency, but the four exits are not equal in downstream value; a future extension should weight lanes by the transition value they typically create when completed. Episode segmentation is rule-based rather than learned from tagged possession chains. The supervised endpoint is event occurrence rather than downstream expected-goal or transition-value outcome.
 
 \section{Conclusion}
-Forechecking success on retrievals is better modeled as a continuous topology of pressure, corridor availability, and closure dynamics than as a discrete system label. Retrieval Denial Topology produces interpretable mechanism-level signals and meaningful predictive lift over standard distance and count baselines. The framework is suitable for practical coaching workflow integration and can be extended to transition-value modeling in future work.
+Forechecking success on retrievals is better modeled as a continuous topology of pressure, corridor availability, and closure dynamics than as a discrete system label. Retrieval Denial Topology produces interpretable coaching signals and improves turnover prediction over standard distance and count baselines. The practical message is simple: strong forechecks are layered forechecks, and the decisive window is the first three seconds after retrieval.
 
 \end{document}
