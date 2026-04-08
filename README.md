@@ -17,7 +17,7 @@ How does forechecking pressure influence defensive-zone retrieval failure, and c
 
 ## Why This Project Exists
 
-Forechecking is often described with system labels like `1-2-2` or `2-1-2`, but retrieval denial is driven by continuous spatial pressure: who arrives first, who closes the second option, and how quickly the carrier's best escape lane disappears.
+Forechecking is often described with system labels like `1-2-2` or `2-1-2`, but the retrieval denial is driven by continuous spatial pressure: who arrives first, who closes the second option, and how quickly the carrier's best escape lane disappears.
 
 Our framework, **Retrieval Denial Topology (RDT)**, turns that sequence into measurable signals:
 
